@@ -1,0 +1,84 @@
+<activity id="1679" moduleid="441522" modulename="lesson" contextid="1229911">
+  <lesson id="1679">
+    <course>5197</course>
+    <name>Assessment</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="6922">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Assessment</title>
+        <contents>&lt;h3&gt;&lt;span&gt;Finding the Right Problem&lt;/span&gt;&lt;/h3&gt;&lt;h3&gt;&lt;span&gt;Choose 1&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Which comes first:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;   Select an option         &lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;   Do the thing right      &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;   Do the right thing      &lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Multiple Choice&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;HMW stands for?&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;How might warriors&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;What would Jesus do&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;How might we&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;How maybe works&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;&lt;span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;h3&gt;&lt;span&gt;Multiple Choice&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Choose the best HMW question:&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;HMW find a vehicle to drive us to school?&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;HMW change the school system so attendance is not needed?&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;HMW help students to attend school when they are not mobile?&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Multiple Choice&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Why do we say "might" in "how might we...?"&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;because we don't know the answer&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;because 'might is right'&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;because 'might' leaves no options on the table&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;because 'might' encourages many different ideas&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span&gt;—------------------------------------------------------------------------&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Intro to Ideation&lt;/span&gt;&lt;/h3&gt;&lt;h3&gt;&lt;span&gt;Tick the box(es)&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Choose all that apply: What are some of the negative outcomes from traditional brainstorming?&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;only the loudest voices get heard&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;popularity can boas decision-making&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;everything is better when done in silence&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;status can affect decision-making&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;&lt;span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;h3&gt;&lt;span&gt;Tick the box(es)&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Choose all that apply: Which rules DO NOT apply in ideation?&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;have a closed mind&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;be present&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;all ideas are good&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;always have your phone&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;build on other's ideas&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;use hierarchy to influence&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;&lt;span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;h3&gt;&lt;span&gt;Choose 1&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Choose the right ending to finish the sentence: This is not about thinking outside the box, it is about understanding that...&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;       Select an option  &lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;  we are all in the same box together.       &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;  some people never get out of the box.     &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;  there is no box.       &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;  this is a magic box where weird stuff happens.     &lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;—----------------------------------------------------------------------------&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Turning Ideas into Concepts&lt;/span&gt;&lt;/h3&gt;&lt;h3&gt;&lt;span&gt;Choose 1&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Organising your ideas is done:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;       Select an option      &lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt; after you have come up with a concept      &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt; before you have come up with a concept      &lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;&lt;span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;h3&gt;&lt;span&gt;Choose 1&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;T&lt;/span&gt;&lt;span&gt;he upper right-hand quadrant of the Prioritization Matrix is…&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;       Select an option     &lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;a quick win            &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;maybe consider doing            &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;thankless/low value work            ‘&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;a major project      &lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;&lt;span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;h3&gt;&lt;span&gt;Multiple Choice&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;What is the last step in actually creating a concept to help solidify it?&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Voting&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Storyboarding&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Prioritising&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ideating&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;&lt;span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;h3&gt;&lt;span&gt;Where in the photo?&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Which of these is the most popular idea? &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[this element was a photo where a dot can be placed on the right spot] For some reason, this is not working in the course at the moment]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;—-------------------------------------------------------------&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;REFLECT ON THESE 2 PROMPTS&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;1) How do you feel in traditional brainstorming sessions? Is it a problem for you? Do you feel heard? Are you usually silent? etc. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;2) What were your 2 key takeaways from Module 3? - you can have more if you like!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Your response must be between 75 and 1000 words.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="14827">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Assessment</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

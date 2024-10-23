@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 import re
 
 # Define the input HTML file and the output folder
-input_file_path = 'SDSModule1Foundations.html'  # The HTML file to be processed
+input_file_path = 'SDSModule3CreatingSolutions.html'  # The HTML file to be processed
 
 # Load the HTML file
 with open(input_file_path, 'r', encoding='utf-8') as file:
@@ -33,65 +33,65 @@ for element in soup.body.children:
 if current_lesson:
     lessons.append(current_lesson)
 
-
-
 # Save each lesson into separate HTML files in the same directory
 for i, lesson in enumerate(lessons):
-    ####################
-    with open('lesson-template.xml', encoding='utf-8') as f:
-        tree = ET.parse(f)
-        root = tree.getroot()
+
+    # Break before the last lesson which is the assignment
+    if i == len(lessons):
+        break
+
+    # Read xml template
+    with open('moodle_lesson_template.xml', encoding='utf-8') as f:
+        tree_f = ET.parse(f)
+        root_f = tree_f.getroot()
+
+    with open('moodle_grades_template.xml', encoding='utf-8') as g:
+        tree_g = ET.parse(g)
+        root_g = tree_g.getroot()
+
 
     title = ""
     contents = ""
     j = 0
-    ####################
 
     for element in lesson:
-        #lesson_soup.body.append(element)
         if j == 0:
-            title = str(element)
+            title = str(element) # Title is the first element
         else:
             contents = contents + str(element)
-
         j = j + 1
 
-    title = re.sub(r'\s*class="[^"]*"', '', title)
-    title = re.sub(r'\s*id="[^"]*"', '', title)
-    title = re.sub(r'Lesson \d+: ', '', title)
+    title = re.sub(r'\s*class="[^"]*"', '', title) # Remove class attributes
+    title = re.sub(r'\s*id="[^"]*"', '', title) # Remove id attributes
+    title = re.sub(r'Lesson \d+: ', '', title) # Remove "Lesson x:" text
+    title = re.sub(r'<[^>]*>', '', title) # Remove all html tags
 
     contents = re.sub(r'\s*class="[^"]*"', '', contents)
     contents = re.sub(r'\s*id="[^"]*"', '', contents)
+    contents = re.sub(r'\s*style="[^"]*"', '', contents)
 
-    for elem in root.iter():
+    # insert content to lesson.xml
+    for elem in root_f.iter():
         try:
-
             elem.text = elem.text.replace('#TITLE#', title)
             elem.text = elem.text.replace('#CONTENTS#', contents)
         except AttributeError:
             pass
-    tree.write('C:\\Users\\elmin\\Documents\\Metropolia\\S-24-MoodleProjekti\\Test\\html-to-xml\\output.xml',
-               encoding='utf-8')
-    break
-    """
-    # Create a new soup object to replicate the structure of the original file
-    lesson_soup = BeautifulSoup(str(soup), 'html.parser')
 
-    # Clear the body content from the replicated structure
-    lesson_soup.body.clear()
-
-    # Add the lesson content to the new body's structure
-    for element in lesson:
-        lesson_soup.body.append(element)
-
-    # Determine the lesson title or a fallback filename
-    lesson_title = lesson[0].get_text().strip().replace(' ', '_').replace(':', '').replace('/', '')[
-                   :50]  # Generate a safe file name
-    file_name = f'{lesson_title}_lesson_{i + 1}.html'
-
-    # Write the lesson HTML to a file in the current directory
+    file_name = "outputs\\lesson_{0}.xml".format(i + 1)
     with open(file_name, 'w', encoding='utf-8') as output_file:
-        output_file.write(str(lesson_soup.prettify()))  # Prettify ensures proper HTML formatting
-    """
-print("Lessons have been saved to the current directory with the original structure.")
+        tree_f.write(file_name, encoding='utf-8')
+
+    # replace title in grades.xml
+    for elem in root_g.iter():
+        try:
+            elem.text = elem.text.replace('#TITLE#', title)
+        except AttributeError:
+            pass
+
+    file_name = "outputs\\lesson_{0}_grades.xml".format(i + 1)
+    with open(file_name, 'w', encoding='utf-8') as output_file:
+        tree_g.write(file_name, encoding='utf-8')
+
+print("Lessons have been saved as xml files")
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<activity id="1662" moduleid="440879" modulename="lesson" contextid="1227482">
-  <lesson id="1662">
-    <course>5196</course>
+<activity id="1679" moduleid="441522" modulename="lesson" contextid="1229911">
+  <lesson id="1679">
+    <course>5197</course>
     <name>#TITLE#</name>
     <intro></intro>
     <introformat>1</introformat>
@@ -38,32 +38,32 @@
     <progressbar>1</progressbar>
     <available>0</available>
     <deadline>0</deadline>
-    <timemodified>1728044667</timemodified>
+    <timemodified>1728370096</timemodified>
     <completionendreached>0</completionendreached>
     <completiontimespent>0</completiontimespent>
     <allowofflineattempts>0</allowofflineattempts>
     <pages>
-      <page id="6783">
+      <page id="6922">
         <prevpageid>0</prevpageid>
-        <nextpageid>6785</nextpageid>
+        <nextpageid>0</nextpageid>
         <qtype>20</qtype>
         <qoption>0</qoption>
         <layout>1</layout>
         <display>1</display>
-        <timecreated>1728044720</timecreated>
-        <timemodified>1728044958</timemodified>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
         <title>#TITLE#</title>
         <contents>#CONTENTS#</contents>
         <contentsformat>1</contentsformat>
         <answers>
-          <answer id="14382">
-            <jumpto>6785</jumpto>
+          <answer id="14827">
+            <jumpto>0</jumpto>
             <grade>0</grade>
             <score>0</score>
             <flags>0</flags>
-            <timecreated>1728044720</timecreated>
+            <timecreated>1728370258</timecreated>
             <timemodified>0</timemodified>
-            <answer_text>Using co-creation and customer-centricity</answer_text>
+            <answer_text>#TITLE#</answer_text>
             <response>$@NULL@$</response>
             <answerformat>0</answerformat>
             <responseformat>0</responseformat>
@@ -74,39 +74,6 @@
         <branches>
         </branches>
       </page>
-      <page id="6785">
-        <prevpageid>6783</prevpageid>
-        <nextpageid>6786</nextpageid>
-        <qtype>20</qtype>
-        <qoption>0</qoption>
-        <layout>1</layout>
-        <display>1</display>
-        <timecreated>1728044769</timecreated>
-        <timemodified>1728045044</timemodified>
-        <title>Using co-creation and customer-centricity</title>
-        <contents></contents>
-        <contentsformat>1</contentsformat>
-        <answers>
-          <answer id="14384">
-            <jumpto>6786</jumpto>
-            <grade>0</grade>
-            <score>0</score>
-            <flags>0</flags>
-            <timecreated>1728044769</timecreated>
-            <timemodified>0</timemodified>
-            <answer_text>Introduction to Service Design</answer_text>
-            <response>$@NULL@$</response>
-            <answerformat>0</answerformat>
-            <responseformat>0</responseformat>
-            <attempts>
-            </attempts>
-          </answer>
-        </answers>
-        <branches>
-        </branches>
-      </page>
-      
-      
     </pages>
     <grades>
     </grades>

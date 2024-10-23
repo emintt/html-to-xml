@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 
-with open('lesson-template.xml', encoding='utf-8') as f:
+with open('moodle_lesson_template.xml', encoding='utf-8') as f:
   tree = ET.parse(f)
   root = tree.getroot()
 
