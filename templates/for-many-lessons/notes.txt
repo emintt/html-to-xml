@@ -1,0 +1,50 @@
+Adding lessons:
+1. Create lesson folder:
+- For each lesson in a module, create a lesson folder containing all the XML files based on the template.
+- Use the naming convention: lesson_{module_id}
+2. Modify lesson.xml in lesson_{module_id} folder:
+- Update the following details:
+    + module id
+    + lesson id
+    + activity id
+    + name
+    + title
+    + page id ((next lesson's page id will be increased by 1 to make a new id))
+    + contents
+    + answer_text
+3. Modify grades.xml in lesson_{module_id} folder:
+    + Update the grade_item ID (next lesson's grade_item id will be increased by 1 to make a new id)
+    + Set the itemname to match the title of the lesson in lesson.xml.
+4. Modify inforef.xml in lesson_{module_id} folder:
+    + Update the grade_item id to match the new ID created in grades.xml.
+5. Modify module.xml in lesson_{module_id} folder:
+    + Update the module id to reflect the new lesson's details.
+6. Modify moodle_backup_template.xml file:
+    + the output should be named moodle_backup.xml to match with the naming convention used for moodle backup xml files in exported lessons.
+    + Update this file to include new lessons:
+        + Add activity tag for each created module, specifying the moduleid, title, and directory. Example:
+            " <activity>
+                  <moduleid>441530</moduleid>
+                  <sectionid>61321</sectionid>
+                  <modulename>lesson</modulename>
+                  <title>The Entrepreneurial Mindset</title>
+                  <directory>activities/lesson_441530</directory>
+                </activity>"
+        + Add setting tags for each lesson_{module_id}:
+            " <setting>
+                <level>activity</level>
+                <activity>lesson_441530</activity>
+                <name>lesson_441530_included</name>
+                <value>1</value>
+              </setting>
+              <setting>
+                <level>activity</level>
+                <activity>lesson_441530</activity>
+                <name>lesson_441530_userinfo</name>
+                <value>0</value>
+              </setting>"
+7. Integrate files into the backup (.mbz) file:
+- Open the template backup file (.mbz) by using a program like 7-Zip.
+- Drag and drop moodle_backup.xml to root directory of the .mbz file.
+- Drag and drop lesson_{module_id} folders into activities directory within the .mbz file.
+

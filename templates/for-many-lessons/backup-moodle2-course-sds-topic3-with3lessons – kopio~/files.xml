@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file id="12680333">
+    <contenthash>a159358cbfd765d41eff119054d5c67319815f61</contenthash>
+    <contextid>1229971</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>6926</itemid>
+    <filepath>/</filepath>
+    <filename>image2.jpg</filename>
+    <userid>7050</userid>
+    <filesize>206906</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1728378694</timecreated>
+    <timemodified>1728378769</timemodified>
+    <source>image2.jpg</source>
+    <author>Liem Nguyen</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="12680334">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>1229971</contextid>
+    <component>mod_lesson</component>
+    <filearea>page_contents</filearea>
+    <itemid>6926</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>7050</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1728378694</timecreated>
+    <timemodified>1728378769</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+</files>
