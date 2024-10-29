@@ -33,14 +33,14 @@ for element in soup.body.children:
 if current_lesson:
     lessons.append(current_lesson)
 
-# Save each lesson into separate HTML files in the same directory
+# Create lesson xml files from templates
 for i, lesson in enumerate(lessons):
 
     # Break before the last lesson which is the assignment
     if i == len(lessons):
         break
 
-    # Read xml template
+    # Read xml templates
     with open('moodle_lesson_template.xml', encoding='utf-8') as f:
         tree_f = ET.parse(f)
         root_f = tree_f.getroot()
@@ -94,4 +94,8 @@ for i, lesson in enumerate(lessons):
         tree_g.write(file_name, encoding='utf-8')
 
 print("Lessons have been saved as xml files")
+
+
+
+
 
