@@ -6,17 +6,18 @@ Adding lessons:
 - Update the following details:
     + module id
     + lesson id (increase by 1 for each lesson)
-    + activity id (increase by 1 for each lesson), maybe the same id as lesson id
+    + activity id (increase by 1 for each lesson), the same id as lesson id
     + contextid (increase by 1 for each lesson)
-    + name
-    + title
+    + name: lesson title
+    + title: lesson title
+    + answer_text: lesson title
     + page id ((next lesson's page id will be increased by 1 to make a new id))
     + contents
-    + answer_text
     + answer_id (increase by 1 for each lesson)
 3. Modify grades.xml in lesson_{module_id} folder:
-    + Update the grade_item ID (next lesson's grade_item id will be increased by 1 to make a new id)
-    + Set the itemname to match the title of the lesson in lesson.xml.
+    + Update the id attribute of <grade_item> (next lesson's grade_item id will be increased by 1 to make a new id)
+    + Set the <itemname> tag value to match the title of the lesson in lesson.xml.
+    + Set the value of <iteminstance> the same as id attribute of activity tag in lesson.xml
 4. Modify inforef.xml in lesson_{module_id} folder:
     + Update the grade_item id to match the new ID created in grades.xml.
 5. Modify module.xml in lesson_{module_id} folder:
