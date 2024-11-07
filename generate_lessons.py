@@ -21,7 +21,8 @@ INPUT_FILE_PATH = "{0}SDSModule3CreatingSolutions.html".format(INPUT_FOLDER)  # 
 OUTPUT_FOLDER = "outputs\\for-many-lessons\\"
 
 # Define the template folder
-TEMPLATE_FOLDER = "templates\\for-many-lessons\\lesson_441530_template\\"
+TEMPLATE_FOLDER = "templates\\for-many-lessons\\"
+TEMPLATE_LESSON_FOLDER = "templates\\for-many-lessons\\lesson_441530_template\\"
 
 # Load the HTML file
 with open(INPUT_FILE_PATH, 'r', encoding='utf-8') as file:
@@ -32,7 +33,6 @@ soup = BeautifulSoup(html_content, 'html.parser')
 
 # Find all img element and replace src attribute with the base64-encoded image
 images = soup.findAll('img')
-print(images[0])
 for image in images:
     # Construct image file path to create a local path on Windows
     img_file = "{0}{1}".format(INPUT_FOLDER, image['src'].replace("/","\\"))
@@ -60,6 +60,18 @@ for element in soup.body.children:
 # Append the last lesson if it exists
 if current_lesson:
     lessons.append(current_lesson)
+
+
+# Get the root of moodle_backup_xml ready
+# Copy template to output folder with the correct naming convention
+shutil.copy2('{0}moodle_backup_template.xml'.format(TEMPLATE_FOLDER), '{0}\\moodle_backup.xml'.format(OUTPUT_FOLDER))
+# Parse the XML template file for moodle backup and load it into an ElementTree object
+tree_mbt = ET.parse('{0}moodle_backup.xml'.format(OUTPUT_FOLDER))
+# Get the root element of the parsed XML tree
+root_mbt = tree_mbt.getroot()
+
+
+
 
 # Create many lesson xml files from templates
 # Supposed ids
@@ -112,7 +124,7 @@ for i, lesson in enumerate(lessons):
     # Create lesson.xml #
 
     # Parse the XML template file for lessons and load it into an ElementTree object
-    tree_f = ET.parse('{0}lesson.xml'.format(TEMPLATE_FOLDER))
+    tree_f = ET.parse('{0}lesson.xml'.format(TEMPLATE_LESSON_FOLDER))
 
     # Get the root element of the parsed XML tree
     root_f = tree_f.getroot()
@@ -150,39 +162,119 @@ for i, lesson in enumerate(lessons):
     for contents_elem in root_f.iter('contents'):
         contents_elem.text = contents
 
-     # Define the file path and write the XML tree to a new file
-    file_name = "{0}\lesson.xml".format(new_path)
-    tree_f.write(file_name)
+     #  Set the file path and save the XML tree as a new file in the outputs folder
+    lesson_file_path = "{0}\lesson.xml".format(new_path)
+    tree_f.write(lesson_file_path)
 
 
 
     # Create grades.xml #
     # Parse the grades XML template file and load it into an ElementTree object
-    tree_g = ET.parse('{0}grades.xml'.format(TEMPLATE_FOLDER))
+    tree_g = ET.parse('{0}grades.xml'.format(TEMPLATE_LESSON_FOLDER))
 
     # Get the root element of the parsed XML tree
     root_g = tree_g.getroot()
 
     # Assign unique ID to each <page> element
-    for page_elem in root_g.iter('grade_item'):
-        page_elem.attrib['id'] = str(grade_id)
+    for elem in root_g.iter('grade_item'):
+        elem.attrib['id'] = str(grade_id)
 
     # Update the text content of <itemname> tag with the lesson's title
-    for contents_elem in root_f.iter('itemname'):
-        contents_elem.text = title
+    for elem in root_g.iter('itemname'):
+        elem.text = title
 
     # Set the value of <iteminstance> tag with the lesson's activity tag's id
-    for contents_elem in root_f.iter('iteminstance'):
-        contents_elem.text = activity_id
+    for elem in root_g.iter('iteminstance'):
+        elem.text = str(activity_id)
+
+    # Set the file path and save the XML tree as a new file in the outputs folder
+    grades_file_path = "{0}\grades.xml".format(new_path)
+    tree_g.write(grades_file_path)
 
     # Create inforef.xml #
+    # Parse the grades XML template file and load it into an ElementTree object
+    tree_i = ET.parse('{0}inforef.xml'.format(TEMPLATE_LESSON_FOLDER))
+
+    # Get the root element of the parsed XML tree
+    root_i = tree_i.getroot()
+
+    # Update the text content of <id> tag with the grade id
+    for elem in root_i.iter('id'):
+        elem.text = str(grade_id)
+
+    # Set the file path and save the XML tree as a new file in the outputs folder
+    inforef_file_path = "{0}\inforef.xml".format(new_path)
+    tree_i.write(inforef_file_path)
+
+
+    ## Create module.xml ##
+    # Parse the grades XML template file and load it into an ElementTree object
+    tree_m = ET.parse('{0}module.xml'.format(TEMPLATE_LESSON_FOLDER))
+
+    # Get the root element of the parsed XML tree
+    root_m = tree_m.getroot()
+
+    # modify id attribute of root element (<module>)
+    root_m.attrib['id'] = str(module_id)
+
+    # Set the file path and save the XML tree as a new file in the outputs folder
+    module_file_path = "{0}\module.xml".format(new_path)
+    tree_m.write(module_file_path)
+
+
+    ## Create moodle_backup_template.xml ##
+    # Parse the grades XML template file and load it into an ElementTree object
+    tree_mb = ET.parse('{0}moodle_backup_template.xml'.format(TEMPLATE_FOLDER))
+
+    # Get the root element of the parsed XML tree
+    root_mb = tree_mb.getroot()
+
+    # Create new activity elements
+    new_activity = ET.Element('activity')
+
+    new_activity_moduleid = ET.SubElement(new_activity, 'moduleid')
+    new_activity_moduleid.text = str(module_id)
+
+    new_activity_sectionid = ET.SubElement(new_activity, 'sectionid')
+    new_activity_sectionid.text = str(61321)
+
+    new_activity_modulename = ET.SubElement(new_activity, 'modulename')
+    new_activity_modulename.text = 'lesson'
+
+    new_activity_title = ET.SubElement(new_activity, 'title')
+    new_activity_title.text = title
+
+    new_activity_directory = ET.SubElement(new_activity, 'directory')
+    new_activity_directory.text = "activities/lesson_{0}".format(module_id)
+
+    # Add activity element to activities element on the moodle_backup xml file
+    for elem in root_mbt.iter('activities'):
+        elem.append(new_activity)
+
+
+    # Create setting elements
+    new_setting = ET.Element('setting')
+    new_setting_level = ET.SubElement(new_setting, 'level')
+    new_setting_level.text = 'activity'
+    new_setting_activity = ET.SubElement(new_setting, 'activity')
+    new_setting_activity.text = f'lesson_{module_id}'
+    new_setting_name = ET.SubElement(new_setting, 'name')
+    new_setting_name.text = f'lesson_{module_id}_included'
+    new_setting_value = ET.SubElement(new_setting, 'value')
+    new_setting_value.text = '1'
+
+    # Add setting element to activities element on the moodle_backup xml file
+    for elem in root_mbt.iter('settings'):
+        elem.append(new_setting)
+
+
 
      # Copy unchanged files to outputs folder
-    shutil.copy2('{0}calendar.xml'.format(TEMPLATE_FOLDER), '{0}\\lesson_{1}'.format(OUTPUT_FOLDER, module_id))
-    shutil.copy2('{0}competencies.xml'.format(TEMPLATE_FOLDER), '{0}\\lesson_{1}'.format(OUTPUT_FOLDER, module_id))
-    shutil.copy2('{0}filters.xml'.format(TEMPLATE_FOLDER), '{0}\\lesson_{1}'.format(OUTPUT_FOLDER, module_id))
-    shutil.copy2('{0}grade_history.xml'.format(TEMPLATE_FOLDER), '{0}\\lesson_{1}'.format(OUTPUT_FOLDER, module_id))
-    shutil.copy2('{0}roles.xml'.format(TEMPLATE_FOLDER), '{0}\\lesson_{1}'.format(OUTPUT_FOLDER, module_id))
+    shutil.copy2('{0}calendar.xml'.format(TEMPLATE_LESSON_FOLDER), '{0}\\lesson_{1}'.format(OUTPUT_FOLDER, module_id))
+    shutil.copy2('{0}competencies.xml'.format(TEMPLATE_LESSON_FOLDER), '{0}\\lesson_{1}'.format(OUTPUT_FOLDER, module_id))
+    shutil.copy2('{0}filters.xml'.format(TEMPLATE_LESSON_FOLDER), '{0}\\lesson_{1}'.format(OUTPUT_FOLDER, module_id))
+    shutil.copy2('{0}grade_history.xml'.format(TEMPLATE_LESSON_FOLDER), '{0}\\lesson_{1}'.format(OUTPUT_FOLDER, module_id))
+    shutil.copy2('{0}roles.xml'.format(TEMPLATE_LESSON_FOLDER), '{0}\\lesson_{1}'.format(OUTPUT_FOLDER, module_id))
 
      # Increment various ID counters for the next use
     module_id += 1
@@ -193,9 +285,8 @@ for i, lesson in enumerate(lessons):
     answer_id += 1
     grade_id += 1
 
-
-
-
+# Write the modified XML back to the output file
+tree_mbt.write(f'{OUTPUT_FOLDER}/moodle_backup.xml')
 
 
 

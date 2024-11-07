@@ -19,7 +19,7 @@ Adding lessons:
     + Set the <itemname> tag value to match the title of the lesson in lesson.xml.
     + Set the value of <iteminstance> the same as id attribute of activity tag in lesson.xml
 4. Modify inforef.xml in lesson_{module_id} folder:
-    + Update the grade_item id to match the new ID created in grades.xml.
+    + Update the grade_item id tag to match the new ID created in grades.xml.
 5. Modify module.xml in lesson_{module_id} folder:
     + Update the module id to reflect the new lesson's details.
 6. Modify moodle_backup_template.xml file:
@@ -28,7 +28,7 @@ Adding lessons:
         + Add activity tag for each created module, specifying the moduleid, title, and directory. Example:
             " <activity>
                   <moduleid>441530</moduleid>
-                  <sectionid>61321</sectionid>
+                  <sectionid>61321</sectionid> # section id must be 61321 at this version
                   <modulename>lesson</modulename>
                   <title>The Entrepreneurial Mindset</title>
                   <directory>activities/lesson_441530</directory>
