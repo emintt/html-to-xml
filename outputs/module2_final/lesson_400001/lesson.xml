@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2001" moduleid="400001" modulename="lesson" contextid="1200001">
+  <lesson id="2001">
+    <course>5196</course>
+    <name>Customer Research Methods</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7001">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Customer Research Methods</title>
+        <contents>&lt;h2&gt;&lt;span&gt;Secondary Research aka Desk Research&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;span&gt;It might feel wrong to start with something called “secondary” research but this is the first step in any service development process. This research, as mentioned before, is also called “desk research” and it includes both qualitative and quantitative research elements. Included in desk research are any industry reports, trend reports from trusted sources, journal articles, news articles, blog posts, internal customer data collected from around the organisation, academic research papers, conference abstracts, etc. &lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Building a Foundation&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Desk research is done first so that a foundation of readily available information is understood and can be built on, rather than repeated. Make sure that everyone on the team understands the important insights that have been identified. It is also important to evaluate the level of confidence you have in the information producer when you use these different sources.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Gather these materials through search engine searches, through contacting different units in your company (if you have any) to see what they have, ask around to see if anyone has done any primary research at your organisation that is related to your problem, etc. Read them and see what insights they offer and make sure that you note them down in a way that you can refer to them later if needed.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;You will see trends coming up, expectations on how things are progressing in certain sectors, you might even read interesting case studies of recently finished similar projects.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Iterative Process&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;One thing to remember is that desk research is something that will probably come up again in the process. At this very beginning stage of the process, we are looking for some general information as we have not really defined the real problem yet. And it is important to keep that in mind. Once the customer research has been done and the insights fully gathered and the problem is fully defined, you can then go back to desk research and see how others may have solved a similar problem. This is just more information for your team to add to all the other data you have. This does not mean that you copy them, what is right for their customers may not at all be right for yours.It is also important to look outside of your own industry to find solutions. A good start for learning about this is a book called&lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://www.crossindustryinnovation.com/&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731118889463121&amp;amp;usg=AOvVaw2eweH_NhX1R2fLwJNUcNUJ"&gt; “Not Invented Here: cross-industry innovation”&lt;/a&gt;&lt;/span&gt;&lt;span&gt; by Ramon Vullings and Marc Heleven.&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;&lt;span&gt;Additional desk research approaches&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Benchmarking/&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Comparative Analysis&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Competitor/&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Competitive Research&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;PESTLE Analysis&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;h3&gt;&lt;span&gt;﻿Benchmarking/Comparati&lt;/span&gt;&lt;span&gt;ve Analysis&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;When you decide on certain points that you want to measure against other companies. This can be in your own industry or even in different industries but with similar products.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Further reading:&lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://business.vic.gov.au/business-information/marketing-and-sales/increasing-sales-through-marketing/benchmark-your-business&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731118889465229&amp;amp;usg=AOvVaw2SRjNHFf1jxTFZQ9BYEcKu"&gt; Benchmark Your Business&lt;/a&gt;&lt;/span&gt;&lt;span&gt;﻿&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Competitor/Competitive Research&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;This type of analysis is about looking at the most important competitors in their industry providing the same or similar service and looking at how your product or service compares.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Further reading:&lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://miro.com/blog/competitive-market-analysis/&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731118889466013&amp;amp;usg=AOvVaw2jbYko2r33WsU6IdO3QHqY"&gt; Miro on Competitive Market Analysis&lt;/a&gt;&lt;/span&gt;&lt;span&gt;﻿&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;PESTLE Analysis&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;The previous two methods are quite common and widely understood but a PESTLE analysis probably needs a bit more explanation. This acronym stands for Political, Economic, Social, Technology, Legal and Environment and it is a scanning of the entire system around you. You and your team need to look around and see what in each of these areas are affecting you and your company.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;PESTLE in More Detail&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Political&lt;/span&gt;&lt;span&gt;: What legislation or policies are in place or are being discussed that might affect your company or this innovation specifically? What taxation or limitations are in place that might influence how you develop your business?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Economic&lt;/span&gt;&lt;span&gt;: Looking at economic risk factors and opportunities such as globalisation, interest rates, consumer spending, etc. Are there any government schemes to promote what you do? Is there any additional investment that you can identify?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Social&lt;/span&gt;&lt;span&gt;: Scanning the social and societal side of life will have you look at things like the evolution of consumer tastes, work-life balance issues, population density/diversity, social spending, spending power, basic demographics, etc.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Technology&lt;/span&gt;&lt;span&gt;: How is your business incorporating technology into its business development? What is happening in the exponential development of technology in your industry? How are your customers using technology?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Legal&lt;/span&gt;&lt;span&gt;: Different sectors have different levels of legal restrictions, what are yours and how might they be changing in the future?  &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Environment&lt;/span&gt;&lt;span&gt;: How do your customers expect companies to act?  What expectations does your industry and government put on your organisation regarding sustainability and other environmental factors? What is your company mission regarding the environment and how does your problem fit into this?  &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;You will find some templates for compiling and organising this information online.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;If you are running a design sprint or a shorter development process, this can be a less intensive scan where you take a little time to sit together and get everyone to contribute to a quick analysis. Allowing everyone to assess the problem with the same set of knowledge.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Get everyone on the same page with summaries of the information that you have collected&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15001">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Customer Research Methods</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

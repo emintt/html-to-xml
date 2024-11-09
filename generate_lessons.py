@@ -8,14 +8,22 @@ import base64
 # Function to convert an image URL to a Base64-encoded string
 def image_url_to_base64(image_url):
     with open(image_url, "rb") as image_file:
-        return base64.b64encode(image_file.read())
+        return base64.b64encode(image_file.read()).decode("utf-8")
 
     return ""
 
+# Function to write an XML tree to a file with a custom XML declaration using double quotes.
+def write_xml_with_custom_declaration(tree, file_path):
+    with open(file_path, 'w', encoding="utf-8") as file:
+        # Write the XML declaration with double quotes
+        file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+
+        # Write the rest of the XML content without the XML declaration
+        tree.write(file, encoding="unicode")
 
 # Define the input HTML file and the output folder
-INPUT_FOLDER = "html-source\\SDSModule3-CreatingSolutions\\"
-INPUT_FILE_PATH = "{0}SDSModule3CreatingSolutions.html".format(INPUT_FOLDER)  # The HTML file to be processed
+INPUT_FOLDER = "html-source\\SDSModule1-Foundations\\"
+INPUT_FILE_PATH = "{0}SDSModule1Foundations.html".format(INPUT_FOLDER)  # The HTML file to be processed
 
 # Define the output folder
 OUTPUT_FOLDER = "outputs\\for-many-lessons\\"
@@ -23,6 +31,7 @@ OUTPUT_FOLDER = "outputs\\for-many-lessons\\"
 # Define the template folder
 TEMPLATE_FOLDER = "templates\\for-many-lessons\\"
 TEMPLATE_LESSON_FOLDER = "templates\\for-many-lessons\\lesson_441530_template\\"
+SECTION_NUMBER = 1
 
 # Load the HTML file
 with open(INPUT_FILE_PATH, 'r', encoding='utf-8') as file:
@@ -69,8 +78,6 @@ shutil.copy2('{0}moodle_backup_template.xml'.format(TEMPLATE_FOLDER), '{0}\\mood
 tree_mbt = ET.parse('{0}moodle_backup.xml'.format(OUTPUT_FOLDER))
 # Get the root element of the parsed XML tree
 root_mbt = tree_mbt.getroot()
-
-
 
 
 # Create many lesson xml files from templates
@@ -236,7 +243,7 @@ for i, lesson in enumerate(lessons):
     new_activity_moduleid.text = str(module_id)
 
     new_activity_sectionid = ET.SubElement(new_activity, 'sectionid')
-    new_activity_sectionid.text = str(61321)
+    new_activity_sectionid.text = str(41670)
 
     new_activity_modulename = ET.SubElement(new_activity, 'modulename')
     new_activity_modulename.text = 'lesson'
@@ -252,21 +259,27 @@ for i, lesson in enumerate(lessons):
         elem.append(new_activity)
 
 
-    # Create setting elements
-    new_setting = ET.Element('setting')
-    new_setting_level = ET.SubElement(new_setting, 'level')
-    new_setting_level.text = 'activity'
-    new_setting_activity = ET.SubElement(new_setting, 'activity')
-    new_setting_activity.text = f'lesson_{module_id}'
-    new_setting_name = ET.SubElement(new_setting, 'name')
-    new_setting_name.text = f'lesson_{module_id}_included'
-    new_setting_value = ET.SubElement(new_setting, 'value')
-    new_setting_value.text = '1'
+    # Create the first <setting> element
+    new_setting_included = ET.Element('setting')
+    ET.SubElement(new_setting_included, 'level').text = 'activity'
+    ET.SubElement(new_setting_included, 'activity').text = f'lesson_{module_id}'
+    ET.SubElement(new_setting_included, 'name').text = f'lesson_{module_id}_included'
+    ET.SubElement(new_setting_included, 'value').text = '1'
 
-    # Add setting element to activities element on the moodle_backup xml file
+    # Add the first setting element to the <settings> element
     for elem in root_mbt.iter('settings'):
-        elem.append(new_setting)
+        elem.append(new_setting_included)
 
+    # Create the second <setting> element with a different name and value
+    new_setting_userinfo = ET.Element('setting')
+    ET.SubElement(new_setting_userinfo, 'level').text = 'activity'
+    ET.SubElement(new_setting_userinfo, 'activity').text = f'lesson_{module_id}'
+    ET.SubElement(new_setting_userinfo, 'name').text = f'lesson_{module_id}_userinfo'
+    ET.SubElement(new_setting_userinfo, 'value').text = '0'
+
+    # Add the second setting element to the <settings> element
+    for elem in root_mbt.iter('settings'):
+        elem.append(new_setting_userinfo)
 
 
      # Copy unchanged files to outputs folder
@@ -286,9 +299,8 @@ for i, lesson in enumerate(lessons):
     grade_id += 1
 
 # Write the modified XML back to the output file
-tree_mbt.write(f'{OUTPUT_FOLDER}/moodle_backup.xml')
-
-
+write_xml_with_custom_declaration(tree_mbt, f'{OUTPUT_FOLDER}/moodle_backup.xml')
+# tree_mbt.write(f'{OUTPUT_FOLDER}/moodle_backup.xml', encoding="UTF-8")
 
 
 

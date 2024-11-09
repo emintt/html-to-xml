@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2000" moduleid="400000" modulename="lesson" contextid="1200000">
+  <lesson id="2000">
+    <course>5196</course>
+    <name>What is Customer Research?</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7000">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>What is Customer Research?</title>
+        <contents>&lt;p&gt;&lt;span&gt;Customer research is something that is vital to do but that almost everyone says that they don’t need to do because they “already know their customers”. As mentioned in Chapter 1, the delivery gap proved this wrong many years ago. The other issue is, of course, that customers’ needs and wants change with time, technology, and competition. So understanding what the landscape looks like on a regular basis is just good business practice.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Types of data&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Quantitative data&lt;/span&gt;&lt;span&gt; comes from research that produces numerical data that can be used to give statistics, averages, comparisons, patterns, etc. When companies or news outlets (or anyone) talk about “big data”, they are referring to quantitative data that comes from quantitative research. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Qualitative data&lt;/span&gt;&lt;span&gt; comes from research that is generally non-numerical in nature such as interviews, diaries, photos, etc. It is also from the point of view of the individual providing information on their experience and their own context.&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;&lt;span&gt;Different Phases in Research&lt;/span&gt;&lt;/h2&gt;&lt;h3&gt;&lt;span&gt;Preparatory research&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Prep research is all about looking around and making sure that everyone understands the problem. It is about digging a little deeper internally about what everyone feels is going wrong. When using this internally, this can be a very good starting point for a project. Bringing people together - potentially from various functions/units/departments - will help to see where the biases are or where assumptions are being made. Understanding what is happening internally and how the problem is seen, is very important to moving forward and starting the process on a solid foundation. This is because it helps identify early on the different perspectives at play.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;This could be done in a workshop format to discuss the problems people see or experience when dealing with this service or product.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Secondary research&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Secondary research involves the collection, synthesis, and analysis of existing information. During this research, there will be no research produced by anyone involved in the project. It might be that some people are conducting primary research while others are going through the secondary research, but those doing secondary research will not produce new information. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;This research, which is sometimes also called “desk research” (because you should be able to access it from a desk), exists as both qualitative and quantitative research. These are industry reports, trend reports from agencies, journal articles, news articles, blog posts, internal customer data collected from around the organisation, academic research papers, conference abstracts, etc. There are a lot of places to search for data. A good place to start is, of course, your favourite search engine.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Desk research is done first so that a foundation of what information is already available is understood and can be built on, rather than repeated, when primary research is done. Don’t forget to not only take in the information that you find but also to evaluate the level of confidence you have in the information. Evaluate the reliability of the producer of the information as well as the information itself. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;It is important and helpful for the rest of the team if summaries of findings can be documented and shared. These are great tools to refer back to when needed - when the process gets stuck or a little off track.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Primary research&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Primary research is the research that you conduct yourself (meaning specifically for your project by you or someone on your team). This research means that you will be producing new information through various means. Before we talk about different ways of conducting research, let’s look a little closer at the most common types of primary research that are used in customer research. Here we will look at 3 different types of primary research.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;3 Types of Primary Research&lt;/span&gt;&lt;/h3&gt;&lt;h4&gt;&lt;span&gt;&lt;/span&gt;&lt;/h4&gt;&lt;h4&gt;&lt;span&gt;Participant approach&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;This type of research means that the person that you are interviewing is fully aware that they are working together with you as a participant in research. &lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Self-ethnographic&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;This type of research is where either the participant or the researcher takes control of the collection of information by self-recording thoughts, feelings, experiences through various means.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Non-participant approach&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;This type of research is when the person you are collecting information from doesn’t know. This usually involves various kinds of observation.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Knowing these 3 types of research for primary research, helps the person doing research to understand what the options are when faced with research method decisions.&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;&lt;span&gt;Useful research techniques for each type of research&lt;/span&gt;&lt;/h2&gt;&lt;h4&gt;&lt;span&gt;&lt;/span&gt;&lt;/h4&gt;&lt;h4&gt;&lt;span&gt;Participant approach techniques&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;The most common participant approach techniques are participant observations, in depth, 1-on-1 interviews, focus groups, and surveys.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Participant observation is a method that requires the participant to know that they are being observed. Depending on the focus of the research, what is being observed will change. These can be both digital or physical interactions. This can be watching a person navigate a website (or a new prototype), watching a certain process in their home or their lives (such as their morning routine or the commute to work), etc. So this technique can be the researcher sitting quietly in the corner, it can be the participant narrating what it is they are doing or thinking, it can include shadowing as the participant moves from place to place.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Self-ethnographic techniques&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;The “self” in self-ethnographic can refer to either the participant or the researcher. This means that the recording of experiences, feelings, accomplishments, and thoughts can be done by either when alone. Your participant can agree to keep a diary (whether written, photographic, digital, etc) and can give that to the researcher to then analyse. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Alternatively, the researcher can conduct an auto-ethnographic piece of research which means that they themselves go through whatever process needs researching and records these same points. There are also certain digital platforms that have been created specifically for self-ethnographic recording.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Non-participant techniques&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Non-participant, as mentioned earlier, refers to the fact that the participant does not know that they are participating in research. This can be as simple as counting the number of people that walk past a certain place at a specific time of day (trying to understand the foot traffic of a certain retail location for example). It can be observing where people go outside to smoke and if they are using the designated smoking area outside of a hospital for instance. You could even follow it up with some questions with those people after the observation (adding depth to your research by broadening it with participant research).  &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Using non-participant observations can help to confirm or reject what people have self-reported as how they do something. For example, if you interview a bunch of smokers in the hospital and they 100% say that they use the designated smoking area, then you wait and see later what percentage of people really do use it during a set amount of time. You can also use this observation time to see what their body language tells you. In the smoking scenario, are they actively trying to hide or mask their smoking, do they glance at the no smoking sign and purposefully ignore it? Or do they start smoking, see the sign and then move to the right place? All this is useful information.&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;&lt;span&gt;Assembling the research into insights&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;span&gt;Depending on whether this research was gathered by a team or by one person will really determine how you bring this all together. With a team, it will first be necessary to share the information collected and then decipher the insights. The insights may become clearer along the process for someone conducting the research by themselves. Either way, it needs to be shared in an understandable manner with your colleagues. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Analysing the data that you and your team have collected, you can start to see patterns in the kind of information that you uncovered. These patterns will start you on the path to seeing where you might want to dig deeper into your process, product or service for improvement.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Analysing the data through grouping&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DXgr4931mwF8&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731118889460902&amp;amp;usg=AOvVaw2YFvPeRpIdhmuXpxXka5jJ"&gt;Affinity diagramming&lt;/a&gt;&lt;/span&gt;&lt;span&gt; (or grouping or clustering) is when you physically put related or similar information together to see the patterns. Start by putting each of the interesting pieces of information that you identified onto individual sticky notes and put them up on the wall. If there was a team of people doing the research (or parts of the research) have them do the same thing for the research they collected. At the end you should have a wall/window/any flat surface full of sticky notes.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Now, begin to look to see what commonalities they have and pick them up and move those notes near each other. Any duplicates can be placed on top of each other. This grouping will begin to show areas or topics that came up repeatedly. This is where you can start exploring opportunities of improvement (for negative patterns) or see what kind of actions might be replicated in other parts of the customer journey (for positive patterns).&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[AFFINITY DIAGRAM VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The themes of your ideation will give you the best clues of where you can explore the insights for real problems and solutions.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15000">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>What is Customer Research?</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

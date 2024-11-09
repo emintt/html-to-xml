@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2004" moduleid="400004" modulename="lesson" contextid="1200004">
+  <lesson id="2004">
+    <course>5196</course>
+    <name>Introduction to Design Sprints</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7004">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Introduction to Design Sprints</title>
+        <contents>&lt;p&gt;&lt;span&gt;A Design Sprint is a specific process that moves business ideas from zero to tested in about 5 days. It is a process that was designed to reduce the amount of time it took to tackle business problems from an unspecified amount of time (sometimes running over a year) to an initial 5 day investment to get from problem to prototype to initial tests. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;A Design Sprint takes a small team to dedicate 5 whole days to rapidly progress and fast-forward the design work. The final step of a design sprint is to get your prototype in front of potential or actual customers and get immediately actionable feedback. This process can be used in various areas of business, whether that is new product/service development and improvement, marketing campaigns, website development, etc. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;One of the benefits of this process is to get the company out of their comfort zone in their usual development processes.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Design Sprint Schedule&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;The original design sprint concept was created by a former Google employee called Jake Knapp. He has since written a book about this process called&lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://www.thesprintbook.com/&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731111692130496&amp;amp;usg=AOvVaw1ROHCSx0-TLke4hO_Bhypu"&gt; Sprint: How To Solve Big Problems and Test New Ideas in Just Five Days&lt;/a&gt;&lt;/span&gt;&lt;span&gt;. In the book they set out the process like this: &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[DESIGN SPRINT SCHEDULE VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Day 1: Is all about mapping the problem(s) and choosing an area to focus on&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Start by identifying a bigger long term goal and creating a few specific Sprint questions in order to create a map that ends with the long term goal. In addressing the Sprint questions in relation to your goal, you will probably need to bring in some experts or those people who know more than you (or even customers) to interview. Their information will help the team decide the direction of the sprint and what will be tackled from day two onwards.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Day 2: Requires the team to ideate and sketch out possible solutions&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;“Working alone together” is how a lot of the Sprint works during the sketching and the voting. This means that work is done individually and then discussed afterwards in the group. This allows people to develop ideas without influence from others and then ideas can be shared and possibly combined later. The ideas will develop and become more clear as the ideas are iterated and the day progresses. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Day 3: Needs decisions to be made so that chosen ideas can become testable prototypes&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;This is a day with a lot of decisions being made. The full concepts from the day before will be presented and critiqued while also being weighed against the long-term goal. The one or two that have the best chance of achieving the long-term goal, will be storyboarded in the afternoon ready to be prototyped on Day 4!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Day 4: Creates the testable prototypes&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Because the prototype needs to be created in one day, it will be more of a facade (like a fake front) for testing purposes only. If it is a digital prototype, then it can be made in a software that has a nice user interface, but has no real backend behind it. There are multiple softwares that can be used for this. If it is a physical prototype (like the flow of a store) or written prototype (like marketing messages), then these can be made in cardboard or on false materials to be tested. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Day 5: This is testing day with real, live users&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Watching and hearing the reactions of real people and customers to your efforts is what this week has been all about. It is about learning as much as you can as they interact with your prototypes and planning on how you can iterate them to make them as useful as possible. This day will ideally consist of 5 customer tests. After each interview, notes are compiled and compared on a whiteboard all while looking for patterns. This final day is wrapped up by creating a follow up plan for how to continue the project.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Preparing for a Design Sprint&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;[VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;In order to accomplish this process, there are certain people that need to be present and certain things happening in the background to support this process and there is also a followup iteration sprint that will take place soon after these initial 5 days. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;A Design Sprint requires a few very specific people, one of the most important is the official “Decider”. This is a person with enough authority and budget to make the prototyping and testing happen in the short time that is. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Building the team - who should be there?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Below is a list of the different types of people that can be included. Not each of these people needs to be in every sprint but who attends will depend on the topic. Always included should be the Facilitator and a Decider. The rest will depend on the topic and teams should be kept to seven or fewer.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Roles In A Team&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Facilitator. The person that is responsible for guiding the process and keeping time who is not involved in the content.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;A decider. Whether this is the CEO or the Project Manager of a specific issue, they should be there for this process because the decisions need to be made on the spot. If this person cannot be there for the whole time, then they should designate the role to someone who can.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Finance expert. This person needs to be able to explain where the money comes from.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Marketing expert. The person who knows and crafts the messages for the company. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Customer expert. This person is in regular contact with customers in various ways.  &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tech expert. This person understands what the company can build and deliver.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Design expert. This person is involved in designing the products/services of the company.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Rules and Tools&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;No distractions. No laptops, phones, or iPads allowed&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Keep to the timing - builds confidence in the process&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Schedule extra experts. Not every expert can be in the sprint all week. For Monday afternoon, schedule fifteen- to twenty-minute interviews with extra experts.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15004">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Introduction to Design Sprints</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

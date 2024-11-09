@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2004" moduleid="400004" modulename="lesson" contextid="1200004">
+  <lesson id="2004">
+    <course>5196</course>
+    <name>Building a Customer Journey</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7004">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Building a Customer Journey</title>
+        <contents>&lt;h2&gt;&lt;span&gt;What is a customer journey map?&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;span&gt;Customer journey maps are not what one person in the team thinks happens or even what a team of "experts" thinks happens. &lt;/span&gt;&lt;span&gt;A customer journey map is built entirely from the experience and perspective of the customer. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Journey mapping is a process where you combine two basic human communication tools - storytelling and visualisation. Both storytelling and visualisation help people understand certain concepts better. They also help to build empathy. This kind of mapping is a way of seeing your service from the user’s perspective. It allows you to use your persona to walk through their journey to gain insights into pain points (where your service is not living up to its promise) and to what is going right. It is also a way to see a bigger picture than just the part of the experience that your everyday day work may hide. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Journey maps also visualise the experience over time. The experience that a user or customer has is not a single moment event. You can see that with return policies. If it was a single moment event, you would buy the product or service and that would be it. But everyone understands that it takes time for an experience to unfold. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;In the eyes of the user, your company or organisation is just one service provider (even if you outsource various functions or collaborate with other companies). In the mind of the user, a service, no matter who is responsible for it in the back end, expects it to be connected and seamless. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The most important thing to remember about a Customer Journey Map is that it is based on the customer research that you do. &lt;/span&gt;&lt;/p&gt;&lt;h2&gt;&lt;span&gt;Components of a basic customer journey map&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;span&gt;If you search online for a journey map, you will find many different variations. It can be daunting. But when creating a simple customer journey map, there are just five rows (or lanes as some call them) of information.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;We have already talked about the very top row of the journey map: the point in the timeline of the map. But what other lanes are on a map? For a basic functional map that will teach you something, it is important to have at least these 4 rows of information: &lt;/span&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Customer actions&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;are defined as what the customer is actually doing at that moment in the sequence. Describing their actions.&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Customer goals&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;are all about what the customer wants to accomplish. They might be searching the internet for a plumber (action) but what their goal is to get the water to stop spraying in their bathroom (goal).&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Touchpoints (or channels)&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;are the ways in which the customer is interacting with your company. What are the methods that they are communicating with you? Email, phone, in-store, website, etc. &lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Experience&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;is the emotional experience that they are having in that action while trying to fulfil that goal. In the example, we can see that when Sara wants to hear from the company but they are not getting back to her, her emotional level is very low (probably frustrations and irritation). The emotional journey is a vital part of the journey to record. &lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;span&gt;﻿[JOURNEY MAP VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;&lt;span&gt;What kind of map is needed?&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;span&gt;There are 2 decisions that need to be made when starting to create a journey map:&lt;/span&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Time&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Level of Detail&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;span&gt;﻿The time perspective means whether you are creating a current status or desired future map&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;AND &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The level of detail you will use - broad overview level or specific detail level﻿&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;You can do a high level analysis where you go through a very broad overview of your service within the organisation right down to a level of analysis that goes through the login process. You need to define what you are mapping.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Current Status and/or Future Desired State&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;In the first instance, time, we mentioned that there are 2 time perspectives. It can be a map reflecting how things are currently done or it can be a map of a desired future. Often it is good to have both so that everyone truly understands the starting point. One hindrance to improving a service (or product) experience is not knowing how the experience is currently going, and therefore, not knowing where to go. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The desired future journey map will help you to identify where your improvements need to be targeted so that your desired user experience will be met. It is the same as picking an outcome or a destination and working your way back to see what needs to happen (and change) between now and the end date for your goal to be achieved.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Levels of Detail&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;The second decision that has to be made is the level of detail you are going to use to create your journey map. The highest level of journey map is where you map the Before, During, and After actions in a broad manner on a single map. As you will see from the illustrated maps below, each subsequent level of map digs deeper into a certain section of your customer’s experience.  &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[LEVELS OF DETAIL VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;In this Journey Map Detail Levels example, you can see how each next level digs deeper into the previous one. As a team, you need to decide which level of detail you wish to look at. If you want to journey map what the decision process is to get to the point where a customer will buy your product/service, then you are looking at a level 2. If you want to map how they start using your service, that is probably a level 3. If you want to look in minute detail at the email flow (the number or messages/what the messages say/how instructions are given, etc.) at the point of when a person first logs into your service, that is a level 4. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;A journey map can be thought of just like a geographical map, which, depending on how zoomed in you are, will show you a place that will take you 24 hours to get to by plane, 5 hours to get to in a car, or 15 minutes by walking. Your detail level will also determine the time length of the experience. Is it, for example, a whole week at level one, a day or two at level 2, an hour at level 3 or, just a few minutes at level 4?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;So agree on the level and the perspective of the map and you can begin to look at filling a map of your own in.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;EXAMPLE&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;In the example, Sara’s discovery journey of our service, you can see how this top level takes a very broad view of the journey. The example is specifically vague regarding what service it is dealing with just because it is an example. When you look at this, you can decide that you want to take a closer look at the areas that are yellow or red in the experience section. Then you can create a map for that specific section to see where the problems might be.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt; [FILLED JOURNEY MAP VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Using a customer journey map&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;The beginning of this process started with a lot of research. This means that your persona is based on research and the customer journey map that you create can also be based on research. It is so important to make sure that the journey is based on research and not guessing because this is where you will begin to look at where and how you can make the experience of your customer better. If this is done on an assumption based map, then you are essentially only guessing. And basing changes on how you do something or how you produce something on a guess, is not going to be a great strategy in the short or long term. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;As mentioned, the journey map should be a journey that represents a single persona that you have created. Each persona type will have a different journey. It is also a good idea to create these so that you can understand how their journeys are different. This will show you where you need to supplement different parts of your experience or where you need to make new paths or possibilities for them.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The persona and the journey map are intertwined in a way that will help guide your company to a greater understanding of who your customers are, what they need, and how they use your products and services. They also help with the empathy needed to really create value for them and to want to create real value for them. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;A research-based, persona-led journey map, it must be strongly emphasised, is the tool needed to begin to redesign your experience (at whatever level is needed). It is neither an outcome nor a piece of art (although it will feel like a piece of art with all the hard work that goes into it). As contradictory as it is, a journey map is both a snapshot in time and something that is always changing. As Mark Stickdorn, who is, among other things, a co-author of two foundational service design books:&lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://www.service-design-network.org/books-and-reports/this-is-service-design-thinking&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731118889489113&amp;amp;usg=AOvVaw3NpWfOKUbxy7RyZRI3yRtZ"&gt; This is Service Design Thinking&lt;/a&gt;&lt;/span&gt;&lt;span&gt; (2012) and&lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://www.thisisservicedesigndoing.com/&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731118889489413&amp;amp;usg=AOvVaw1P2nL-QDmfAyCGxCZXllkZ"&gt; This is Service Design Doing&lt;/a&gt;&lt;/span&gt;&lt;span&gt; (2018), says "Customer Journey Maps are not a deliverable!". This means that the point of the map is not to have the map. It is to use the map as a starting point for creating your deliverables (improved services, new services, better customer experiences, etc.). A customer journey map is where the hard work begins to design better services because now you know where there are some pain points.&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;&lt;span&gt;Creating a Journey Map&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;span&gt;Physically creating a journey map can be as simple as taking a blank piece of paper and drawing the different necessary sections on it. It needn't be pretty or complicated. It just needs to be understandable by those who will look at it. A great way to create a first version of a customer journey map is a large piece of paper (maybe from a flip chart or a roll of paper) and sticky notes. The sticky notes are important because they are movable. Nobody ever gets a journey map right in the first attempt. The ability to move steps in the process to the left and right is essential as more information becomes clear. You may have a cross-unit group that reminds people of forgotten steps or misunderstood processes. This is normal and expected. By starting in this agile and temporary way, you allow more information to be added or removed as needed. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The templates provided can be used, maybe you can print them on A3 or poster paper if you wish but they are just a guideline. You can just as easily copy their simple rows on blank paper by hand. B&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Template Resource&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Current Journey Map&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15004">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Building a Customer Journey</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

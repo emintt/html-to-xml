@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2002" moduleid="400002" modulename="lesson" contextid="1200002">
+  <lesson id="2002">
+    <course>5196</course>
+    <name>Introduction to Design Thinking</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7002">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Introduction to Design Thinking</title>
+        <contents>&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;&lt;span&gt;The Design Thinking Process&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;span&gt;To talk about service design, you first need to talk about the design thinking process. The design thinking process is the path that you will walk (not always a straight one for sure) to get from your current state to your desired state. It is a path that requires a non-linear, co-creation-based iterative process. In this process its main aim is to understand users, define their real problem(s), eliminate assumptions, and create useful and creative solutions that have been prototyped and tested before full implementation. Service design is the application of the design thinking process to the development of services - whether paid for directly by the customer, via the public service, or the third sector (non-governmental organisations, etc.).&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;But design thinking is not only a process. It is also a mindset. Design thinking requires the participants to be able to suspend expectations and to not have any expected outcomes.It is accepting that we, in this beginning moment, do not know the answer and be open to the discovery. The design thinking process is where the discovery happens.  &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;There are many visualisations of the design thinking process. Each with slightly different names for essentially the same things. They differ in how they divide similar tasks. Some choose to break down tasks into smaller steps while others just represent an overall view of the process. As a representation of two of the most recognised processes, here is  Stanford’s d.School process and the Design Council’s Double Diamond.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Stanford d.school Design Thinking Process&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;[STANFORD D.SCHOOL VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;The Stanford d.School's 5 stages&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;EMPATHIZE: research the customer through various methods; learn who they are and what they do&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;DEFINE: distill what you learned about your customer and define the challenges/pain points they are having&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;IDEATE: co-create possibilities together and have as many ideas as you can, then sift through them and find the good ones&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;PROTOTYPE: take 1, 2, or 3 of those good ideas and build simple prototypes of them and see how they work in reality - iterate what doesn’t work, fail fast, move forward&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;TEST: test the iterated, simple prototypes with real people and in real situations; change what doesn’t work and create something useful&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Design Council’s Double Diamond&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Another way to visualise this process is the Design Council’s Double Diamond. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The purpose of the double diamond is to represent visually what the process is in practice. The diamond shape in itself represents the divergent &amp;lt; and convergent &amp;gt; nature of the process. With the &amp;lt; always being creating ideas and concepts and expanding on discussion points and the &amp;gt; always being about eliminating the less ideal options (whether those are ideas in the first diamond or fuller concepts as in the second diamond). &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[DOUBLE DIAMOND VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The Double Diamond design process has four stages&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;DISCOVER is all about gathering data and learning about your customer. The objective of this stage is to hear and understand what is happening in your customer’s life. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;DEFINE is where you begin to organise and group the data that you have gathered to reveal insights on the real problems they are facing. Defining the problem is the end of the first diamond and the beginning of the second. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;DEVELOP is where you begin to finally start to think about the solutions. Ideas, ideas, ideas and these ideas become concepts and, eventually, prototypes. You now know the problem, now look for a testable solution to build. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;DELIVER is the final step in the process where you are testing the 1, 2, or 3 prototypes that you decided on in the DEVELOP stage and see which one performs the best that you would be happy to either iterate more or use (sometimes, it is none and you need to go back a stage or 2…this happens and it is ok and part of the process!)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;So you can see overall, the steps that you do are the same, they just roughly divide them differently.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;These are both very commonly used but going forward in this course, we will use the Stanford d.School model as this process is more easily understood by looking at it and it fits in slightly better with the Design Sprint model that we will also use. But before getting to the design sprint, let’s first look at why we should use service design.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Going forward in this course, we will use the Stanford d.School model.&lt;/span&gt;&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15002">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Introduction to Design Thinking</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

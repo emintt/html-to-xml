@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2002" moduleid="400002" modulename="lesson" contextid="1200002">
+  <lesson id="2002">
+    <course>5196</course>
+    <name>Customer Research Methods: Primary Research</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7002">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Customer Research Methods: Primary Research</title>
+        <contents>&lt;h2&gt;&lt;span&gt;Primary Research: Conducting Interviews&lt;/span&gt;&lt;/h2&gt;&lt;h3&gt;&lt;span&gt;Interviewing Skills&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;It is important to remember that you will probably not just do research once at the beginning but along the process of development, there will be more research that needs to be done. Along the way you will learn what you don’t know or you will discover a nugget of something that will require you to quickly go back a few steps to the research part again. It is important to remember that although the double diamond is drawn as a linear process, it really isn’t. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;One-on-one interviewing is one of the most used techniques to gather information from your target group. Interviews will be a resource that you can always do more of if needed, and if you record them properly, you can go back through the data when needed. Conducting this kind of research is vital to the development of any useful service. So much of your future actions will depend on the outcome of what happens right at the beginning of your process. This information, when gathered at the beginning of the process, will provide data that you will return to many times to make sure that you are solving the right problem and designing something of real value for your customers or users. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The first question you may have is “how many do you need to do?”. This, of course, is subjective. There is no one right answer. But it is definitely less than you would use for quantitative data collection. There are a few things to consider when thinking about conducting one-on-one interviews:&lt;/span&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Who you interview&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Redundancy&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Approach&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Timing&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;h4&gt;&lt;span&gt;&lt;/span&gt;&lt;/h4&gt;&lt;h4&gt;&lt;span&gt;﻿&lt;/span&gt;&lt;span&gt;Who you interview&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Make sure that you conduct interviews with the different types of people who will use your service (and maybe even a few that won’t to find out why they won’t for sure). When you are interviewing people, it can also include internal people who would deliver the service or those who currently deliver the service that you are reforming. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;You will also consider things such as what their sources of income and access are to certain things. And by this I am just saying that you just need to be sensitive to what their life is like.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Approach&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;How will this interview be conducted? Will you do an online interview, using something like Zoom, Teams, or Meet, or will it be face-to-face? If face-to-face, where will it be done, at your office, at their place of residence, at the place where the service would usually take place? There are many things to consider when you think about the location. It is good practice in service design to either try to conduct the interview in the place where the service will/does take place or in a place where the interviewee is most comfortable. This level of comfort can allow them to be more open.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Additionally, it is really important for you to consider the situation of the people you will interview. It is not good practice to conduct research in a way that is contrary to the current situation of your potential interviewees. Like asking elderly people to do a Zoom interview (or in other methods, asking them to fill in an online survey) or expecting parents of infants to do interviews in places that are not stroller/pram accessible.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Timing&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Is the service that you are designing time-bound? Does it take place at a specific time of day (like a lunch-time yoga class or an in-house daycare)? Or all times of Day (a taxi service)? Ideally, you would be able to conduct the interviews at that specific time to really be able to immerse yourself in their world and to understand what the real needs and fears are. You can also discuss the issues that are currently on their minds at that time of day. It can be harder to conjure up authentic or difficult feelings when you are sitting in a nice cafe in the bright sunshine.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Redundancy&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;In qualitative research, as face-to-face interviews are, the concept of redundancy is also important in service design. This means that once you start hearing the same information repeated, you have basically reached a saturation point so that interviewing more people becomes somewhat redundant. This is when you know to stop. This may happen after 5 interviews, after 10 or more. This will be more of a determining factor than an arbitrary number.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Creating an interview guide&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;In order for you to conduct useful and comparable research from your interviews, it is important to create an&lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://servicedesigntools.org/tools/interview-guide&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731118889471087&amp;amp;usg=AOvVaw2AJFqkkRVK-c1iAaOhl5zD"&gt; interview guide&lt;/a&gt;&lt;/span&gt;&lt;span&gt;. This is a script or plan that you intend to follow. An interview guide is helpful if you have split the interviews between different team members or just to keep you focused and on topic. Interviewing people can be a little difficult at first. When preparing your interview guide, you should give a lot of thought to your questions and potentially make it with others on your team to make sure that they are designed to get the information that you need.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The guide lists all the questions you want to ask (and there will of course be questions that you want to follow on with that aren’t listed). And you may want to add those new questions to any future versions of the interview that you conduct. Adjusting your interview guide is perfectly fine. &lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Important guidelines for creating a good interview guide:&lt;/span&gt;&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Have no expectations going into the interview&lt;/span&gt;&lt;span&gt; - having no expectations means that you are there to listen and learn, not prove your own point.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Explain why you are there and why you are conducting the interview&lt;/span&gt;&lt;span&gt; - this helps to build trust with the interviewee which is important for authenticity.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ask permission to record if you want to do that &lt;/span&gt;&lt;span&gt;- some places require this by law but it is just good practice everywhere and also builds trust.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Avoid yes/no questions as much as possible&lt;/span&gt;&lt;span&gt; - Sometimes they are necessary but in general, they add little value. &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Avoid leading questions&lt;/span&gt;&lt;span&gt; - these will not get you real answers, just the answers you want. This response is not very valuable.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ask about real experiences&lt;/span&gt;&lt;span&gt; - asking them to describe the last time they completed a task will give you insight into how they were feeling and thinking in that moment.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ask follow up questions when appropriate (even if they are not in your guide) &lt;/span&gt;&lt;span&gt;- going deeper is never really a bad thing. It helps to create better context and you may want to add these follow up questions to your guide for subsequent interviews.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span&gt;Read more about interviewing: &lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://rosenfeldmedia.com/books/interviewing-users/&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731118889472371&amp;amp;usg=AOvVaw0rX6WXaKlJdUZWsaxr5k7_"&gt;Portigal, S. (2013). Interviewing users: How to uncover compelling insights&lt;/a&gt;&lt;/span&gt;&lt;span&gt;. New York: Rosenfeld Media.&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;&lt;span&gt;Primary Research: Observation and Shadowing&lt;/span&gt;&lt;/h2&gt;&lt;h3&gt;&lt;span&gt;Observing&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Observation can be participatory or non-participatory. This means that the person or function that you are observing can know you are there collecting information (participatory) or you can be observing them without their knowledge (non-participatory). This non-participatory kind sounds a little menacing, but it shouldn't. It is basically people-watching...but with a purpose. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;If you want to find out if having a "smoking area" somewhere outside a specific building is working as it should (for example at a hospital), a good way to find out how people act when they smoke outside of it is to observe their behaviour. Are they respecting the signs for not smoking in certain areas? Are there even convenient signs at all? Are people looking at them and then ignoring them or are they moving to the designated area after seeing them? How many people do this? You can set a time of 30 mins or 1 hour to observe their actions and record what you see in your notes. Are you noticing that those who seem to be patients (maybe they have hospital gowns on, have a hospital bracelet, or are using a wheelchair or other hospital equipment) obey or not obey the rules any differently than those who do not seem to be patients?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Write your observations in your notes. You can note down how many people in total used the "service". You can go with some predefined things you want to look for. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;If you continue the hospital example, you might want to note:&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;How many used the smoking area?&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Did they seem to be patients or not? &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Did they seem to see the signage?&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Did they obey the signs?&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Were there any people who seemed confused?&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Were only people who had full mobility able to reach the designated smoking area?&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span&gt;Always make sure you leave room for there to be other, unexpected, observations.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Shadowing&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Shadowing is a technique that is similar to observation in that your role is to watch, record, and learn. It, by default, is also a qualitative research method as this is not something that can be done for a great number of people as it is time-consuming. But the depth of possible learning is great. As it is hard to change the way people do something or their behaviour, it can be important to really understand how they do certain things already to try to understand how you can later design your solution with actions that people are already comfortable taking. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Just like interviews, shadowing requires you to prepare in advance. It is important to know what it is that you want to observe. Do you want to see how this person gets ready for work in the morning? Do you want to learn how they use a certain search engine or how they pick up their mail? Do you want to watch them order something online?  Knowing what you want to observe and how you will observe them is vital to actually learning. It is also important to be able to accurately record what it is that is happening. You may need to prepare some kind of sheet where you can jot down predetermined instructions and how they were actually navigated. It might be a really good idea to use video to record the important interactions so that you aren't trying to remember what happened at some point in the future. For a more in-depth description of shadowing, you can check out the&lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://www.interaction-design.org/literature/article/shadowing-in-user-research-do-you-see-what-they-see&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731118889473978&amp;amp;usg=AOvVaw0ZGrzLnVvlLjwWawxT9Uma"&gt; Interaction Design website&lt;/a&gt;&lt;/span&gt;&lt;span&gt;.  &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;You can observe this difficulty whenever a software changes its interface and people struggle to figure out where to find the commands or buttons they are looking for. Many people got so used to the way the Start Menu works in Microsoft Office products that there was a huge problem when they re-designed it to look and work differently. To the point where they brought it back. Trying to change behaviour can be a real problem for companies which can lead to an underestimation in the resistance and the success of further innovations.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Primary research is all the research you do yourself...for more research methods, you can check out the&lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://servicedesigntools.org/tools&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731118889474633&amp;amp;usg=AOvVaw01OKMZQC8St0N6fx8UyNeV"&gt; Service Design Tools website&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15002">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Customer Research Methods: Primary Research</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

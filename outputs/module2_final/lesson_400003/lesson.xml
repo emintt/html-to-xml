@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2003" moduleid="400003" modulename="lesson" contextid="1200003">
+  <lesson id="2003">
+    <course>5196</course>
+    <name>Building Personas</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7003">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Building Personas</title>
+        <contents>&lt;h2&gt;&lt;span&gt;What Is A Persona?&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;span&gt;A persona is a fictional representation of a group of people. It is not a specific person you know, nor is it based on one real person, it is based on the entire group of who you are trying to represent. It is normal that a company or organisation would have more than one persona created because their company or organisation would normally have more than one type of user or customer. A persona is needed for each of the groups that you serve.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Personas, rather than representing a specific demographic (as is used in other industries in the past (and present), are representations of certain behaviours or drivers/motivators your customers have. Traditional separators such as age, income, gender, postal code, etc are becoming obsolete for many customer personas. This is because, as services and products become more widespread and personalised, these differentiators become much less important and indicative of people’s actions and intentions. Creating personas based on what motivates them can end up being much more meaningful in terms of outcomes. For both the customer and the company. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Personas must be created using the data and insights that you have collected during your research phase. At no point should you "guess" to create your persona(s).&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The point of creating personas is to create empathy within the team to incentivise them to create better products, services and/or processes. One of the benefits of doing customer research at the beginning of any project is that it gives you access to the thoughts and feelings of so many people relevant to your business. It is with this data that you should begin to build your personas. You should be careful not to let assumptions and stereotypes creep into your personas. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;If done correctly, and some demographic information is used in their creation (but not based on it), these personas can be more easily remembered and considered when it comes time to use them in relation to business cases.&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;&lt;span&gt;How to define your personas&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;span&gt;In a workshop setting, you can co-create your personas with the rest of your team. A good time to do this is either at the same session where you present your research data or very soon afterwards. While talking about the people that you collected data on or with, you can begin to note down different aspects of the time you spent with/near them. How was their body language, what kinds of words did they say, what kind of quotes did they use and you noted, what did they say were their challenges or their motivations? There are so many ways to pull information about these people from the data you collected. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Once all of this personal information has been noted down on to sticky notes, it is now time to do another grouping exercise. This time you are looking for behaviours and drivers/motivators that are in common. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;A really great example of how to group people by their motivations is what Ben Ralph did in his 2017 article called&lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://medium.com/beakerandflint/personas-74c4e1c12ee2&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731118889479440&amp;amp;usg=AOvVaw1Njz-lGDozbfIMVQPaB8_k"&gt; Creating Personas&lt;/a&gt;&lt;/span&gt;&lt;span&gt;. He uses a simple example that is about a scenario for a bank. A bank has many, many different personas. So in the bank’s case it would be useful to break it down based on the service that they want to use. This means that overall, there will be a lot of different personas but for each service there will just be 5 or 6 maybe. For the mortgage department, there are many people who want to buy homes. But that is too broad of a definition when it comes to who their customers are. Their personas will define the tone, the words, and the visuals that they use in their marketing. It also will help them decide who the customers are that they want to address and those that they may wish to not consider. This is why knowing your customers really well is important.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Once the grouping has been done, your job is to identify a ‘red thread’ that unifies the people. This will help you to identify the axes for your “persona matrix”.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;A persona matrix is a graph where you can plot two different motivators against each other. The labels that go on the matrix will be specific to the people that you are plotting.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;For example, designing services for refugees might require comparing their education level and their language proficiency.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Designing a product for travellers might require you to compare budget and risk level.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;For the mortgage department at the bank, this can be represented by how quickly they want to purchase a house and how much money they have access to.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Once you have identified the axes that you want to use (and this can take some testing and trying on different labels), then you can begin to start plotting the groups that you identified. See the graphic to see the outcome of this:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[PERSONAS FOR A BANK VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Bank Example: 5 Identified Personas&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Planners: &lt;/span&gt;&lt;span&gt;This group who want to buy a house further in the future and who have a relatively high income&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;New Family&lt;/span&gt;&lt;span&gt;: This group wants to buy a house in the sooner rather than later but have a more middle income&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Investors:&lt;/span&gt;&lt;span&gt; This group wants a house pretty immediately and has a high income&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Savers&lt;/span&gt;&lt;span&gt;: This group wants to buy further into the future and is on a lower income&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Dreamers&lt;/span&gt;&lt;span&gt;: This group wants to buy a house pretty soon but is on a pretty low income&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;As you can see, with these five, the bank can now decide if they will actually use their resources to entice them as customers. With the information presented here, we could probably determine that Dreamers are not a category that they will pursue. The combination of short runway to investment and their lack of income, make them a risky group from the bank’s perspective (it is also denoted in the the way the bank labelled this group “Dreamers”).From these personas, the bank can determine, from a business perspective, what is the best use of the limited money they have to invest in marketing and service provision and which personas they will target.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Components of a Persona&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Once you have decided what possible personas exist in your space, and which ones that your company will pursue as customers, it is time to create an individual representative persona for each group.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;You can do this by filling in a persona template. There are many persona templates out there, Google will show you them if you just look. You can also use the one that has been created for this course. A persona is a one page brief that is a representative, fictional person. This should include a name, an age, a profession, possibly a life situation (like parent, caring for elderly parents, employed, entrepreneur, etc), and a quote that is representative of their experience. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;It is also important information about their goals, challenges, motivations, values, needs, interests, and preferences. In the provided Persona Template there are prompts in each section so that you know what you should include.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[PERSONA VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Using a persona&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;The value of a persona&lt;/span&gt;&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;You can see problems and goals of customers very quickly&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;It gets different colleagues on the same page quickly as to who they serve and what they want&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;It helps to embed empathy as a starting point in any product/service development through deep customer understanding&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;It can help you identify who you want and who you don’t want as customers (sometimes certain groups aren’t quite ready for your solution or helping get them there would be too costly)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;It helps you to identify the words, phrases, and tone needed to speak to your customers via marketing, sales, and support.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span&gt;But one of the most important uses for a persona is for keeping the customer at the centre of your decision making. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;When you have this person relying on you to help them reach their goals and to help lessen their frustrations and pain points, and you keep coming back to them during the process, your product or service will get better. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;During internal discussions, your persona(s) should have a seat at the table, referring to them by name when discussing features and processes.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Template Resources&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Persona Template&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15003">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Building Personas</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

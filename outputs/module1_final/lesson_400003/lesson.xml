@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2003" moduleid="400003" modulename="lesson" contextid="1200003">
+  <lesson id="2003">
+    <course>5196</course>
+    <name>Introduction to Service Design</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7003">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Introduction to Service Design</title>
+        <contents>&lt;p&gt;&lt;span&gt;Just like it said earlier, service design is the application of the design thinking process to the development of services. So it is this process we described above specifically with services in mind. This means that the methods of discovery and prototyping take different forms than say when you design a product. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Service design in itself is a tool to get a desirable outcome. Both your customer and the organisation determine what is ‘desirable’. This tool will help organisations to get to desirable services with more collaboration with the users which leads to less waste (of time, human resources, and materials). This allows the organisation to work in a more sustainable way - economic sustainability and environmental sustainability.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;It is said that service design is the reason you&lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DHNOY8GLVy_8&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731111692123626&amp;amp;usg=AOvVaw1PPHkRA4hCicKDOq2nXx6K"&gt; choose one coffee shop&lt;/a&gt;&lt;/span&gt;&lt;span&gt; over another when the other variables are the same (pricing, quality, etc).&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Because services now account for about 80% of our economy, service design is more important now than ever before. But what is a service?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;What is a Service?&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Many people think of customer service when they think about service design. But if you look at the big picture, the majority of the need for customer service is because of poorly designed services. This isn’t to say that if you do great service design, then a company won’t need a customer service department (a company will always need this). Things will always go wrong, it is just about the scale at which they will go wrong. Too little consideration and proper research and you will be inundated with customers requiring clarification, fixing misunderstandings, explaining the process, etc. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;A service is anything that “helps someone do something”. Whether that service is something that helps someone pay a bill (the payment options, service, even the paper/digital invoice) or login to something or even find something (online or in person services to check land registry, city websites to find where your child can go to school, or taking public transport).&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;One of the important elements of service design is that the value has to be balanced. A company or organisation, for real value, has to balance the benefits for both the producer of the service and the user of the service. It does not serve the organisation to consistently lose money in service because customers like it. They will not last long if this is the case. Them going out of business serves no one.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;As Birgit Mager, Professor of service design and Head of the global Service Design Network, states services need to be “useful, usable and desirable from the user perspective, and efficient, effective and different from the provider perspective”. It is from this balance that the service can be successful.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;How to create balance&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;[INNOVATION SWEET SPOT VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;To make sure that your services will be successful and balanced, it has been important to answer 3 questions outside of the actual process. These three questions are still very relevant, but more recently, the perspective of sustainability has been added. Let’s start by looking at the first three questions.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;DESIRABILITY = Do people want it? &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;FEASIBILITY = Can we do it? Within our organisation and with our technology, is it possible?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;VIABILITY = Is it financially possible to do this?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Until recently, the end goal of any design process has been this sweet spot of 3 characteristics: Desirability, Feasibility, and Viability.  That sweet spot (the place where these three elements overlap) is sometimes described as ‘innovation’, 'innovations sweet spot', ‘good service’, ‘useful innovation’, ‘the goal’, ‘the solution’, etc. Whatever it is called, it is there to make sure that balance is created and it is a win-win business situation.  But as we move further into the 2020s, it is important to emphasise one more important aspect of innovation: sustainability. This means that the innovation Venn Diagram has changed from the left one to the right one.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[SUSTAINABILITY SWEET SPOT VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;DESIRABILITY = Do people want it? &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;FEASIBILITY = Can we do it? Within our organisation and with our technology, is it possible?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;VIABILITY = Is it financially possible to do this?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;SUSTAINABILITY = Does my product have negative Ecological/Environmental/Social/ Psychological impacts?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;For the innovation sweet spot to be balanced and robust, like a table, it needs all 4 legs to be stable. This is the way to move forward in a way that is not only responsible to your business and your customers, but to the society and planet in which they are functioning.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;For a deeper dive into adding sustainability in the innovation process, see this article.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;At the beginning of the design process, when the research is being done and the initial ideas are being co-created, there is no need to put limits on what is being done. In fact, it is important that there are not these restrictions. But as you move through the process, and you get close to the prototyping and testing stages, reflecting on these three qualities becomes really important. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Service design forces you to trust the process. To believe that what is fuzzy and unknown at the beginning will become clearer and more manageable at the end. It also is a great teacher that we don’t know everything about our customers. It is also a great teacher in failing fast, iterating and moving forward. Every failure is a learning.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;How to 'do' service design?&lt;/span&gt;&lt;/h3&gt;&lt;h4&gt;&lt;span&gt;&lt;/span&gt;&lt;/h4&gt;&lt;h4&gt;&lt;span&gt;Empathise&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;We empathise with the customers by finding out about their lives, the context that they live in. We do this by various methods of primary and secondary research. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Secondary research usually comes first (as strange as that sounds). also called desk research, it is where you take research that has already been done by others and review it. This research can be internal research done by other units such as customer surveys, market trends, competitor research, etc. Or it can be external research such as journal articles, news articles, general information, government statistics, etc. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Primary research is where you conduct the research yourself. One-on-one customer interviews, focus groups, silent observations, etc. The most important superpower you can have while conducting primary research is listening and watching. For this kind of research it is important to somehow record as much as you can. Whether that is with thorough notes or, more ideally, with some form of recording device (with the permission of the interviewee of course).&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Define&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;We define the customer pain that we are trying to solve by taking this data and gaining insights. We look for patterns, highlights, what the real pain that the person is trying to solve. If the problem is not properly defined, then the pain they are experiencing will never go away. If you do not know the real pain, then you will miss the mark on creating a good service. This leads to two outcomes: 1) a customer will use another service, or 2) they will use even more resources from your company still trying to solve the problem. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Once you think that you have a great understanding of the problem, then it is time to start thinking of ideas. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Read an example of how service design transformed a service for young patients who needed an MRI.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Ideate&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Coming together to co-create as many possible ideas together is a great way to look at the problem in as many ways as possible. Making sure that everyone has the opportunity to participate and that the right people are in the room (a variety of different people involved directly in the service is vital) will ensure that you are starting from the right place. Creating a status-free and open environment will ensure a productive result. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Once there are 10s of ideas on the table (or wall), then the evaluation and prioritisation must happen to take all those ideas and reduce them in an understandable and methodical way. Using a Prioritisation Matrix is useful at this stage.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[PRIORITISATION MATRIX VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;By using this prioritisation matrix you can evaluate the ideas based on how much effort and impact they will make. This will reduce the number of ideas greatly and allow you to pick one, two or three that you want to look more deeply at through prototyping.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Prototype&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Now that you have a few ideas that you want to test, you can begin building prototypes of them. These, in the service design context, can (and should) be very simple. There shouldn’t be any coding involved in the first versions, these are really just mock ups in various materials and forms. Depending on if the service is physical or digital, will determine how it is made. It can be a Lego representation, it can be a cardboard cutout, it can be using a tool such as Figma or Marvelapp for a simulated digital product. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The main idea with the prototype is to get it out in the real world, quickly iterate what doesn’t work, fail fast, move forward and develop along the way. Building anything real means that it is no longer a prototype and you are investing too much time and money into something that may not be worth it.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Test&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;The final part of the service design process is to test. Test and iterate your simple prototypes with real people and in real situations. By doing this and changing what doesn’t work along the way, you will create something useful that customers want to (and can) use.&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;&lt;span&gt;Moving forward with sustainability&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;span&gt;By using this process, organisations are able to cut the time needed to go from problem to idea to solution. This helps to save them money, time, frustration, and materials. When using the service design process, then important issues can be addressed. One of the most important issues going forward is sustainability - more specifically, environmental sustainability, but also economic sustainability of businesses and societies. Sustainability is also an increasingly important driver for users and this needs to be understood and addressed within businesses to also be economically sustainable.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15003">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Introduction to Service Design</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

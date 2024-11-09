@@ -1,0 +1,84 @@
+<activity id="2000" moduleid="400000" modulename="lesson" contextid="1200000">
+  <lesson id="2000">
+    <course>5196</course>
+    <name>The Entrepreneurial Mindset</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7000">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>The Entrepreneurial Mindset</title>
+        <contents>&lt;h3&gt;&lt;span&gt;Defining the Entrepreneurial Mindset&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;In 2017, Finland&#8217;s Ministry of Education and Culture determined that entrepreneurship and the entrepreneurial mindset should become a part of the education system. The entrepreneurial mindset is something that can be learned and it is also considered a &#8220;life wide&#8221; skill. Meaning that it is something that benefits other parts of an individual&#8217;s life outside of work. The definition that the Ministry provided was: &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&#8220;Entrepreneurship means observing possibilities and grasping them, as well as the ability to transform ideas into actions that produce financial, cultural, social or societal value. ... They include creativity, the ability to innovate, risk management, and responsibility, as well as the ability to plan, specify goals, and direct operations to reach objectives. The changes taking place in the working life emphasize the significance of entrepreneurial skills.&#8221; - Finland's ministry of Education &amp;amp; Culture (2017)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://okm.fi/en/entrepreneurship-training-and-education&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731068285140441&amp;amp;usg=AOvVaw0WdXfOW_XetdyeiKXmHyRc"&gt;More about entrepreneurship and education&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;9 fundamentals of the entrepreneurial mindset &lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;It is important to note that these skills and competencies are not individual, they are all interdependent on each other. You may have some of these already and others you need to practise but the ability to innovate, for example, requires you to be problem-centred as well as proactive, creative, a good networker, etc. Being creative will require you to tolerate risk and failure. They are all interconnected and it is the sum of these skills and competencies that will propel you forward in whatever you do. Embracing these skills and competencies is not only good for entrepreneurs, it is good for everyone. This is why it is not called the entrepreneur&#8217;s mindset but the entrepreneurial mindset. It is a way of being and of tackling challenges throughout life.&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Ability to innovate&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Creativity&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Pro-activeness&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Teamwork&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Tolerance to risk-taking&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Tolerance of failure &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Plan &amp;amp; reach objectives&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Problem-centred&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Networking&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span&gt;It is said that the path to success is littered with "failures"...but from each one something new is learned. The only real failure is when you don't learn something. Everything else is learning. There is no moral judgement in failure in itself. &lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Why we need the Entrepreneurial Mindset&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;"Perfectionism is the voice of the oppressor, the enemy of the people. It will keep you cramped and insane your whole life, and it is the main obstacle between you and a shitty first draft." &lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://wrd.as.uky.edu/sites/default/files/1-Shitty%2520First%2520Drafts.pdf&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731068285142006&amp;amp;usg=AOvVaw1ez6iYqBrpXFx9oQ8yC6kT"&gt;Anne Lamott &lt;/a&gt;&lt;/span&gt;&lt;span&gt;&#160;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Staring at a blank page is hard. Trying to come up with ideas is hard. Knowing where to start can be hard. Writing a &#8220;shitty first draft&#8221; is there to take the procrastination/paralysed feeling out of the equation. Many times we have been convinced that things need to be pretty perfect before we write them down or that we will be judged by that first idea (so we better make it good). But this is why risk-taking and accepting failure are so important to the entrepreneurial mindset. Failure is just learning with another name (a name that helps others feel better about themselves&#8230;it doesn't actually help anyone). Everyone who has ever succeeded has failed. It is only through failure that success comes. There is no other way. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The expectation of perfection kills creativity and makes new ideas impossible. Nothing that you use throughout your day is the first draft. Not the dishes that you eat from, not the news stories you consume, not the search engine you use to find things, and not one single app you use on your phone. Nothing comes out fully formed and perfect. Everything has required multiple drafts (some people call this failure, those who know, call this learning and improvement). Start somewhere!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Almost all jobs now require an entrepreneurial mindset, whether you are working within a company or whether you go down the actual entrepreneur route, these skills and attitudes will serve you well. None of the fundamental skills listed above are specific to being an entrepreneur. These are all transferable skills.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;You can use these skills of determination, creativity, risk, failure, teamwork, innovation, curiosity, self-belief, and pro-activeness to start a business.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;OR&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;You can use these skills of determination, creativity, risk, failure, teamwork, innovation, curiosity, self-belief, and pro-activeness as an employee.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;You can practise the entrepreneurial mindset&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;You may feel that you need to practise some of these skills. Luckily for you, these are skills and competencies that you can practise. There are ways that you can practise the different skills and competencies that are included in the entrepreneurial mindset. Most of them will require you to get outside of your comfort zone, because let&#8217;s be honest, if it wasn&#8217;t uncomfortable, you might already have the skills. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Listed below are the skills and competencies that you can practise and each has links attached to learn more about how you can do that.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Creativity&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Creativity is an interesting skill because so many people connect it to fine arts and things like that. But creativity is something that is really anything that uses the imagination or original ideas to create something new and valuable or considered inventive. These can be tangible or intangible things. There is &lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://www.thegoodtrade.com/features/am-i-creative&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731068285143212&amp;amp;usg=AOvVaw27ztSLAi_3GF8ErtL_GUA_"&gt;nothing inherent to art&lt;/a&gt;&lt;/span&gt;&lt;span&gt;&#160;at all. We are all creative in our own ways. &#160;&lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGy_2vcTza8c&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731068285143482&amp;amp;usg=AOvVaw1OWAHo_UUEV_aSqbwZoGP2"&gt;Practise creativity&lt;/a&gt;&lt;/span&gt;&lt;span&gt;&#160;here.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Tolerate failure &lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Failure is a loaded word with a lot of feelings and emotions around it. But it is not inherently bad. It just means that something you tried did not work. We cannot expect to get everything right the first time. Failures also lead to some of the greatest discoveries. For example, 3M and the post-it note. If that glue had been as sticky as they had wanted, we would have no sticky notes. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Google the concept &#8220;Failure CV&#8221; - this is an interesting way of looking at &#8220;success&#8221; and what it takes to get there. Here is &lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://career-advice.jobs.ac.uk/career-development/the-cv-of-failures/%23:~:text%3DThe%2520concept%2520behind%2520the%2520CV,others%2520to%2520become%2520more%2520resilient.&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731068285144250&amp;amp;usg=AOvVaw0G_iu79A_I9ZiYwGa-w2_k"&gt;an article&lt;/a&gt;&lt;/span&gt;&lt;span&gt;&#160;on the concept. Harvard Business Review has an article on how to become a &lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://hbr.org/2002/08/the-failure-tolerant-leader&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731068285144467&amp;amp;usg=AOvVaw0WDMy1qsHSvTvGZLQvMK6Y"&gt;Failure Tolerant Leader.&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Tolerate Risk&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;The other side of tolerating failure is the ability to tolerate risk. Increasing your risk tolerance is about getting out of your comfort zone and doing things that you normally wouldn't do. This is not the same as doing risky things that endanger you. This is about pushing the limits of your comfort zone so that you are confident to speak up in a meeting, willing to contact a person you normally wouldn't, trying something new to expand your enjoyment. All of these things can feel 'risky' when in the big picture, they are not. It is more about building confidence. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://www.entrepreneur.com/article/305985&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731068285144920&amp;amp;usg=AOvVaw1gi9llxQ19GvTsQUfi7g19"&gt;Achieving greater success&lt;/a&gt;&lt;/span&gt;&lt;span&gt;&#160;article&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://www.bbc.com/worklife/article/20170606-you-can-teach-yourself-to-be-a-risk-taker&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731068285145161&amp;amp;usg=AOvVaw0wCJq1H0L2Sg5rAClR2Phu"&gt;Teach yourself to be a risk taker&lt;/a&gt;&lt;/span&gt;&lt;span&gt;&#160;article&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Plan &amp;amp; reach objectives&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Start tracking goals in your life. These don&#8217;t need to be work-related- just anything. Use the &lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://www.mindtools.com/pages/article/smart-goals.htm&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731068285145506&amp;amp;usg=AOvVaw3nSQvHUrbtDnT0YsFWUjOd"&gt;SMART goals&lt;/a&gt;&lt;/span&gt;&lt;span&gt;&#160;method and/or start using a tool like &lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://trello.com/en&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731068285145709&amp;amp;usg=AOvVaw3wa_TXmdn8m2eolyjuvxHW"&gt;Trello&lt;/a&gt;&lt;/span&gt;&lt;span&gt;&#160;or &lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://asana.com/&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731068285145894&amp;amp;usg=AOvVaw3DyBg5H1nEHChHJaWE8p1K"&gt;Asana&lt;/a&gt;&lt;/span&gt;&lt;span&gt;. Start with these and see if they are intuitive to you. If not, search online as there are many different ones.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Pro-activeness&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://www.inc.com/david-van-rooy/7-ways-to-adopt-a-proactive-mindset.html&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731068285146280&amp;amp;usg=AOvVaw0l53QnDccWi-5HS-b4MhEr"&gt;Being pro-active&lt;/a&gt;&lt;/span&gt;&lt;span&gt;&#160;requires you to also plan ahead. So it will also help if you are practising your SMART goals! &lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Networking&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Networking can be hard for many people. But there are ways that you can make the most of the time you do dedicate to it. Here are some &lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://businesshub.santanderbank.com/growing-your-business/best-practices-in-networking-what-you-need-to-know/&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731068285146746&amp;amp;usg=AOvVaw0vM-60eZYyroDC6EttKWix"&gt;tips for practising networking&lt;/a&gt;&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15000">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>The Entrepreneurial Mindset</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

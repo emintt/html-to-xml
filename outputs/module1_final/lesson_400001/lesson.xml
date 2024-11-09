@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2001" moduleid="400001" modulename="lesson" contextid="1200001">
+  <lesson id="2001">
+    <course>5196</course>
+    <name>Using Co-creation and Customer-centricity</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7001">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Using Co-creation and Customer-centricity</title>
+        <contents>&lt;h2&gt;&lt;span&gt;Co-creation is the act of creating value in collaboration with others&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;span&gt;The others we are talking about are “stakeholders”. Surrounding any kind of service or product is a wide variety of stakeholders (people who have an interest or a concern in what you are producing). There are many kinds of stakeholders also. They might be financial stakeholders (they have funded the work or your company in some way), suppliers, employees, customers, users, or others outside the organisation that have some influence over your customer/user experience. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Creating real value is not really possible without some kind of co-creation. Deliberate and purposeful co-creation is the best starting point for creating real value for real stakeholders. You will notice that above customers and users were separated in the list of stakeholders. For some people these two words can be used interchangeably while for others, they are two distinct groups. It is always important to discuss the meaning of key words when starting any kind of co-creation process. For some, customers can be the users that pay while users are all the people that use the service or product (maybe a company has a freemium/premium service). Whereas for others, they consider all users to be customers or all customers to be users. You will also find that in some fields, they only talk about users (think public services). In this course, we will use the word “customers” to describe every person who uses a service or product regardless of whether they pay for it or not.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Many people believe that we create products and services for customers because we know our customers so well. But this is generally not true. It is more akin to myth than reality. As professionals, we like to think that we provide a superior experience for our customers but the reality is different. Bain &amp;amp; Company found a dramatic “delivery gap” after surveying 362 companies:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;"80% [of companies] believed they delivered a “superior experience” to their customers” but their customers said “that only 8% of companies were really delivering."&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[DELIVERY GAP VISUAL WITH TEXT]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;This statistic has driven a whole new industry segment to help people bridge the “Delivery Gap”. This gap is created in large part in how a company perceives their relationship with the customer. If a company believes that they create services and products for their customers [customer-focused approach], they believe that they already know what their customers want and make those. But as we can see, this approach does not begin to approach what the customer really wants. It is a perception that is filtered through many layers of someone else’s (oftentimes many people’s) assumptions. What addressing the delivery gap really requires is a shift of mindset from creating for to creating with customers to really discover what value means to them.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;It requires a company to move from a more traditional “customer-focused” approach to a more modern “customer-centric” approach. Doing this will help a company be more efficient, more innovative, and more sustainable.&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;&lt;span&gt;Customer-focused Vs Customer-centric&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;span&gt;The concepts of customer-focused processes and customer-centric processes are different although many people think these are the same thing and use the terms interchangeably. But the perspective that they take is very different.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[CUSTOMER FOCUSED/CENTRED VISUAL WITH TEXT]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Being customer focused means that you do things for your customers, whether that is deciding what you develop next on what you think they need or merely responding to problems that come up when they are reported. Being customer-focused can feel good to the customer because they are having their problem solved but is quite a reactive way to do business and does not solve the bigger picture.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Being customer centric means that you keep the customer at the centre of all your decisions. It also means being proactive in terms of using the data you collect to pre-emptively address issues and problems that come up for the customers. It also means that you are continually trying to understand the context in which your customers are living and using your service so you can have them develop new features and products.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;EXAMPLE&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Two electricity companies launched their new invoice format 2 months ago. Compare the two different processes:&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;&lt;span&gt;Case Study&lt;/span&gt;&lt;/h2&gt;&lt;h4&gt;&lt;span&gt;Company #1: Customer-focused company&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;4 months prior to now: The sales team decided that the old invoice was starting to look a little old so they contacted their graphic designer to improve it. They wanted the same information presented just in a more visually pleasing and modern way. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;At the same time, the customer service front line staff were continually answering phone calls to respond to customer’s confusion over the information on their bills. The front-line staff were constantly having to explain, one customer at a time, what certain industry words meant and how the calculations were made, etc. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Neither of these two teams formally talked to each other and almost nobody on the two teams knew each other, even informally, as they were based in different offices. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;After two months, and several rounds of comments from the sales team, the graphic designer was pretty much done with the re-design. After another month the new template was being used and the sales team was happy with their new, modern look. Meanwhile, just as many phone calls were coming into the customer service department because the information was still using language that the customer didn’t understand but the customers did give compliments on the nice layout and were still thankful that the customer service agents were so friendly and helpful.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Company #2: Customer-centric company&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;6 months ago a customer service manager in the company flagged the number of phone calls that they were receiving to ask for certain information on the company’s invoice to be clarified. She brought this up at a weekly meeting where people from other departments came and asked how they could look into fixing the way the information is presented and/or explained. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;One person from Sales and one person from marketing and she decided to meet independently to look into this issue. They asked that the data from the calls be brought so they could look through and here from the customers themselves what the problems were. She brought in some transcripts, some audio recordings of conversations, as well as one agent who had dealt with a lot of these calls. They listen and read and pull out the words that seem to be repeated. They “interview” the agent on what she is hearing from people and what are the areas that they struggle with. From here they notice that there is a pattern of not understanding the industry standard language being used (which is perfectly clear to them). So over the next few weeks they mock up 3 or 4 examples of possible invoice changes. Making sure that there is all the information that needs to be there. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;They bring in the agent to review them and she makes a few suggestions for changes. These changes are incorporated and now they start to contact two sets of customers, 1) customers who have recently called for clarification and 2) a random selection of customers in general to see if they would be willing to look over the new designs. When they have about 5 for each group, they spend a total of 10 hours reviewing these and taking notes on what their observations are and how well they understood them. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;After the feedback was processed, a brief was created for the graphic designer and a new invoice was created. Once it is launched, the customer service department notes that call volumes related to clarification have decreased a significant amount. This gives the staff more ability to get on with other tasks and also to proactively look for issues to solve.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15001">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Using Co-creation and Customer-centricity</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>
