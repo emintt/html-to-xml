@@ -51,4 +51,4 @@ Adding lessons:
 - Open the template backup file (.mbz) by using a program like 7-Zip.
 - Drag and drop moodle_backup.xml to root directory of the .mbz file.
 - Drag and drop lesson_{module_id} folders into activities directory within the .mbz file.
-
+8. Import to moodle
