@@ -22,8 +22,8 @@ def write_xml_with_custom_declaration(tree, file_path):
         tree.write(file, encoding="unicode")
 
 # Define the HTML source file and the output folder
-INPUT_FOLDER = "html-source\\FinalSDSChapter5WinningSupport\\"
-INPUT_FILE_PATH = "{0}FinalSDSChapter5WinningSupport.html".format(INPUT_FOLDER)  # The HTML file to be processed
+INPUT_FOLDER = "html-source\\FinalSDSChapter3CreatingSolutions\\"
+INPUT_FILE_PATH = "{0}FinalSDSChapter3CreatingSolutions.html".format(INPUT_FOLDER)  # The HTML file to be processed
 
 # Define the output folder
 OUTPUT_FOLDER = "outputs\\for-many-lessons\\"

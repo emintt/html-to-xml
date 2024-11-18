@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <activity_gradebook>
   <grade_items>
-    <grade_item id="90000">
+    <grade_item id="90003">
       <categoryid>6994</categoryid>
-      <itemname>Finding the Right Problem</itemname>
+      <itemname>Making the Business Case</itemname>
       <itemtype>mod</itemtype>
       <itemmodule>lesson</itemmodule>
-      <iteminstance>2000</iteminstance>
+      <iteminstance>2003</iteminstance>
       <itemnumber>0</itemnumber>
       <iteminfo>$@NULL@$</iteminfo>
       <idnumber>$@NULL@$</idnumber>
