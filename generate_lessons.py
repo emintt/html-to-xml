@@ -1,3 +1,7 @@
+# This script processes a DOCX file containing multiple lessons.
+# Any questions, if present, are located AT THE END OF THE DOCUMENT.
+# This script focuses only on creating the content of the lessons and excludes the questions section.
+
 import os
 from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET

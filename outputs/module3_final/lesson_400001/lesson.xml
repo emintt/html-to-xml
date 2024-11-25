@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2001" moduleid="400001" modulename="lesson" contextid="1200001">
+  <lesson id="2001">
+    <course>5196</course>
+    <name>Introduction to Ideation</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7001">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Introduction to Ideation</title>
+        <contents>&lt;h3&gt;&lt;span&gt;Idea Creation&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;It’s not about coming up with the ‘right’ idea, it’s about generating the broadest range of possibilities.”&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;— Hasso Plattner Institute of Design at Stanford&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;What is and is not useful ideation&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;When we talk about ideation, we are not talking only about ‘brainstorming’. In fact, we are not really talking about brainstorming at all. There are many ways to come up with ideas and idea fragments that don’t involve a traditional version of brainstorming (sitting around a table throwing out ideas in a group i.e. “narrow group think”). There are many reasons this process is unhelpful. Not least, because it favours certain personality types over others. Which means that not everyone has the opportunity to participate fully. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Full participation is what is necessary for proper ideation. The more people who feel comfortable sharing their ideas, the more ideas will be available to choose from and the more perspectives that will be represented. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;One of the most prevalent problems with group brainstorming is status. This means status within the organisation. The higher the ‘rank’, the more weight their idea can carry in some places. But ideation sessions need to balance having different levels of staff members there and a disregard for ‘rank’ within the group. There are a number of ways to accomplish this. First, individual titles are to be left outside the door. Second, most idea-producing moments should be done in silence. Third, giving everyone the same colour paper and the same pens so ideas can not be attributed to a certain person. Fourth, specifically and openly stating equality to be the goal. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ideation is not a free-for-all idea factory and there are no winners for idea generation. It is about creating a safe environment for everyone to participate at their fullest capacity. It is about creating a breadth and depth of ideas that could not be created otherwise. In this sense, ALL ideas are welcome (yup, even crazy ideas, unusable ideas, little ideas, big ideas). This is because you never know what will actually spark the idea that solves the solution. This is not about thinking outside the box, it is about understanding that there is no box.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;This is not about thinking outside the box, it is about understanding that there is no box.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Rules for Ideation&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;With all of the excitement of an ideation session, it is important to remember that there are general rules that should be followed to make it fun and productive for everyone and to have the best possible idea generation outcomes. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[RULE FOR IDEATION VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;These 10 rules, in no particular order, are important because:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Have an open mind&lt;/span&gt;&lt;span&gt; - coming to an ideation session with an open mind is fundamental to the success of collaboration. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Be positive -&lt;/span&gt;&lt;span&gt; it requires positivity to take initial ideas and build on them. Negativity makes the process unenjoyable and unproductive.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;No electronic devices&lt;/span&gt;&lt;span&gt; - electronic devices distract participants from being productive and present. It is important to not have phones and laptops in the room (and when online, the phone should be put away somewhere and notifications should be muted).&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Be engaged&lt;/span&gt;&lt;span&gt; - being part of the group and fully participating is necessary for the atmosphere for everyone. Engaging with the process is how you create great outcomes.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Build on ideas&lt;/span&gt;&lt;span&gt; - no great idea comes out fully formed. Ideas are built with other ideas and comments and feedback…and time. Allow your ideas to be taken and re-shaped to develop even better ideas.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Be present&lt;/span&gt;&lt;span&gt; - being fully in the room during ideation is needed to be able to understand and build on others ideas. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Hierarchy-free &lt;/span&gt;&lt;span&gt;- leaving your title at the door and participating as an equal to everyone is vital to collaboration. Everyone has ideas, everyone wants and needs to be heard. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Persona 1st&lt;/span&gt;&lt;span&gt; - remembering why you are there and who you are ideating for is really important. It doesn’t matter so much if YOU like the idea but will this idea get your persona the outcome they are looking for?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;No bad ideas&lt;/span&gt;&lt;span&gt; - there are no bad ideas. No crazy ideas. No silly ideas. When ideation starts, all ideas are welcome (and needed). Getting a laugh can help to ease any tension in the room and develop a more collaborative atmosphere.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;No editing ideas &lt;/span&gt;&lt;span&gt;- when ideation starts, there is no editing needed. There is time later for more careful consideration of ideas and concepts. But the beginning of ideation is a time for ideas from everywhere!&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Get better ideation&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;“You can’t have a good brainstorm without setting it up right—having everyone feeling safe and heard. A key element is trust, consistent with IDEO’s culture of trust. Bullies and blowhards are not tolerated.” &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;-  Peter Macdonald, design lead at IDEO&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;We have already mentioned that status can be a problem as can certain personality types. This is why many of the idea generating moments of an ideation session are done without talking. The most simple form of this is what is referred to as Brainwriting. It is the silent and more inclusive version of brainstorming. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Brainwriting is a technique for ideation where 5 or 10 minutes is set aside for no talking individual idea production. Each person is given a stack of sticky notes and a pen and any idea that pops into their mind, while thinking about the HMW question, is written (one at a time) on a sticky note. They can either collect beside them until the time is up and they stick them to the designated wall, window, whiteboard, wherever OR they can write and stick, write and stick. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;This method allows every person to have all their ideas considered. It can also allow them to do it fairly anonymously (if everyone has the same colour notes and pens). &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Another problem during idea generation is getting beyond the obvious ideas. Proper ideation is about digging deep and letting those first ideas out but then keeping going. This is why there are usually time pressure ideation exercises. This means that you do not have time to edit your ideas and you just let them out as they are. Editing your ideas before they go up on a wall or on a piece of paper is problematic as people tend to be less willing to take a risk on an idea when there is abundant time. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;One of these exercises is called Crazy Eights and this is where you come up with 8 ideas in 8 minutes (or, if you want, 10x10 or 6x6). It is up to the facilitator how many are used. However many are chosen, the first number refers to the number of ideas each participant has to come up with and the second number refers to the number of minutes you have to complete all those ideas. Usually these are done in picture form (that will be explained later to the group) but they could also be done with words. But usually you can fit more into a picture than you can into words in that short time. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Drawing is also a way of explaining an idea more clearly as words can get confusing as they mean different things to different people. Humans, as mentioned during the customer journey, are visual in many ways, and new ideas are a perfect way to use this form of storytelling.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;A great resource for ideation is “&lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://gamestorming.com/&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1731120022547849&amp;amp;usg=AOvVaw2E2g5sOvKwK1NhEWnwG_F9"&gt;Gamestorming: A toolkit for innovators, rule-breakers&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15001">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Introduction to Ideation</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

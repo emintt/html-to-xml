@@ -1,3 +1,7 @@
+# This script processes a DOCX file containing multiple lessons.
+# Any questions, if present, are located AT THE END OF EACH LESSON, starting with the text "[EXERCISES]".
+# This script focuses only on creating the content of the lessons and excludes the questions section.
+import html
 import os
 from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
@@ -18,8 +22,11 @@ def write_xml_with_custom_declaration(tree, file_path):
         # Write the XML declaration with double quotes
         file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
 
-        # Write the rest of the XML content without the XML declaration
+        # # Write the rest of the XML content without the XML declaration
         tree.write(file, encoding="unicode")
+        # # Convert XML tree to string and write
+        # xml_str = ET.tostring(tree.getroot(), encoding="unicode")
+        # file.write(xml_str)
 
 # Define the HTML source file and the output folder
 INPUT_FOLDER = "html-source\\FinalSDSChapter3CreatingSolutions\\"
@@ -47,10 +54,13 @@ images = soup.findAll('img')
 for image in images:
     # Construct image file path to create a local path on Windows
     img_file = "{0}{1}".format(INPUT_FOLDER, image['src'].replace("/","\\"))
-    # Convert the image to base 64
-    base64_img = "data:image/jpg;base64,{0}".format(image_url_to_base64(img_file))
-    # Update src attribute with the base64-encoded image
-    image['src'] = base64_img
+    if os.path.exists(img_file):  # Ensure file exists
+        # Convert the image to base 64
+        base64_img = "data:image/jpg;base64,{0}".format(image_url_to_base64(img_file))
+        # Update src attribute with the base64-encoded image
+        image['src'] = base64_img
+    else:
+        print(f"Image {img_file} not found.")
 
 # Find module/chapter name (assuming module/chapter start with <p class="title">)
 module_name = soup.find_all('p', class_='title')
@@ -88,6 +98,16 @@ for element in soup.body.children:
 # Append the last lesson if it exists
 if current_lesson:
     lessons.append(current_lesson)
+# Adjust header tags (h1, h2 is preseverd in moodle)
+for lesson in lessons:
+    for i, element in enumerate(lesson):
+        if element.name in ['h2', 'h3', 'h4', 'h5']:
+            new_tag = 'h' + str(int(element.name[1]) + 1)  # Increment header level (e.g., h2 -> h3)
+            element.name = new_tag  # Replace with new header tag
+        if element.name in ['h6']:
+            new_tag = 'p'
+            element.name = new_tag  # Replace with new header tag
+
 
 
 # Get the root of moodle_backup_xml ready
@@ -182,6 +202,7 @@ for i, lesson in enumerate(lessons):
 
      # Update the text content of <contents> elements with the specified contents
     for contents_elem in root_f.iter('contents'):
+        escaped_contents = html.escape(contents)
         contents_elem.text = contents
 
      #  Set the file path and save the XML tree as a new file in the outputs folder

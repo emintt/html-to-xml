@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <activity_gradebook>
   <grade_items>
     <grade_item id="90003">
       <categoryid>6994</categoryid>
-      <itemname>Making the Business Case</itemname>
+      <itemname>Introduction to Design Sprints</itemname>
       <itemtype>mod</itemtype>
       <itemmodule>lesson</itemmodule>
       <iteminstance>2003</iteminstance>

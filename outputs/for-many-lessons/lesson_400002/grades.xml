@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <activity_gradebook>
   <grade_items>
     <grade_item id="90002">
       <categoryid>6994</categoryid>
-      <itemname>Turning Ideas into Concepts</itemname>
+      <itemname>Introduction to Service Design</itemname>
       <itemtype>mod</itemtype>
       <itemmodule>lesson</itemmodule>
       <iteminstance>2002</iteminstance>

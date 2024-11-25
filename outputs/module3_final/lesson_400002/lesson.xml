@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2002" moduleid="400002" modulename="lesson" contextid="1200002">
+  <lesson id="2002">
+    <course>5196</course>
+    <name>Turning Ideas into Concepts</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7002">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Turning Ideas into Concepts</title>
+        <contents>&lt;h3&gt;&lt;span&gt;Bringing the ideas together into concepts&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;You have been previously shown a couple of examples of how you can generate a large amount of ideas. This is necessary to see the range of possibilities and to make sure that everyone has been able to participate. This lesson is all about creating testable concepts out of the ideas that have been created. This is also where we will look at how to assess what might address the pains that your customer is having through the creation of value and ‘gains’.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;When you want to begin to organise the ideas, you need to go back to the same grouping activity that was explained in Chapter 2 - the Affinity Diagram. This grouping activity is about spotting patterns and themes and giving them names. The assumption is that all ideas are on some kind of sticky notes and placed on a wall or a window (or any large, flat surface). This will help to facilitate the notes being re-arranged into groups.   &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Physically being able to move the ideas into different groups is a must when it comes to sorting and creating concepts. It is possible that you may need to group the ideas more than once or that one idea will fit into more than one category. In this instance, you could write the same idea on another sticky note and place it in the second group. &lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Who moves the sticky notes?&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;The simple answer to this question is that everyone does. This is a great silent activity which will allow people the time and space to think about what the ideas mean and what the “red thread” is in the different groups. There may be a time where there is a disagreement on the grouping and this should definitely be discussed. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The whole process can also be done with discussion but this can be affected by the same issues as traditional brainstorming where the loud people (or the higher-ranked) have more say. So just be aware of that dynamic. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Once the groupings have been done, you can begin to conceptualise ideas and see which ideas are more preferable. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Concept sketching&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Concept sketching is a Design Sprint technique that makes ideas tangible. This method allows for each person to design a concept that makes sense to them with the given information. There isn’t any input from others during this and no one will even read the notes that are being made. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Concept sketching is a 4-part sketching method that Knapp highlights in his book which is all about going deeper into an idea. Looking a little further down the road to see how certain aspects will fit together. It makes the idea less abstract and more concrete. This allows everyone on the team to have more information when they will eventually pick a concept to move forward with. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;In this 4-part process, the first three parts are just supportive activities for the person creating the concept. None of this information or personal ideation will be shown to anyone. This exercise harnesses the great value of working alone together. You are free to sketch whatever you like. This is not about perfection or being a really good artist. It is about putting a visual on paper (yes, there can be words too…this isn’t Pictionary®). &lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Step 1 - Note Taking (15 minutes)&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;This is just going back through the data that you have collected and writing the things that you feel are important to note. This can include any goal or outcome that your team has stated (maybe related to a KPI or something like that) but not all sessions will include this. It will also include the How Might We question that the team defined. You can fill up as many pages of blank A4 that you want with all the things that you feel are important. It is important to even write your thoughts down as you do this. What is popping into your mind at that moment, etc? What connecting thoughts are you having? It is important to remember that this is not a time for new ideas or information, it is just about writing down things that you already have. Refreshing your mind of what you have learned so far during the process. &lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Step 2 - Ideas (20 mins)&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Step 2 is all about starting to form your own concepts and ideas out of your notes. You can circle the notes that strike you as something that you feel you want to visualise. Start practising your sketching skills. By putting the notes into a visual form, you are expanding how you look at them and how you understand and internalise them. Quickly sketch each of those that are circled. Maybe it is a scenario or a website screen. You don’t need to have any clear ideas and you are not expected to create anything new.  &lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Step 3 - Crazy 8s (1 minute for each box)&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;This exercise was explained in the previous lesson but in a slightly different way and for a slightly different purpose. It is used to generate different ideas whereas here it is being used to generate 8 different versions of the same idea. So choose your strongest idea that you started to visualise in Step 2 and use that idea for this exercise. This method will help you move beyond your first thought or idea. It could be different floor plans for a brick and mortar store or it could be different versions of the same website, etc. It is important to remember that this will feel uncomfortable and unfamiliar and this is normal. It is also good to remember that the “crazy” part of Crazy 8s is referring to the timeframe you have, not that your ideas should be crazy. This is the time where the ideas are more realistic and feasible.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;All three of these exercises are for your own eyes. You don’t need to share these with anyone, they are just to help you get a clearer image in your mind of what you want to produce to share with the group. It is normal that it feels uncomfortable for many people to express their ideas in this visual way. It isn’t something that is usually used, especially in a business setting. But it helps us to understand and communicate what we mean when describing things in words can get complicated. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The final part of the 4 part sketching is the “solution sketch”. This is the part of the overall exercise where the work will be seen and analysed by others so it needs to be “detailed, thought-out, and easy to understand.”&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;The Solution Sketch (45 minutes)&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;This is where you can organise your thoughts into a clear 3-part story so your team can understand your idea. This is where you will be clear about how it will work. This sketch is done on 3 A4 papers. One for each panel of the concept. Using it like you would a presentation of 3 slides and organising your idea into a clear story.&lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;5 Rules for Sketching&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Be self-explanatory&lt;/span&gt;&lt;span&gt; - You will not have a chance to explain this to anyone, so it should be pretty clear.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Be anonymous&lt;/span&gt;&lt;span&gt; - Don’t put your name on your sketch (and all the same pens and paper should be used). The anonymity is vital to fairness when voting and deciding.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ugly is OK&lt;/span&gt;&lt;span&gt; - It can include stick people and boxes and words (nothing fancy) but remembering that it should be detailed, thoughtful, neat, and complete.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Words matter&lt;/span&gt;&lt;span&gt; - If your screen has words on it, make sure that the space uses good words (not placeholder words or lines indicating words). Be thoughtful and use the space to really reflect what is important there. Annotations (extra explanations) can be used that clearly get your point understood.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Give it a catchy title&lt;/span&gt;&lt;span&gt; - This helps to keep track of the solutions as everyone goes through them. After a certain amount, they may begin to blur together if they are all dealing with the same thing. So a catchy title is something that will help make it memorable and fun too.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;This is now a great time to collect up the ideas and one person can put them up on the wall. It is good to also have the How Might We question and any other desired aims/outcomes up on the wall above the ideas. Then it is time to take a longer break. Maybe lunch or the end of the day.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Analysing Concepts&lt;/span&gt;&lt;/h3&gt;&lt;h4&gt;&lt;span&gt;Sharing and analysing concepts&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Re-reading the How Might We question and any other desired aims/outcomes at the beginning of this helps to keep the direction in mind. Each person goes around and reads the ideas and starts thinking about what they feel is a good way to solve this.&lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Voting&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;There are two ways you can begin to assess the different ideas. Just one can be used or it is possible to use both of them.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;One way is to use dot voting. Either by giving each team member a sheet of little sticky dots (or felt-tipped pens) that they can then apply or draw dots on various ideas that they feel address the problem that is being solved. This creates a kind of ‘heat map’ by showing where most people feel is the best idea or ideas are. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[STORYBOARD VISUAL] &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Another or additional way to analyse these ideas is to use the Impact/Effort Prioritisation Matrix introduced earlier. You can take these ideas (or parts of the ideas) and place them on the matrix. See which quadrant they fall into.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[PRIORITISATION MATRIX]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;After the voting has taken place, a review will take place of the parts of ideas that got the most votes. This is where there can be some discussion. Can good parts of different concepts be brought together? Is there one whole concept that people can agree to move forward on?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;This is where the decision about what you will prototype (Chapter 4) and test (Chapter 5) needs to be made.  &lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Storyboarding your concept&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Once the concept is chosen (or pieces of various concepts are chosen), it is time to start working on creating a more robust concept. This means that it will need to be fully explored. The best way to do this is with a storyboard. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;With a storyboard you take the winning parts of the sketches and begin to piece them together in a similar fashion to the three-panel sketch that was done but in a more elaborate and cohesive way. The storyboard will be roughly 10-15 panels long and it will be in story form. This process can take a couple of hours to a whole afternoon. It is good to spend enough time on it that you are happy that a reasonable prototype will be able to be made from it. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;“The storyboard contained all of our best ideas, stuck together in a story that we could all understand and we hoped it would make sense to customers, too.”&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Jake Knapp&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Drawing empty storyboard cells is how you start this exercise. If this is where you will build up the story of your new concept what you will use to design your testable prototype. Where do you want this customer journey to start? What are you wanting to get out of the test in the end? Is it about testing a new website or a new feature? Is it about a new physical product? A new delivery method? A new in-store experience? You need to create a journey and a storyboard that supports this process. What is created here will guide the actual prototype you will build.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[BLANK STORYBOARD VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Where possible, use the actual sketches that came from the earlier concept(s). Use those in the storyboard so you can see where those fit it and what details are missing around it. It is also very important to remember that this is not the time for new ideas. The task is to elaborate on this idea, not to create any new ones. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Your storyboard is about including headlines and notes and basic descriptors. Do not write at length about any of this. If it cannot be understood as a visual with minimal text, it isn’t right. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Once this is completed, it is time to move to prototyping!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;If it cannot be understood as a visual with minimal text, it isn’t right...yet.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15002">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Turning Ideas into Concepts</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

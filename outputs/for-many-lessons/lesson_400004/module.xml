@@ -1,0 +1,29 @@
+<module id="400004" version="2022112800">
+  <modulename>lesson</modulename>
+  <sectionid>61321</sectionid>
+  <sectionnumber>3</sectionnumber>
+  <idnumber />
+  <added>1728370096</added>
+  <score>0</score>
+  <indent>0</indent>
+  <visible>1</visible>
+  <visibleoncoursepage>1</visibleoncoursepage>
+  <visibleold>1</visibleold>
+  <groupmode>0</groupmode>
+  <groupingid>0</groupingid>
+  <completion>0</completion>
+  <completiongradeitemnumber>$@NULL@$</completiongradeitemnumber>
+  <completionpassgrade>0</completionpassgrade>
+  <completionview>0</completionview>
+  <completionexpected>0</completionexpected>
+  <availability>$@NULL@$</availability>
+  <showdescription>0</showdescription>
+  <downloadcontent>1</downloadcontent>
+  <lang />
+  <plugin_plagiarism_turnitinsim_module>
+    <turnitinsim_mods>
+    </turnitinsim_mods>
+  </plugin_plagiarism_turnitinsim_module>
+  <tags>
+  </tags>
+</module>
