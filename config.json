@@ -1,9 +1,10 @@
 {
   "input_folder": "html-source/FinalSDSChapter3CreatingSolutions",
   "input_file_name": "FinalSDSChapter3CreatingSolutions.html",
-  "output_folder": "outputs\\for-many-lessons\\",
-  "template_folder": "templates\\for-many-lessons\\",
-  "template_lesson_folder": "templates\\for-many-lessons\\lesson_441530_template\\",
+  "output_folder": "outputs/for-many-lessons",
+  "template_folder": "templates/for-many-lessons",
+  "lesson_folder_template": "lesson_441530_template",
+  "backup_file_template": "moodle_backup_template.xml",
   "section_number": 4,
   "default_ids": {
     "module_id": 400000,

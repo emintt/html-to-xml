@@ -1,8 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <activity_gradebook>
   <grade_items>
     <grade_item id="90001">
       <categoryid>6994</categoryid>
-      <itemname>Using co-creation and customer-centricity</itemname>
+      <itemname>Introduction to Ideation</itemname>
       <itemtype>mod</itemtype>
       <itemmodule>lesson</itemmodule>
       <iteminstance>2001</iteminstance>

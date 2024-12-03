@@ -11,27 +11,33 @@ import os
 import json
 from utils.image_utils import image_url_to_base64
 from utils.xml_utils import write_xml_with_custom_declaration
+from utils.file_utils import copy_file_to_directory
 
 with open("config.json", "r") as config_file:
     config = json.load(config_file)
 
 # Define the HTML source file and the output folder
 INPUT_FOLDER = os.path.normpath(config["input_folder"])
-print(INPUT_FOLDER)
-INPUT_FILE_PATH = "{0}FinalSDSChapter3CreatingSolutions.html".format(INPUT_FOLDER)  # The HTML file to be processed
-INPUT_FILE_PATH = os.path.join(INPUT_FOLDER, config["FinalSDSChapter3CreatingSolutions.hml"])
+# INPUT_FILE_PATH = "{0}FinalSDSChapter3CreatingSolutions.html".format(INPUT_FOLDER)  # The HTML file to be processed
+HTML_FILE_PATH = os.path.join(INPUT_FOLDER, config["input_file_name"])  # The HTML file to be processed
+HTML_FILE_PATH = os.path.normpath(HTML_FILE_PATH)
+
 # Define the output folder
-OUTPUT_FOLDER = "outputs\\for-many-lessons\\"
+#OUTPUT_FOLDER = "outputs\\for-many-lessons\\"
+OUTPUT_FOLDER = os.path.normpath(config["output_folder"])
 
 # Define the template folder
-TEMPLATE_FOLDER = "templates\\for-many-lessons\\"
-TEMPLATE_LESSON_FOLDER = "templates\\for-many-lessons\\lesson_441530_template\\"
+#TEMPLATE_FOLDER = "templates\\for-many-lessons\\"
+#TEMPLATE_LESSON_FOLDER = "templates\\for-many-lessons\\lesson_441530_template\\"
 
+TEMPLATE_FOLDER = os.path.normpath(config["template_folder"])
+LESSON_FOLDER_TEMPLATE = os.path.normpath(f"{TEMPLATE_FOLDER}/{config['lesson_folder_template']}")
+BACKUP_FILE_TEMPLATE = os.path.normpath(f"{TEMPLATE_FOLDER}/{config['backup_file_template']}")
 # Define section number
-SECTION_NUMBER = 4
+SECTION_NUMBER = config["section_number"]
 
 # Load the HTML file
-with open(INPUT_FILE_PATH, 'r', encoding='utf-8') as file:
+with open(HTML_FILE_PATH, 'r', encoding='utf-8') as file:
     html_content = file.read()
 
 # Parse the HTML content
@@ -41,7 +47,9 @@ soup = BeautifulSoup(html_content, 'html.parser')
 images = soup.findAll('img')
 for image in images:
     # Construct image file path to create a local path on Windows
-    img_file = "{0}{1}".format(INPUT_FOLDER, image['src'].replace("/","\\"))
+    #img_file = "{0}{1}".format(INPUT_FOLDER, image['src'].replace("/","\\"))
+    img_file = f"{INPUT_FOLDER}/{image['src']}"
+    print(img_file)
     # Convert the image to base 64
     base64_img = "data:image/jpg;base64,{0}".format(image_url_to_base64(img_file))
     # Update src attribute with the base64-encoded image
@@ -84,27 +92,44 @@ for element in soup.body.children:
 if current_lesson:
     lessons.append(current_lesson)
 
+# Adjust header tags (h1, h2 is preseverd in moodle)
+for lesson in lessons:
+    for i, element in enumerate(lesson):
+        if element.name in ['h2', 'h3', 'h4', 'h5']:
+            new_tag = 'h' + str(int(element.name[1]) + 1)  # Increment header level (e.g., h2 -> h3)
+            element.name = new_tag  # Replace with new header tag
+        if element.name in ['h6']:
+            new_tag = 'p'
+            element.name = new_tag  # Replace with new header tag
+
 
 # Get the root of moodle_backup_xml ready
 # Copy template to output folder with the correct naming convention
-shutil.copy2('{0}moodle_backup_template.xml'.format(TEMPLATE_FOLDER), '{0}\\moodle_backup.xml'.format(OUTPUT_FOLDER))
+#shutil.copy2('{0}moodle_backup_template.xml'.format(TEMPLATE_FOLDER), '{0}\\moodle_backup.xml'.format(OUTPUT_FOLDER))
+shutil.copy2(f"{BACKUP_FILE_TEMPLATE}", f"{os.path.join(OUTPUT_FOLDER, 'moodle_backup.xml')}")
+
+# Construct the path to the copied file
+backup_file_path = os.path.join(OUTPUT_FOLDER, "moodle_backup.xml")
+
 # Parse the XML template file for moodle backup and load it into an ElementTree object
-tree_mbt = ET.parse('{0}moodle_backup.xml'.format(OUTPUT_FOLDER))
+#tree_mbt = ET.parse('{0}moodle_backup.xml'.format(OUTPUT_FOLDER))
+tree_mbt = ET.parse(backup_file_path)
+
 # Get the root element of the parsed XML tree
 root_mbt = tree_mbt.getroot()
 
 
 # Create many lesson xml files from templates
 # Supposed ids
-module_id = 400000
-activity_id = 2000
-lesson_id = 2000
-page_id = 7000
-answer_id = 15000
-context_id = 1200000
-page_id = 7000
-answer_id = 15000
-grade_id = 90000
+module_id = int(config["default_ids"]["module_id"])
+activity_id = int(config["default_ids"]["activity_id"])
+lesson_id = int(config["default_ids"]["lesson_id"])
+page_id = int(config["default_ids"]["page_id"])
+answer_id = int(config["default_ids"]["answer_id"])
+context_id = int(config["default_ids"]["context_id"])
+page_id = int(config["default_ids"]["page_id"])
+answer_id = int(config["default_ids"]["answer_id"])
+grade_id = int(config["default_ids"]["grade_id"])
 
 for i, lesson in enumerate(lessons):
 
@@ -133,6 +158,8 @@ for i, lesson in enumerate(lessons):
 
     # Delcare a new path for outputs
     new_path = "outputs\\for-many-lessons\\lesson_{0}".format(module_id)
+    #new_path =
+
 
      # Check if the specified path exists, create it if it doesn't
     if not os.path.exists(new_path):
@@ -141,7 +168,8 @@ for i, lesson in enumerate(lessons):
     # Create lesson.xml #
 
     # Parse the XML template file for lessons and load it into an ElementTree object
-    tree_f = ET.parse('{0}lesson.xml'.format(TEMPLATE_LESSON_FOLDER))
+    # tree_f = ET.parse('{0}lesson.xml'.format(LESSON_FOLDER_TEMPLATE))
+    tree_f = ET.parse(os.path.join(LESSON_FOLDER_TEMPLATE, "lesson.xml"))
 
     # Get the root element of the parsed XML tree
     root_f = tree_f.getroot()
@@ -188,7 +216,9 @@ for i, lesson in enumerate(lessons):
 
     # Create grades.xml #
     # Parse the grades XML template file and load it into an ElementTree object
-    tree_g = ET.parse('{0}grades.xml'.format(TEMPLATE_LESSON_FOLDER))
+    #  tree_g = ET.parse('{0}grades.xml'.format(TEMPLATE_LESSON_FOLDER))
+    tree_g = ET.parse(os.path.join(LESSON_FOLDER_TEMPLATE, "grades.xml"))
+
 
     # Get the root element of the parsed XML tree
     root_g = tree_g.getroot()
@@ -212,7 +242,9 @@ for i, lesson in enumerate(lessons):
 
     # Create inforef.xml #
     # Parse the grades XML template file and load it into an ElementTree object
-    tree_i = ET.parse('{0}inforef.xml'.format(TEMPLATE_LESSON_FOLDER))
+    # tree_i = ET.parse('{0}inforef.xml'.format(TEMPLATE_LESSON_FOLDER))
+    tree_i = ET.parse(os.path.join(LESSON_FOLDER_TEMPLATE, "inforef.xml"))
+
 
     # Get the root element of the parsed XML tree
     root_i = tree_i.getroot()
@@ -228,7 +260,8 @@ for i, lesson in enumerate(lessons):
 
     ## Create module.xml ##
     # Parse the grades XML template file and load it into an ElementTree object
-    tree_m = ET.parse('{0}module.xml'.format(TEMPLATE_LESSON_FOLDER))
+    #tree_m = ET.parse('{0}module.xml'.format(TEMPLATE_LESSON_FOLDER))
+    tree_m = ET.parse(os.path.join(LESSON_FOLDER_TEMPLATE, "module.xml"))
 
     # Get the root element of the parsed XML tree
     root_m = tree_m.getroot()
@@ -248,7 +281,8 @@ for i, lesson in enumerate(lessons):
 
     ## Create moodle_backup_template.xml ##
     # Parse the grades XML template file and load it into an ElementTree object
-    tree_mb = ET.parse('{0}moodle_backup_template.xml'.format(TEMPLATE_FOLDER))
+    #tree_mb = ET.parse('{0}moodle_backup_template.xml'.format(TEMPLATE_FOLDER))
+    tree_mb = ET.parse(os.path.join(TEMPLATE_FOLDER, "moodle_backup_template.xml"))
 
     # Get the root element of the parsed XML tree
     root_mb = tree_mb.getroot()
@@ -300,11 +334,11 @@ for i, lesson in enumerate(lessons):
 
 
      # Copy unchanged files to outputs folder
-    shutil.copy2('{0}calendar.xml'.format(TEMPLATE_LESSON_FOLDER), '{0}\\lesson_{1}'.format(OUTPUT_FOLDER, module_id))
-    shutil.copy2('{0}competencies.xml'.format(TEMPLATE_LESSON_FOLDER), '{0}\\lesson_{1}'.format(OUTPUT_FOLDER, module_id))
-    shutil.copy2('{0}filters.xml'.format(TEMPLATE_LESSON_FOLDER), '{0}\\lesson_{1}'.format(OUTPUT_FOLDER, module_id))
-    shutil.copy2('{0}grade_history.xml'.format(TEMPLATE_LESSON_FOLDER), '{0}\\lesson_{1}'.format(OUTPUT_FOLDER, module_id))
-    shutil.copy2('{0}roles.xml'.format(TEMPLATE_LESSON_FOLDER), '{0}\\lesson_{1}'.format(OUTPUT_FOLDER, module_id))
+    copy_file_to_directory(LESSON_FOLDER_TEMPLATE, "calendar.xml", OUTPUT_FOLDER, f"lesson_{module_id}")
+    copy_file_to_directory(LESSON_FOLDER_TEMPLATE, "competencies.xml", OUTPUT_FOLDER, f"lesson_{module_id}")
+    copy_file_to_directory(LESSON_FOLDER_TEMPLATE, "filters.xml", OUTPUT_FOLDER, f"lesson_{module_id}")
+    copy_file_to_directory(LESSON_FOLDER_TEMPLATE, "grade_history.xml", OUTPUT_FOLDER, f"lesson_{module_id}")
+    copy_file_to_directory(LESSON_FOLDER_TEMPLATE, "roles.xml", OUTPUT_FOLDER, f"lesson_{module_id}")
 
      # Increment various ID counters for the next use
     module_id += 1
