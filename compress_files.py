@@ -1,8 +1,11 @@
-# copy all the content of extracted backup folder to output folder
+# This code duplicates an extracted Moodle backup template folder and organizes the created lesson files, along with
+# the modified moodle_backup.xml file, into the correct directories.
+# Finally, it compresses the folder into a .mbz file compatible with Moodle.
 import json
 import os
 import shutil
 import subprocess
+from utils.file_utils import delete_contents_of_folder
 
 with open("config.json", "r") as config_file:
     config = json.load(config_file)
@@ -11,9 +14,8 @@ path_to_outputs_folder = config["output_folder"]
 path_to_backup_dir_template = os.path.join(config["template_folder"], config["backup_folder_template"])
 path_to_temp_folder = os.path.join(config["final_file_folder"], "temp_folder")
 
-# delete temp_folder if exists
-if os.path.exists(path_to_temp_folder):
-    shutil.rmtree(path_to_temp_folder)
+# delete temp_folder and old backup compressed file if exists
+delete_contents_of_folder(os.path.join(config["final_file_folder"]))
 
 # copy all the content of moodle backup template folder to final_files folder
 shutil.copytree(path_to_backup_dir_template, path_to_temp_folder)

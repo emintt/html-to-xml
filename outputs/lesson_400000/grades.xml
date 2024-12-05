@@ -3,7 +3,7 @@
   <grade_items>
     <grade_item id="90000">
       <categoryid>6994</categoryid>
-      <itemname>Why Prototype?</itemname>
+      <itemname>Miksi me pitchaamme?</itemname>
       <itemtype>mod</itemtype>
       <itemmodule>lesson</itemmodule>
       <iteminstance>2000</iteminstance>

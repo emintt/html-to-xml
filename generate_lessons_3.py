@@ -12,29 +12,29 @@ import json
 from utils.image_utils import image_url_to_base64
 from utils.xml_utils import write_xml_with_custom_declaration
 from utils.file_utils import copy_file_to_directory
+from utils.file_utils import delete_contents_of_folder
+
 
 with open("config.json", "r") as config_file:
     config = json.load(config_file)
 
 # Define the HTML source file and the output folder
 INPUT_FOLDER = os.path.normpath(config["input_folder"])
-# INPUT_FILE_PATH = "{0}FinalSDSChapter3CreatingSolutions.html".format(INPUT_FOLDER)  # The HTML file to be processed
 HTML_FILE_PATH = os.path.join(INPUT_FOLDER, config["input_file_name"])  # The HTML file to be processed
 HTML_FILE_PATH = os.path.normpath(HTML_FILE_PATH)
 
 # Define the output folder
-#OUTPUT_FOLDER = "outputs\\for-many-lessons\\"
 OUTPUT_FOLDER = os.path.normpath(config["output_folder"])
 
-# Define the template folder
-#TEMPLATE_FOLDER = "templates\\for-many-lessons\\"
-#TEMPLATE_LESSON_FOLDER = "templates\\for-many-lessons\\lesson_441530_template\\"
 
 TEMPLATE_FOLDER = os.path.normpath(config["template_folder"])
 LESSON_FOLDER_TEMPLATE = os.path.normpath(f"{TEMPLATE_FOLDER}/{config['lesson_folder_template']}")
 BACKUP_FILE_TEMPLATE = os.path.normpath(f"{TEMPLATE_FOLDER}/{config['backup_file_template']}")
 # Define section number
 SECTION_NUMBER = config["section_number"]
+
+# Delete the old contents of outputs folder if exists
+delete_contents_of_folder(OUTPUT_FOLDER)
 
 # Load the HTML file
 with open(HTML_FILE_PATH, 'r', encoding='utf-8') as file:
@@ -47,7 +47,6 @@ soup = BeautifulSoup(html_content, 'html.parser')
 images = soup.findAll('img')
 for image in images:
     # Construct image file path to create a local path on Windows
-    #img_file = "{0}{1}".format(INPUT_FOLDER, image['src'].replace("/","\\"))
     img_file = f"{INPUT_FOLDER}/{image['src']}"
     print(img_file)
     # Convert the image to base 64
@@ -105,14 +104,12 @@ for lesson in lessons:
 
 # Get the root of moodle_backup_xml ready
 # Copy template to output folder with the correct naming convention
-#shutil.copy2('{0}moodle_backup_template.xml'.format(TEMPLATE_FOLDER), '{0}\\moodle_backup.xml'.format(OUTPUT_FOLDER))
 shutil.copy2(f"{BACKUP_FILE_TEMPLATE}", f"{os.path.join(OUTPUT_FOLDER, 'moodle_backup.xml')}")
 
 # Construct the path to the copied file
 backup_file_path = os.path.join(OUTPUT_FOLDER, "moodle_backup.xml")
 
 # Parse the XML template file for moodle backup and load it into an ElementTree object
-#tree_mbt = ET.parse('{0}moodle_backup.xml'.format(OUTPUT_FOLDER))
 tree_mbt = ET.parse(backup_file_path)
 
 # Get the root element of the parsed XML tree
@@ -159,7 +156,6 @@ for i, lesson in enumerate(lessons):
 
 
     # Delcare a new path for outputs
-    #new_path = "outputs\\for-many-lessons\\lesson_{0}".format(module_id)
     new_path = os.path.join(OUTPUT_FOLDER, f"lesson_{module_id}")
 
 
@@ -170,7 +166,6 @@ for i, lesson in enumerate(lessons):
     # Create lesson.xml #
 
     # Parse the XML template file for lessons and load it into an ElementTree object
-    # tree_f = ET.parse('{0}lesson.xml'.format(LESSON_FOLDER_TEMPLATE))
     tree_f = ET.parse(os.path.join(LESSON_FOLDER_TEMPLATE, "lesson.xml"))
 
     # Get the root element of the parsed XML tree
@@ -211,14 +206,12 @@ for i, lesson in enumerate(lessons):
 
      #  Set the file path and save the XML tree as a new file in the outputs folder
     lesson_file_path = "{0}\lesson.xml".format(new_path)
-    # tree_f.write(lesson_file_path)
     write_xml_with_custom_declaration(tree_f, lesson_file_path)
 
 
 
     # Create grades.xml #
     # Parse the grades XML template file and load it into an ElementTree object
-    #  tree_g = ET.parse('{0}grades.xml'.format(TEMPLATE_LESSON_FOLDER))
     tree_g = ET.parse(os.path.join(LESSON_FOLDER_TEMPLATE, "grades.xml"))
 
 
@@ -244,7 +237,6 @@ for i, lesson in enumerate(lessons):
 
     # Create inforef.xml #
     # Parse the grades XML template file and load it into an ElementTree object
-    # tree_i = ET.parse('{0}inforef.xml'.format(TEMPLATE_LESSON_FOLDER))
     tree_i = ET.parse(os.path.join(LESSON_FOLDER_TEMPLATE, "inforef.xml"))
 
 
@@ -262,7 +254,6 @@ for i, lesson in enumerate(lessons):
 
     ## Create module.xml ##
     # Parse the grades XML template file and load it into an ElementTree object
-    #tree_m = ET.parse('{0}module.xml'.format(TEMPLATE_LESSON_FOLDER))
     tree_m = ET.parse(os.path.join(LESSON_FOLDER_TEMPLATE, "module.xml"))
 
     # Get the root element of the parsed XML tree
@@ -283,7 +274,6 @@ for i, lesson in enumerate(lessons):
 
     ## Create moodle_backup_template.xml ##
     # Parse the grades XML template file and load it into an ElementTree object
-    #tree_mb = ET.parse('{0}moodle_backup_template.xml'.format(TEMPLATE_FOLDER))
     tree_mb = ET.parse(os.path.join(TEMPLATE_FOLDER, "moodle_backup_template.xml"))
 
     # Get the root element of the parsed XML tree
@@ -353,7 +343,6 @@ for i, lesson in enumerate(lessons):
 
 # Write the modified XML back to the output file
 write_xml_with_custom_declaration(tree_mbt, f'{OUTPUT_FOLDER}/moodle_backup.xml')
-# tree_mbt.write(f'{OUTPUT_FOLDER}/moodle_backup.xml', encoding="UTF-8")
 
 
 

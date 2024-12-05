@@ -33,7 +33,7 @@
     <contents>
       <activities>
 
-      <activity><moduleid>400000</moduleid><sectionid>41670</sectionid><modulename>lesson</modulename><title>Why Prototype?</title><directory>activities/lesson_400000</directory></activity><activity><moduleid>400001</moduleid><sectionid>41670</sectionid><modulename>lesson</modulename><title>Building Prototypes</title><directory>activities/lesson_400001</directory></activity><activity><moduleid>400002</moduleid><sectionid>41670</sectionid><modulename>lesson</modulename><title>Testing Prototypes &amp;amp; Iteration</title><directory>activities/lesson_400002</directory></activity></activities>
+      <activity><moduleid>400000</moduleid><sectionid>41670</sectionid><modulename>lesson</modulename><title>Miksi me pitchaamme?</title><directory>activities/lesson_400000</directory></activity><activity><moduleid>400001</moduleid><sectionid>41670</sectionid><modulename>lesson</modulename><title>Pitchauksen anatomia</title><directory>activities/lesson_400001</directory></activity><activity><moduleid>400002</moduleid><sectionid>41670</sectionid><modulename>lesson</modulename><title>Pitchauskäsikirjoitus ja -tapa</title><directory>activities/lesson_400002</directory></activity></activities>
       <sections>
         <section>
           <sectionid>41670</sectionid>
