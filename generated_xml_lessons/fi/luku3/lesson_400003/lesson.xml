@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2003" moduleid="400003" modulename="lesson" contextid="1200003">
+  <lesson id="2003">
+    <course>5196</course>
+    <name>Business casen rakentaminen</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7003">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Business casen rakentaminen</title>
+        <contents>&lt;h3&gt;&lt;span&gt;Mikä on Business Model Canvas?&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Alkuperäinen Business Model Canvas (BMC) on Alexander Osterwalderin vuonna 2005 kehittämä ja vuonna 2008 julkaisema strateginen työkalu, joka nopeuttaa ja yksinkertaistaa ideaan tai konseptiin liittyvän bisnesmallin määrittelemistä ja siitä viestimistä. Tiimit käyttävät sitä kuitenkin myös pohtiessaan ja määritellessään tapaa, jolla heidän liikeideansa tai -konseptinsa ansaitsee rahaa, tuo lisäarvoa asiakkaille ja muodostaa pohjan jatkokehitykselle. Yksi BMC:n pääominaisuuksista on, että se on yksisivuinen. Tämän ominaisuuden ansiosta se on helppotajuinen ja jaettavissa muiden kanssa.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Toinen BMC:n ominaisuus on, että vaikka se on jaettu eri osiin, se voidaan jakaa myös keskeltä kahtia, jolloin vasemmalla puolella keskitytään sisäiseen liiketoimintaan ja oikealla puolella ulkoisiin asiakkaisiin liittyviin seikkoihin.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Maailma on muuttunut vuodesta 2008, ja tänä päivänä liiketoimintaa kehitettäessä on otettava huomioon uusia ja tärkeitä asioita, etupäässä kestävään kehitykseen liittyen. Alkuperäinen BMC on loistava malli, joka mukautuu muuttuviin tarpeisiin. Yksi sen alkuperäisistä päätavoitteista oli, että se on riittävän yksinkertainen, jotta voidaan ketterästi reagoida ja heijastella liiketoiminnan ja liiketoimintaympäristön muutoksia. Ei olekaan liikaa vaadittu, että malliin sisällytetään jotain niinkin tärkeää kuin kestävä kehitys!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Metropolia-ammattikorkeakoulu loi BMC:stä muokatun version heijastellakseen liiketoiminnan nykyisiä vaatimuksia, eli toteutettavuutta, haluttavuutta, kannattavuutta ja kestävyyttä. Metropolia Business Model Canvasiksi (MBMC) kutsuttu malli sisältää pääosin alkuperäiset kysymykset, mutta niitä on täydennetty lisäkysymyksillä, joiden avulla on helpompi integroida kestävä kehitys konseptiin. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[VISUAL MBMC]&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Miksi käyttää Business Model Canvas -mallia?&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Rahan ansaitseminen on olennainen osa minkä tahansa yrityksen toimintaa. Se on myös olennainen osa useimpien organisaatioiden toimintaa, vaikka se ei olisikaan organisaation päätarkoitus. MBMC on loistava työkalu, jonka avulla sisäiset tiimit tai ulkoiset sidosryhmät voivat nopeasti ymmärtää, kuinka yrityksesi ansaitsee rahaa ja mikä erottaa sen muista yrityksistä. Toinen tärkeä ominaisuus on, että se on tarpeeksi yksinkertainen, jotta sitä voidaan iteroida ja muuttaa milloin tahansa. MBMC-mallia (tai muuta BMC-mallia) ei ole tarkoitettu staattiseksi asiakirjaksi – se on jatkuvasti ”työn alla”. Tätä asiakirjaa ei myöskään ole tarkoitettu käytettäväksi virallisena asiakirjana, eikä se mahdollista yrityslainan saamista eikä yrityksen perustamista.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;MBMC on yksinkertainen, yksisivuinen dokumentti, jota käytetään sisäisenä työkaluna, jotta kaikki ymmärtävät, mitä yritys tekee, miten se ansaitsee rahaa, ketä se palvelee, miten se tavoittaa heidät ja mitkä ovat sen erityispiirteet ja rahoitustulot ja -menot yksinkertaisesti ilmaistuna. Kun kaikki tämä on ilmaistu yhdellä sivulla, tiimisi voi helpommin sisäistää yrityksen ja sen toiminnan. Lisäksi kestävä kehitys on parasta rakentaa yrityscaseen heti suunnitteluvaiheesta lähtien. Kestävää kehitystä on paljon vaikeampi lisätä olemassa olevaan bisnesmalliin tai -konseptiin myöhemmin, kun lukuisia päätöksiä on jo tehty.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kun otat työn alle mahdollisesti testaamattoman konseptin tai idean, voit käyttää MBMC-mallia varmistaaksesi, että kyseisen idean tai konseptin toteuttaminen on liiketaloudellisesti järkevää. Voi olla, että osa mahtavista konsepteista tai ideoista ei itse asiassa toimi, koska niitä ei voi perustella liiketaloudellisesti. Suunnittelussa, erityisesti palvelumuotoilussa liiketoiminnan kannattavuus on yhtä tärkeää kuin haluttavuus, tekninen toteutettavuus ja kestävä kehitys (ja tässä palataan takaisin luvussa 1 esiteltyyn Venn-kaavioon).   &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[SUSTAINABILITY VENN DIAGRAM]&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Kuinka käyttää MBMC (Metropolia Business Model Canvas) -mallia?&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;MBMC-mallia ei välttämättä täytetä vasemmalta oikealle, koska se rakentuu kahdesta eri puoliskosta, joista toinen keskittyy sisäiseen ja toinen ulkoiseen liiketoimintaan. On melko varmaa, että ET pysty täyttämään koko mallia yhdeltä istumalta. Se on ”työn alla”, etenkin kun olet vasta aloittamassa.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;MBMC-mallissa on 12 osa-aluetta, jotka auttavat sinua rakentamaan liikeideaasi.&lt;/span&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Avainkumppanit&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Avaintoiminnot&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Arvolupaus&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Tulovirrat ja potentiaali&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Tavoite&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Avainresurssit&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Asiakassuhteet&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Asiakassegmentit&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Kustannusrakenne&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Avainmittarit&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Kanavat&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Tuotteen elinkaari&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;h4&gt;&lt;span&gt;Ensimmäiset 6 koskevat sisäistä liiketoimintaa, jälkimmäiset 6 asiakkaita&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Avainkumppanit-osiossa&lt;/span&gt;&lt;span&gt; on kyse siitä, kenen kanssa sinun täytyy tehdä yhteistyötä liiketoimintasi mahdollistamiseksi: toimittajat, yhteistyökumppanit jne. Lisäksi on tärkeää huomata, mikä on heidän funktionsa. Mahdollistavatko ne pääsyn markkinoille, joita sinulla ei muuten olisi, vähentävätkö ne riskejäsi/kustannuksiasi toimittamalla keskeisen infrastruktuurin (digitaalisen tai fyysisen) jne. Keitä he ovat ja mitä he tekevät? Millainen maine heillä on? Kuinka kestävän kehityksen mukaisia ne ovat?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tavoite-osiossa&lt;/span&gt;&lt;span&gt; määritetään syy liiketoiminnan aloittamiselle. Ole täsmällinen ja selkeä päämääräsi suhteen.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kustannusrakenne-osiossa&lt;/span&gt;&lt;span&gt; on kyse liiketoiminnan kustannusten tuntemisesta. Mihin sinun on investoitava, jotta todella menestyisit liiketoiminnassasi? Mikä tulee sinulle kalleimmaksi? Kiinteät kustannukset, muuttuvat kustannukset jne. Onko olemassa kestävän kehityksen mukaisia vaihtoehtoja?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Avaintoiminnot &lt;/span&gt;&lt;span&gt;on se, mitä sinun on tehtävä, jotta voit täyttää arvolupauksesi. Mitä asiakassuhteita sinun pitää rakentaa, mitä jakelukanavia sinun on varmistettava käyttäväsi jne. Miten ne voivat auttaa sinua saavuttamaan kestävyystavoitteesi?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Avainresurssit&lt;/span&gt;&lt;span&gt; liittyvät avaintoimintoihin, siksi ne ovat vierekkäin. Näitä tarvitaan resurssillisesti sekä arvolupauksen täyttämiseen olemassa olevien jakelukanavien kautta että asiakassuhteiden käynnistämiseen ja ylläpitoon jne. Ovatko käyttämämme resurssit riskialttiita? Onko vaihtoehtoja? Ota huomioon kaikenlaiset resurssit: luonnonvarat, energia- (fossiilinen vs. uusiutuva), tekniset, henkilöstö-, taloudelliset  jne.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Avainmittarit&lt;/span&gt;&lt;span&gt; mittaavat, miten yrityksesi pärjää tavoitteiden suhteen. Miten yrityksessäsi mitataan menestystä? Miten kestävä kehitys huomioidaan ja miten sitä mitataan?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Arvolupaus&lt;/span&gt;&lt;span&gt; on aina jotain erityistä, mitä yritykselläsi on ja mitä toimitat asiakkaalle. Mikä on vastaus asiakkaiden todelliseen ongelmaan ja mitkä ovat ne asiakkaiden tarpeet, jotka tyydytät kussakin asiakassegmentissä. Miten asiakkaasi odottavat sinun lunastavan kestävyyslupauksia tai täyttävän heidän omat odotuksensa?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Asiakassuhteet&lt;/span&gt;&lt;span&gt; kuvastavat suhdettasi yhden tai useamman asiakassegmentin kanssa. Mitkä niistä olet jo toteuttanut, kuinka kalliita ne ovat ja onko olemassa vaihtoehtoja? Monissa palveluissa on kolme osallistumisen perustasoa: itsepalvelu, yhteisluominen tai palvelun toteuttaminen asiakkaan puolesta. Mitä sinun yrityksesi tekee? Miten tuet kestäviä asiakassuhteita? Miten yrityksesi voi auttaa asiakkaita tekemään kestävämpiä valintoja?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kanavat&lt;/span&gt;&lt;span&gt; ovat tapoja, joilla tavoitat asiakkaasi. On tärkeää tietää, missä asiakkaasi ovat ja miten he löytävät sinut. Mitkä kanavat toimivat parhaiten millekin asiakastyypille ja miten voit integroida ne liiketoimintaasi? Lisäksi on tärkeää tietää, mitä kanavia käytät asiakasmatkan eri aikoina: asiakkaan tietoisuus, arviointi, osto, toimitus ja jälkimarkkinointi.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tulovirrat-osiossa&lt;/span&gt;&lt;span&gt; tarkastellaan, kuinka yrityksesi tuottaa tuloja. Mitä asiakkaat ovat valmiita maksamaan ja miten he haluaisivat maksaa? Haluavatko he tilausmallin vai kertamaksun? Tarjoatko lisensointia tuotteellesi tai palvelullesi? Toimiiko yrityksesi B2B- vai B2C-pohjalta? Millä tavoilla yritys voi ansaita? Onko tarjolla tukia tai verohelpotuksia kestävämmän kehityksen tueksi? Kuinka voit hyödyntää kestävän kehityksen tasosi ansaitaksesi enemmän? On hyvin mahdollista, että yhtiöllä on useita tulovirtoja. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Asiakassegmentit&lt;/span&gt;&lt;span&gt; ovat asiakasryhmiä, joita aiot palvella. Miten määrittelet nämä segmentit? Voitko jakaa asiakkaasi eri segmentteihin sen perusteella, kuinka motivoituneita he ovat ostamaan tuotteesi (tämän tyyppinen segmentointi on parempi vaihtoehto kuin perinteinen demografinen segmentointi), koska he puhuvat samankaltaista kieltä ja tunnistavat itsensä paremmin markkinoinnissasi. Onko kestävä kehitys heille tärkeää, ja voitko kasvattaa asiakaskuntaasi olemalla kestävämpi? &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tuotteen elinkaari &lt;/span&gt;&lt;span&gt;on ensiarvoisen tärkeä osio niille, jotka ovat luomassa fyysisiä tuotteita. Prosessin alussa on tärkeää suunnitella, mitä tapahtuu tuotteille, jotka ovat saavuttaneet käyttöikänsä, jotta käyttäjien on helpompi selviytyä prosessista. Onko tuotteesi suunniteltu ajatellen kierrätystä, uudelleenkäyttöä tai muuntamista sellaiseen muotoon, jossa sen arvo ja laatu kasvaa (upcycling)? Onko tuote helppo kunnostaa? Tarjoatko asiakkaille mahdollisuuden palauttaa tuote sinulle?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kuten edellä mainittiin, tätä mallia ei täytetä vasemmalta oikealle, vaan voit vapaasti hypätä osioihin, jotka jo tunnet. Jos tarvitset lisätietoja, alkuperäisen BMC-mallin selittämiseksi on julkaistu lukuisia artikkeleita ja videoita, eikä sinun tarvitse muuta kuin googlettaa!&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Lisäresursseja ja -malleja&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Strategyzer (2.20)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The Business Channel (9:41)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Sheda Medium -sivut (7 minuutin lukuhetki)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Prioritisaatiomatriisipohja&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;MBMC-pohja kysymyksineen&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15003">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Business casen rakentaminen</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

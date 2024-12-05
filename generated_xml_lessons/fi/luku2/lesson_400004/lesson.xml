@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2004" moduleid="400004" modulename="lesson" contextid="1200004">
+  <lesson id="2004">
+    <course>5196</course>
+    <name>Asiakasmatkan rakentaminen</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7004">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Asiakasmatkan rakentaminen</title>
+        <contents>&lt;h3&gt;&lt;span&gt;Mikä on asiakasmatkakartta?&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Asiakasmatkakartoissa ei ole kyse siitä, mitä yksi henkilö tiimissä ajattelee tapahtuvan tai edes siitä, mitä ”asiantuntijatiimi” olettaa tapahtuvan. &lt;/span&gt;&lt;span&gt;Asiakasmatkakartta on rakennettu kokonaan asiakkaan kokemuksen ja näkökulman pohjalta.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Asiakasmatkojen kartoitus on prosessi, jossa yhdistetään kaksi ihmisen perusviestintätyökalua – tarinankerronta ja visualisointi. Sekä tarinankerronta että visualisointi auttavat ihmisiä ymmärtämään tiettyjä käsitteitä paremmin. Ne myös auttavat herättämään empatiaa. Tällainen kartoitus on tapa nähdä yrityksen palvelu käyttäjän näkökulmasta. Sen avulla voi kulkea ostopersoonan matkan saadakseen käsityksen kipupisteistä (joissa palvelusi ei täytä lupauksiaan) samoin kuin siitä, mikä sujuu. Se on myös tapa nähdä isompi kuva kuin vain se osa kokemusta, jonka jokapäiväinen työsi saattaa piilottaa näkyvistä.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Lisäksi matkakartat auttavat visualisoimaan asiakkaan kokemuksen ajan mittaan. Käyttäjän tai asiakkaan kokemus ei ole hetkellinen tapahtuma, minkä voi huomata palautuskäytännöistä. Jos kyse olisi hetkellisestä tapahtumasta, ostaisit tuotteen tai palvelun ja se olisi siinä. Mutta me kaikki ymmärrämme, että kokemuksen avautuminen vie aikaa…&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;​​Yrityksesi tai organisaatiosi on käyttäjän silmissä vain yksi palveluntarjoaja, vaikka ulkoistaisit eri toimintoja tai tekisit yhteistyötä muiden yritysten kanssa. Riippumatta siitä, kuka back endistä on vastuussa, käyttäjä odottaa palvelun olevan yhtenäinen ja saumaton.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tärkein asia, joka asiakasmatkakartasta kannattaa muistaa on, että se perustuu tekemiisi asiakastutkimuksiin.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Asiakasmatkakartan perusosatekijät&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Jos etsit netistä matkakarttaa, löydät monia erilaisia muunnelmia. Se voi tuntua pelottavalta, mutta yksinkertaista matkakarttaa luotaessa tietoa on vain viisi riviä (tai kaistaa, kuten jotkut niitä kutsuvat).&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Olemme jo puhuneet matkakartan ylimmästä rivistä: pisteestä kartan aikajanalla. Mutta mitä muita kaistoja kartalla on? Jos haluat toiminnallisen peruskartan, josta voit oppia jotain, on tärkeää, että matkakartassa on vähintään seuraavat neljä riviä tietoja:&lt;/span&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Asiakkaan toiminta&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;eli kuvaus siitä, mitä asiakas todella tekee tapahtumaketjun kyseisellä hetkellä.&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Asiakkaan tavoitteet&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;eli mitä asiakas haluaa saavuttaa. He saattavat etsiä netistä putkimiestä (toiminta), mutta heidän tavoitteensa on saada veden suihkuaminen loppumaan kylpyhuoneeseessa (tavoite).&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Kosketuspisteet (tai -kanavat)&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;eli tavat, joilla asiakas on vuorovaikutuksessa yrityksen kanssa. Millä tavoilla he kommunikoivat kanssasi (esim. s-posti, puhelin, myymälä tai verkkosivusto)?&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Kokemus&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;eli tunnekokemus, jonka asiakkaat saavat toimiessaan ja yrittäessään saavuttaa kyseessä olevan tavoitteen. Näemme jäljempänä seuraavassa esimerkissä, että Sara toivoo yrityksen ottavan yhteyttä, mutta he eivät palaa asiaan, jolloin hänen tunnetasonsa on erittäin alhainen (todennäköisesti turhautunut ja ärtynyt). Tunnematka on tärkeä osa tallennettavaa asiakasmatkaa. &lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;span&gt;﻿[JOURNEY MAP VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Millainen kartta tarvitaan?&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Ryhdyttäessä luomaan matkakarttaa on tehtävä kaksi päätöstä:&lt;/span&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Aika&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Yksityiskohtien taso&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;span&gt;Aikaperspektiivi, eli oletko luomassa nykyistä vai toivottua, tulevaisuuden matkakartta?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;JA&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Matkakartan yksityiskohtaisuus, eli haluatko luoda laajan yleiskatsauksen vai yksityiskohdiltaan täsmällisen matkakartan?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Voit tehdä ylätason analyysin, jossa käyt läpi erittäin laajan yleiskatsauksen organisaatiosi tarjoamasta palvelusta, tai esimerkiksi kirjautumisprosessiin pureutuvan yksityiskohtaisen analyysin. Ensiksi on siis määriteltävä, mitä olet kartoittamassa. &lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Nykyinen ja/tai toivottu, tuleva matkakartta&lt;/span&gt;&lt;/h5&gt;&lt;h5&gt;&lt;span&gt;Mainitsimme edellä, että matkakartoissa on kaksi aikaperspektiiviä, eli kyseessä voi olla kartta siitä, miten asiat nykyisellään tehdään tai se voi olla kartta toivotusta tulevaisuudenkuvasta. Usein on hyvä luoda molemmat, jotta kaikki todella ymmärtävät lähtökohdan. Yksi este palvelu- (tai tuote)kokemuksen parantamiselle on, että ei tiedetä, millainen nykyinen asiakaskokemus on, mistä seuraa, että ei tiedetä, mihin suuntaan lähteä sitä kehittämään. &lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Toivottu tulevaisuuden matkakartta auttaa sinua tunnistamaan, mihin parannukset on kohdistettava, jotta haluamasi asiakaskokemus saavutetaan. Se on vähän sama kuin, että valitaan lopputulos tai määränpää ja palataan taaksepäin, jotta nähdään, mitä pitää tapahtua (ja minkä pitää muuttua) tämän hetken ja päättymispäivän välillä, jotta tavoitteet saavutetaan.&lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Yksityiskohtien tasot&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Toinen päätös, joka sinun on tehtävä on, kuinka yksityiskohtaisen matkakartan aiot luoda. Matkakartan ylimmällä tasolla luodaan yleissilmäys asiakkaan toimintaan ennen matkaa, matkan aikana ja matkan jälkeen. Kuten alla olevista kuvitetuista kartoista voi nähdä, jokainen seuraavista karttatasoista pureutuu syvemmälle tiettyyn osaan asiakkaan kokemusta.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[LEVELS OF DETAIL VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tässä matkakarttojen yksityiskohtien tasoa kuvaavassa esimerkissä näet, kuinka jokainen seuraava taso pureutuu syvemmälle edelliseen. Tiimin on päätettävä, kuinka yksityiskohtaisesti se haluaa asiakkaan matkaa tarkastella. Jos haluamme luoda matkakartan siitä, millainen päätösprosessi edeltää pistettä, jossa asiakas ostaa tuotteen tai palvelun, valinta on taso 2. Jos haluamme kartoittaa, kuinka asiakkaat alkavat käyttää palvelua, kysymyksessä on todennäköisesti taso 3. Jos haluamme tarkastella sähköpostiviestien vaihtoa pienintä yksityiskohtaa myöten (esim. viestien lukumäärä, viestien sisältö tai kuinka asiakasta ohjeistetaan), kun henkilö kirjautuu palveluun ensimmäistä kertaa, valinta on taso 4.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Matkakartta muistuttaa maantieteellistä karttaa, joka näyttää – riippuen siitä, kuinka paljon sitä zoomaa – paikan, johon pääset lentokoneella 24 tunnissa, autolla 5 tunnissa tai vaikkapa kävellen 15 minuutissa. Valitsemasi yksityiskohtien taso määrää myös asiakaskokemuksen keston. Onko kyseessä esimerkiksi koko viikko tasolla 1, päivä tai kaksi tasolla 2, tunti tasolla 3 vai vain muutama minuutti tasolla 4?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Sovi siis tiimin kesken kartan taso ja perspektiivi, jolloin voitte ryhtyä täyttämään omaa karttaanne.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;ESIMERKKI&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Saran löytömatkaa palveluihin kuvaavassa esimerkissä näet, kuinka ylimmällä tasolla luodaan yleissilmäys asiakasmatkaan. Voit halutessasi päättää tarkastella lähemmin asiakaskokemusta kartoittavassa osiossa keltaisella tai punaisella pisteellä merkittyjä alueita ja luoda kartan kyseiselle osuudelle ymmärtääksesi, missä mahdolliset ongelmat piilevät. (Kyse on puhtaasta esimerkistä, ja se on siitä syystä tarkoituksellisesti epämääräinen käsiteltävän palvelun suhteen.)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt; [FILLED JOURNEY MAP VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Asiakasmatkakartta käytännön työssä&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Palvelumuotoiluprosessi käynnistyi koko joukolla tutkimuksia, mikä tarkoittaa, että ostopersoonasi perustuu tutkimukseen, jolloin myös luomasi asiakasmatkakartta voi perustua tutkimukseen. Onkin erittäin tärkeää varmistaa, että matkakartta perustuu tutkimustietoon eikä arvailuihin, sillä tämä on lähtökohta sen tarkastelulle, missä ja miten voit parantaa asiakkaasi kokemusta. Jos se tehdään oletuksiin pohjautuvan kartan pohjalta, pohjimmiltaan esität vain arvailuja. Ja toiminta- tai tuotantotapojen muuttaminen arvauksen perusteella ei ole hyvä strategia lyhyellä saati pitkällä aikavälillä.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kuten mainitsimme, matkakartan tulisi kuvata yhden edellä luomasi ostopersoonan matkaa. Jokaisella ostopersoonatyypillä on erilainen matka, ja matkakarttojen luominen kannattaa jo yksinomaan sen vuoksi, että ymmärrät kuinka heidän matkansa eroavat toisistaan. Se kertoo sinulle, missä sinun on täydennettävä asiakaskokemuksen eri osia tai missä sinun on tarjottava asiakkaille uusia polkuja tai mahdollisuuksia.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ostopersoona ja matkakartta kietoutuvat toisiinsa tavalla, joka auttaa yritystä ymmärtämään paremmin, keitä heidän asiakkaansa ovat, mitä he tarvitsevat ja kuinka he käyttävät tuotteita ja palveluita. Lisäksi ne auttavat herättämään empatiaa, jota tarvitaan pyrittäessä luomaan – ja haluttaessa luoda – todellista arvoa asiakkaille.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;On syytä tähdentää, että tutkimuspohjainen, ostopersoonavetoinen matkakartta on työkalu, jota tarvitaan asiakaskokemuksen uudelleenmuotoilussa (millä tahansa tasolla). Se ei ole lopputulos eikä taideteos (vaikka se saattaa siltä tuntuakin kaiken sen eteen tehtävän kovan työn jälkeen). Niin ristiriitaista kuin se onkin, matkakartta on sekä tilannekuva ajassa että jotain, mikä muuttuu jatkuvasti. Kuten Mark Stickdorn, joka on muun muassa kahden palvelumuotoilun perusteoksen eli &lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://www.service-design-network.org/books-and-reports/this-is-service-design-thinking&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1733332142753527&amp;amp;usg=AOvVaw1botgny_bG215NaTpArFuE"&gt;This is Service Design Thinking&lt;/a&gt;&lt;/span&gt;&lt;span&gt; (2012) ja &lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://www.thisisservicedesigndoing.com/&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1733332142753955&amp;amp;usg=AOvVaw0Fixhno0x9CsHStznMRjnM"&gt;This is Service Design Doing&lt;/a&gt;&lt;/span&gt;&lt;span&gt; (2018) toinen kirjoittaja, sanoo: ”asiakasmatkakartat eivät ole toimitettavia palveluita!” Se tarkoittaa, että matkakartan pointti on, ettei ole mitään karttaa, eli että sitä käytetään vain lähtökohtana tarjottavien palveluiden luomisessa (esim. parannetut palvelut, uudet palvelut tai paremmat asiakaskokemukset). Vasta asiakasmatkakartan laatiminen käynnistää kovan työn parempien palvelujen muotoilussa, sillä nyt tiedetään, missä kipupisteet sijaitsevat!&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Matkakartan luominen&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Fyysisesti matkakartan luominen voi olla niinkin yksinkertaista, että otat tyhjän paperin ja piirrät siihen tarvittavat osiot. Lopputuloksen ei tarvitse olla kaunis tai monimutkainen. Sen pitää vain olla ymmärrettävä niille, jotka sitä katsovat. Loistava tapa luoda ensimmäinen versio asiakasmatkakartasta on ottaa käteen iso paperi (ehkä fläppitaululta tai paperirullalta) ja tarralaput. Tarralaput ovat tärkeitä, koska ne ovat liikuteltavissa. Kukaan ei koskaan osu matkakartassa oikeaan heti ensimmäisellä kerralla, ja tiedon lisääntyessä on välttämätöntä pystyä siirtämään prosessin eri vaiheita vasemmalle ja oikealle. Voit halutessasi lisätä osioiden väliin sarakkeen, joka muistuttaa tiimiläisiä unohdetuista vaiheista tai väärinymmärretyistä prosesseista. Tämä on aivan normaalia, ja odotettavaakin. Kun aloitat matkakartan luomisen tällä ketterällä ja luovalla tavalla, voit tarpeen mukaan lisätä tai poistaa tietoja.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Voit käyttää oheisia malleja ja halutessasi tulostaa ne A3- tai julistepaperille, mutta ne ovat vain suuntaa-antavia. Voit aivan yhtä helposti kopioida niiden yksinkertaiset rivit käsin tyhjälle paperille.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Mallipohja&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Nykyinen matkakartta&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15004">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Asiakasmatkan rakentaminen</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

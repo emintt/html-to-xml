@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2002" moduleid="400002" modulename="lesson" contextid="1200002">
+  <lesson id="2002">
+    <course>5196</course>
+    <name>Prototyyppien testaaminen ja iterointi</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7002">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Prototyyppien testaaminen ja iterointi</title>
+        <contents>&lt;h3&gt;&lt;span&gt;Prototyypin testaaminen&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Tärkeintä prototypoinnissa on viedä prototyyppi ihmisten nähtäville ja kokeiltavaksi, ja jotta tästä saa parhaan hyödyn, tulee valita oikeantyyppinen prototyyppi. Kun keräät palautetta prototyypistäsi, sen tulisi olla mahdollisimman puolueetonta ja rehellistä. Alla on muistilista muutamista asioista. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kun testauksessa käytetään erittäin viimeisteltyä prototyyppiä, ihmiset antavat yleensä vähemmän negatiivista palautetta, koska heistä saattaa tuntua, että olet uhrannut siihen paljon aikaa ja vaivaa. Tämä ei ole sitä, mitä haluat. Toisinaan vähemmän viimeistelty tuottaa laadukkaampaa palautetta.&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Ota askel taaksepäin prototyypistä, mikä tarkoittaa esimerkiksi, että prototyypin luomisesta kerrotaan neutraalimmin. Sen sijaan, että sanoisit ”olemme luoneet tämän prototyypin/tuotteen/palvelun”, korvaa se sanomalla persoonattomammin ”tämä prototyyppi/tuote/palvelu on suunniteltu/luotu…”. Ihmiset eivät halua loukata tunteitasi, jos he ajattelevat, että kyseessä on jotain, minkä olet itse luonut.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Esitä avoimia kysymyksiä, kun haluat tietää, kuinka helppo tai vaikea prototyyppi käyttäjien mielestä on.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Kerro käyttäjille täsmällisesti, minkä toiminnon haluat heidän suorittavan.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Sinun ei tarvitse järjestää koko joukkoa testaussessioita, jotta saat suurimman osan palautteesta.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span&gt;Paras tapa testata prototyyppiä on palvelua käyttävien ihmisten parissa, mutta rehellisesti sanottuna se ei aina ole mahdollista. Jos et saa kokoon tarvittavaa määrää oikeita käyttäjiä, toiseksi paras vaihtoehto on, että prototyyppiä testaavat ihmiset, joilla ei ole aavistustakaan siitä, mitä olet tekemässä. Jos joku tietää palvelusta enemmän kuin tavallinen käyttäjä, prototyypin tuoma lisäarvo on minimaalinen. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Testaamiseen valmistautuminen&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Matalan tarkkuuden digitaaliset prototyypit (joko paperi- tai digitaaliset mallit) on helppo viedä käyttäjien nähtäväksi. Älä häpeä niiden puuttuvaa viimeistelyä. Tutkimukset ovat osoittaneet, että käyttäjät ehdottavat todennäköisemmin hyödyllisiä muutoksia johonkin, minkä he tietävät edelleen olevan työn alla. Toisin sanoen, jos prototyyppi näyttää liian hienolta, käyttäjät eivät todennäköisesti ole rehellisiä, koska he näkevät kaiken sen eteen tehdyn kovan työn, eivätkä halua tuottaa sinulle pettymystä. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Aivan samalla tavoin kun loit haastattelurungon asiakashaastatteluja varten, voit luoda kysymysrungon prototyppien testausta ajatellen. Ensin kannattaa laatia kysymykset, jotta prototyyppien testaaminen olisi johdonmukaista ja vertailukelpoista, minkä jälkeen pitää laatia lomake vastausten keräämistä varten. Päätä, mitä haluat testata ja millaisia tuloksia haet.&lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Kuka testaa?&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Prototyypin testaamisessa on kaksi puolta: testaajat ja käyttäjät.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Testaajien &lt;/span&gt;&lt;span&gt;pitäisi olla niitä, jotka ovat mukana luomassa prototyyppiä. Saatat tarvita myös digitaalisten palvelujen asiantuntijan (mutta silloinkin prototyypin luojan tulee olla mukana).&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Käyttäjien &lt;/span&gt;&lt;span&gt;tulee edustaa oikeita käyttäjiä ja mahdollisesti palveluntarjoajia. Palvelun on oltava järkevä ja helppokäyttöinen palvelun molemmille osapuolille. Jos kyseessä on fyysinen palvelu, sen testaaminen sekä palveluntarjoajan että käyttäjän näkökulmasta on tärkeää. Jos kyseessä on pikemminkin digitaalinen itsepalvelutyökalu, riittää, että testaat sitä vain loppukäyttäjillä.&lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Kuinka monta testiä tarvitaan?&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Mitä tulee testien lukumäärään, voit rajoittaa määrän noin viiteen jokaisella kierroksella. Ei tarvitse tehdä valtavaa määrää testejä saadakseen ymmärrystä useimpiin asioihin. Tähän pätevät säännöt ovat hyvin samankaltaisia kuin luvussa 2, eli perusteelliseen asiakastutkimukseen sovellettavat säännöt.&lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Kuinka löydetään käyttäjät testaamaan prototyyppiä?&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Testaussessioiden järjestäminen pitää aloittaa jo ennen kuin prototyyppi on valmis, jotta vältytään ajanhukalta. Eli prototyypin valmistumiselle asetetaan takaraja, ja palvelun käyttäjille aletaan varata aikoja tuleviin testeihin jo ennen määräajan umpeutumista. Testausaikojen varaamisen yhteydessä on harkittava, tarjoatko käyttäjälle palkkion osallistumisesta. Ne voivat olla lahjakortteja elokuvissa käymiseen tai paikallisiin liikkeisiin tai jonkinlainen verkkokuponki.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;On useita tapoja saada ihmiset testaamaan prototyyppiä. Ensin voit lähestyä palvelusi todellisia yrityskäyttäjiä. Voit kenties lähettää yleisen sähköpostin, jossa etsitään kiinnostuneita testaajia seuraavaan projektiin. Lisää tähän sähköpostiin myös tieto siitä, saavatko he ajastaan ja vaivannäöstään jonkinlaisen korvauksen. Toiseksi, voit laittaa kyselyn erilaisiin Facebook-ryhmiin, joiden jäsenissä on käyttäjäpersooniasi (muista kysyä lupa ryhmän omistajalta, ellet se ole sinä). Tämä koskee myös muita sosiaalisen median sivustoja. Näiden lisäksi voit halutessasi investoida some-mainontaan, jolloin voit suunnata mainoksen haluamillesi ihmisille (joiden pitäisi mahdollisimman hyvin vastata yrityksen ostopersoonia).&lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Testien dokumentoiminen&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Kysymysrungon lisäksi on syytä laatia jonkinlainen lomake vastausten tallentamiseen. Ehkä voit muistiinpanojen lisäksi luoda pisteytysjärjestelmän lineaarisilla asteikoilla siitä, kuinka helposti eri toiminnot suoritettiin. Tärkeintä on varmistaa, että session aikana tehdyt muistiinpanot ovat perusteellisia, mikä saattaa edellyttää, että paikalla ei ole vain käyttäjän kanssa prototyyppiä testaava henkilö. Eli, mikäli mahdollista, on hyvä, että paikalla on toinen henkilö, joka tekee tarkkoja muistiinpanoja prosessin etenemisestä.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Jos testejä on vetämässä useita ihmisiä, on hyvä käyttää standardoitua muistiinpanolehtiötä. Näin varmistetaan, että kerätyt tiedot ovat muiden ymmärrettävissä, jos haastattelija ei jostain syystä pääse esittelemään palautetta. Samalla tavoin, kun poimitaan oivalluksia kerätyistä tiedoista ja hyödynnetään niitä tehtäessä muutoksia prototyyppiin, merkinnät on hyvä tehdä yleistajuisessa muodossa.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Palautteen hyödyntäminen&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Kun olet luonut prototyypin ja suorittanut testit, sinulla on enemmän todellisilta käyttäjiltä saatua tietoa tuotteestasi tai palvelustasi. Palataksemme siihen, kuinka käsittelimme tietoa aiemmin prosessin aikana, voit pistää tärkeät kohdat tarralapuille ja nostaa ne seinälle. Tämän voi tehdä kahdella tavalla: joko niin, että jokainen haastatteluja tehnyt henkilö kirjoittaa asioita tarralapuille kertoessaan samalla kunkin käyttäjän tarinan ryhmän edessä tai niin, että haastattelija kertoo tarinan ja kuulijat voivat kirjoittaa tarralapuille kuullessaan mielenkiintoisia pointteja.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Lisäksi on tärkeää pitää kirjaa datapisteistä, joita olet erityisesti testannut, jotta voidaan ymmärtää, kuinka monen ihmisen mielestä pyytämiesi tehtävien suorittaminen oli helppoa, vaikeaa tai hämmentävää. Nämä harjoitukset auttavat sinua oivaltamaan asioita haastattelujen pohjalta, ja oivallukset kertovat, kuinka voit iteroida konseptiasi edelleen.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Konseptin iteroiminen&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Määritä oivallusten pohjalta ne tuotteen tai palvelun osat, joita iteroida. Oivallusten pohjalta voit myös päättää, päivitätkö prototyypin käyttötuntumaa seuraavaa prototyyppitestausta varten. Tämä voi olla hyödyllistä tai tarpeellista tai sitten ei, päätös on sinun.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Esimerkkinä tällaisesti päivityksestä voitaisiin mainita siirtyminen ensimmäisellä kierroksella käytetystä paperiprototyypistä hybridi- tai digitaaliseen prototyyppiin toisella kierroksella. Hienostuneempien prosessien kohdalla kannattaa ehkä panostaa enemmän prototyypin käyttötuntumaan lopputuotetta lähestyttäessä.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[ITERATION VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kun olet iteroinut prototyyppiäsi, on luultavasti oikea hetki järjestää vielä muutama testi varmistaaksesi, että aikaansaannoksesi todella korjasi ongelman tai ongelmat. Tämä prosessi jatkuu, kunnes olet vakuuttunut, että tarpeeksi moni voi käyttää palveluasi tai tuotettasi ilman suurempia ongelmia. Muista, että jos moni kohtaa ongelmia, tämä nostaa kustannuksiasi asiakaspalvelussa. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ole aina valmis seuraamaan todisteita – rakasta ongelmaa, älä ratkaisua!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15002">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Prototyyppien testaaminen ja iterointi</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

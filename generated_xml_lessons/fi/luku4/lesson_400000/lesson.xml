@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2000" moduleid="400000" modulename="lesson" contextid="1200000">
+  <lesson id="2000">
+    <course>5196</course>
+    <name>Miksi luoda prototyyppi?</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7000">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Miksi luoda prototyyppi?</title>
+        <contents>&lt;h3&gt;&lt;span&gt;Mikä on prototyyppi?&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Yleinen kysymys kuuluu, miten prototyyppi eroaa konseptin koevedoksesta tai pilotista? Vaikuttaa siltä, että eri toimialoilla näitä termejä voidaan käyttää vaihtokelpoisesti, mutta niillä on määritelmän mukaan eri merkitys.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Yksinkertaistaen, palvelumuotoiluprosessissa näistä kolmesta muodostuu itse asiassa pikemminkin lineaarinen prosessi, jossa lähdetään liikkeelle konseptin koevedoksesta ja siirrytään edelleen prototyyppiin ja lopuksi jonkinlaiseen pilottiin.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kun olet tehnyt tutkimusta ja tiedät asiakkaittesi tarpeet ja toiveet, voit helpommin luoda konseptin koevedoksen, eli minkä tahansa ratkaisun ensimmäisen iteroinnin. Prototyyppi on seuraava kehitysvaihe. Siinä paperille luomasi idea tai konsepti esitellään fyysisesti tai digitaalisesti. Tässä testaamista käsittelevässä moduulissa tarkastellaan ensisijaisesti konseptin koevedoksen ja prototyyppien käyttöä osana palvelumuotoiluprosessia.&lt;/span&gt;&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;﻿&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Konseptin koevedos&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Prototyyppi &lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Pilotti &lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Laajuus&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Pieni näyte konseptista&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Konseptin osan kertaluonteinen simulointi&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Jatkuva – täysi testikäyttö&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Tarkkuus&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Erittäin matala tarkkuus&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Matala tarkkuus&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Keskitason tai korkea tarkkuus&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Toiminnallisuus&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Tietyt näkökohdat – ei toimiva&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Kokeellinen – käytettävän ajan minimoiminen pikakuvakkeilla ja vastaavilla&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Toiminnallisesti valmis&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Käyttö&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Konseptin täsmentäminen&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Esittelytarkoituksiin&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Rajattu pienelle käyttäjämäärälle&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Milloin luodaan?&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Kehityssyklin alussa&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Kehityssyklin alkuvaiheessa&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Ensimmäisen lanseerauksen yhteydessä&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Syy kehittää&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Jotta nähdään, onko ideassa ylipäätään mitään järkeä&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Jotta nähdään, pitävätkö ihmiset palvelusta&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Jotta saadaan todellista käyttäjäpalautetta&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Tulos&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Jotta tiedetään, pitäisikö jatkaa ja luoda prototyyppi&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Hyödyksi ratkaistaessa epäselvyyksiä&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" rowspan="1"&gt;&lt;p&gt;&lt;span&gt;Käytetään valmistauduttaessa tuotannon laajentamiseen&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&lt;span&gt;﻿&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Arvoa prototypoinnista&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Tarkasteltaessa uusien yritysten epäonnistumisprosentteja etenkin startup-vaiheessa voidaan huomata, että niiden epäonnistumiselle on yleisiä syitä, joilla on kolme yhteistä nimittäjää – aika, raha ja markkinat. Olipa sitten kysymys siitä, että tuotteen lanseeraaminen kesti liian kauan, yritys pisti käteisvaransa sileäksi, yrityksen tarjoamalle ratkaisulle ei ollut tarvetta markkinoilla tai tuotteiden tai palveluiden hinnoittelussa tai liiketoimintamalleissa oli ongelmia, tutkimustulosten mukaan yritysten pitäisi lanseerata nopeasti, epäonnistua nopeasti ja siirtyä eteenpäin. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[REASONS FOR FAILURE VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Prototypointi on tapa testata ideoita varhaisessa vaiheessa ja edullisemmin. Usein halutaan saada hyvännäköinen tai toimivampi tuote valmiiksi ennen kuin sitä testataan markkinoilla, mutta tämä johtaa viivästyksiin ja rahan nopeampaan kulumiseen.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Viivästykset ja perfektionismi ovat sitäkin suurempi ongelma perinteisissä yrityksissä, joissa ei niinkään vallitse yrityksen ja erehdyksen ilmapiiri ja ajattelutapa, jonka mukaan epäonnistuminen on oppimista; vanhakantainen ajattelutapa on yksi suurimmista esteistä perinteisissä liiketoimintaympäristöissä.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kun testaat ideoitasi ja konseptejasi riittävän aikaisin, et ole vielä tehnyt suuria investointeja niiden kehittämiseen, mikä tarkoittaa, että aikapanostuksesi on pienempi, oppimisen aikajana lyhyempi ja saat testatun konseptin markkinoille paljon nopeammin ja vähemmällä vaivalla. Tämä säästää aikaa ja rahaa. Se myös auttaa varmistamaan, että markkinat ovat valmiita tarjoamallesi tuotteelle tai palvelulle (koska olet jo kysynyt siitä asiakkailta ja testannut sitä).&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Joskus teknologia on aivan liian kehittynyttä, jotta tarpeeksi suuri määrä ihmisiä tukisi sitä markkinoilla. Näin tapahtui Google Glasses -lasien tapauksessa. Niistä hypetettiin valtavasti, mutta lopulta yleisö ei halunnut sitä, mitä yritys oli kehittänyt. Teknologiaa ei koskaan voinut käyttää tavalla, jolla kehittäjät olisivat toivoneet, koska (suuremmat) markkinat eivät tukeneet sitä. Se ei ratkaissut ihmisten todellista ongelmaa.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Valitettavasti yritykset jatkavat usein &lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://thedecisionlab.com/biases/the-sunk-cost-fallacy&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1733348075163026&amp;amp;usg=AOvVaw3GxPT2M6m4Cl28-0C9x-6R"&gt;uponneiden kustannusten&lt;/a&gt;&lt;/span&gt;&lt;span&gt; vuoksi kehityspoluilla, jotka eivät näytä lupaavilta. Käyttäytymistieteilijä Richard Thaler määritteli 1970-luvun ja 1980-luvun taitteessa uponneiden kustannusten käsitteen. Se selittää, miksi jotkut ihmiset tekevät irrationaalisia päätöksiä ja heillä on suurempi taipumus jatkaa ponnisteluja, kun on panostettu rahaa, vaivaa tai aikaa.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Miten prototyyppiä hyödynnetään?&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Prototyypistä ei ole mitään hyötyä, jos sitä säilytetään varastossa, jossakin organisaation sisällä. Prototyyppiä on hyödynnettävä todellisten tai potentiaalisten asiakkaiden parissa, jotta saadaan käyttökelpoista palautetta. Prototyyppi auttaa ihmisiä näkemään idean selkeämmin. Sen avulla he voivat kokeilla ideaa ja nähdä, missä on vikoja tai missä määrin se ei ole järkevä tai missä tiimillä on heikkoja kohtia. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Käyttäjältä kysyttävien standardikysymysten lisäksi (käsittelemme tätä lisää jäljempänä tässä moduulissa) on hyvä pitää mielessäsi sellaisia kysymyksiä kuin: &lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Onko palvelu ymmärrettävä?&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Pitäisikö ohjeet selittää toisin?&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ymmärtävätkö käyttäjät tarkoituksen, jonka yritämme palvelullamme saavuttaa?&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span&gt;Vain prototyypin parissa tapahtuvan tosiasiallisen vuorovaikutuksen avulla voidaan vastata yhteenkään näistä isommista kysymyksistä.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Aloita matalan tarkkuuden prototyypeillä säästääksesi rahaa, säästääksesi aikaa ja tehdäksesi oikeita ratkaisuja.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15000">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Miksi luoda prototyyppi?</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

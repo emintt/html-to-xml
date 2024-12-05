@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2001" moduleid="400001" modulename="lesson" contextid="1200001">
+  <lesson id="2001">
+    <course>5196</course>
+    <name>Johdatus ideointiin</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7001">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Johdatus ideointiin</title>
+        <contents>&lt;h3&gt;&lt;span&gt;Ideoiden luominen&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;”Kyse ei ole ‘oikean’ idean keksimisestä, vaan siitä, että synnytetään mahdollisimman laaja valikoima mahdollisuuksia.”&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;— Hasso Plattner, Institute of Design (Stanford)&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Mikä on ja mikä ei ole hyödyllistä ideointia?&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Kun puhumme ideoimisesta, emme puhu vain aivoriihistä. Itse asiassa emme oikeastaan puhu aivoriihistä ollenkaan. On monia tapoja keksiä ideoita ja ideoiden osasia, joihin ei liity perinteistä aivoriiheä, eli kun istutaan pöydän ympärillä heittelemässä ideoita ryhmässä ja harjoitetaan suppeaa ”ryhmäajattelua”. Tämä prosessi on hyödytön monestakin syystä. Ei vähiten siksi, että se suosii tiettyjä persoonallisuustyyppejä toisten kustannuksella, mikä tarkoittaa, että kaikilla ei ole mahdollisuutta osallistua täysipainoisesti.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Reilu ideoiminen edellyttää kaikkien osallistumista. Mitä useammat ihmiset haluavat jakaa ideoitaan, sitä enemmän ideoita on valittavana ja sitä enemmän näkökulmia on edustettuna. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Yksi yleisimmistä ongelmista tiimien aivoriihissä on status, eli asema organisaatiossa. Mitä korkeampi asema henkilöllä on, sitä enemmän painoarvoa hänen ideallaan voi olla joissain tilanteissa. Mutta ideointisessioissa on tasapainotettava se, että paikalla on eri tasoilla työskenteleviä henkilöitä ja että ryhmän sisällä viitataan kintaalla henkilöiden asemalle yrityksessä. Se on mahdollista toteuttaa useilla tavoilla. Ensinnäkin henkilökohtaiset tittelit on jätettävä oven ulkopuolelle. Toiseksi, useimmiten ideoita tulisi tuottaa hiljaisuudessa. Kolmanneksi, kaikille annetaan samanväristä paperia ja samanlaiset kynät, jotta ideoita ei voida liittää tiettyyn henkilöön. Neljänneksi, aivoriihen aluksi todetaan avoimesti, että nimenomaan tasa-arvoisuus on yksi aivoriihen tavoitteista.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ideoinnin ei ole tarkoitus yltyä yleiseksi tappeluksi, eikä ideoiden kehittelemisessä ole voittajia. Kyse on turvallisen ympäristön luomisesta, jotta kaikki voivat osallistua täysillä. Kyse on laadultaan ja syvyydeltään sellaisten ideoiden kehittelemisestä, jotka eivät muutoin olisi mahdollisia. Tässä mielessä KAIKKI ideat ovat tervetulleita (jep, jopa hullut ideat, käyttökelvottomat ideat, pienet ideat ja suuret ideat). Tämä johtuu siitä, että koskaan ei voi tietää, mikä itse asiassa synnyttää idean, joka lopulta ratkaisee ongelman. Tässä ei ole kyse monipuolisesta – laatikon ulkopuolella – ajattelemisesta, vaan sen ymmärtämisestä, ettei mitään laatikkoa ole.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tässä ei ole kyse monipuolisesta – laatikon ulkopuolella – ajattelemisesta, vaan sen ymmärtämisestä, ettei mitään laatikkoa ole.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Ideoinnin säännöt&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Koska ideointisessiot ovat niin jännittäviä, on tärkeää pitää mielessä yleiset ideointisäännöt. Niitä tulee noudattaa, jotta ideoiminen olisi hauskaa ja tuottavaa kaikille ja jotta sillä saavutettaisiin parhaita mahdollisia tuloksia. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[RULE FOR IDEATION VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Nämä 10 sääntöä, jotka eivät ole missään erityisessä järjestyksessä, ovat tärkeitä – koska:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ole avoimin mielin&lt;/span&gt;&lt;span&gt; – Ideointisessioon tuleminen avoimin mielin on yhteistyön onnistumisen perusta. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ole positiivinen &lt;/span&gt;&lt;span&gt;– Pitää pysyä myönteisellä mielellä, jotta voi alkuun heitellä ideoita ja jatkaa niiden pohjalta rakentamista. Negatiivisuus tekee prosessista tylsää ja tuottamatonta.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ei elektroniikalle&lt;/span&gt;&lt;span&gt; – Elektroniset laitteet häiritsevät osallistujia ja estävät heitä olemasta tuottavia ja läsnä. On tärkeää, ettei huoneessa ole puhelimia ja kannettavia tietokoneita (ja online-tilassa puhelin tulee laittaa pois silmistä ja mykistää ilmoitukset).&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Osallistu&lt;/span&gt;&lt;span&gt; – Ryhmään kuuluminen ja täysillä osallistuminen on välttämätöntä kaikkien ilmapiirin vuoksi. Osallistumalla prosessiin voidaan saavuttaa mahtavia tuloksia.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kehittele ideoita&lt;/span&gt;&lt;span&gt; – Yksikään loistava idea ei ilmesty tyhjästä. Ideoita rakennetaan muiden ideoiden ja kommenttien ja palautteen pohjalta… ja ajan kanssa. Anna muiden tarttua ideaasi ja muotoilla se uudelleen entistä parempien ideoiden kehittämiseksi.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ole läsnä&lt;/span&gt;&lt;span&gt; – Ideoinnin aikana on oltava täysillä läsnä huoneessa, jotta voi ymmärtää muiden ideoita ja jatkaa niiden kehittelyä. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Unohda hierarkia &lt;/span&gt;&lt;span&gt;– Yhteistyön kannalta on elintärkeää jättää tittelit oven ulkopuolelle, niin että kaikki voivat osallistua tasavertaisesti. Kaikilla on ideoita, ja jokainen haluaa ja jokaisen pitää tulla kuulluksi.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ostopersoona ennen kaikkea&lt;/span&gt;&lt;span&gt; – On todella tärkeää pitää mielessä, miksi ja kenelle olet ideoimassa. Sillä ei ole niinkään väliä, pidätkö SINÄ ideasta, vaan tarjoaako se ostopersoonallesi hänen kaipaamansa lopputuloksen.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ei ole olemassa huonoja ideoita&lt;/span&gt;&lt;span&gt; – Ei ole olemassa huonoja ideoita. Eikä hulluja ideoita. Eikä typeriä ideoita. Kun ideointi alkaa, kaikki ideat ovat tervetulleita (ja niitä tarvitaan). Nauraminen voi auttaa lievittämään jännitystä ja parantamaan yhteistyöilmapiiriä.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Älä editoi &lt;/span&gt;&lt;span&gt;– Kun ideointi alkaa, ideoita ei tarvitse editoida. Ideoinnin alussa on aikaa joka suunnasta tuleville ideoille, ja ideoita ja konsepteja voi tarkemmin harkita myöhemmin.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Ideoi paremmin&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;”Aivoriihi ei voi onnistua ilman, että se on suunniteltu oikein – jolloin kaikki tuntevat olonsa turvalliseksi ja itsensä kuulluiksi. Keskeinen elementti on luottamus, mikä on linjassa IDEO:n luottamuskulttuurin kanssa. Kiusaajia ja kerskureita ei suvaita.” &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;– Peter Macdonald (design lead, IDEO)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Olemme jo edellä maininneet, että status voi olla ongelma, samoin kuin tietyt persoonallisuustyypit. Tästä syystä monet ideointisession luovat hetket ovat hiljaisia. Yksinkertaisin muoto tästä on nk. brainwriting-menetelmä. Se on aivoriihen hiljainen ja inklusiivisempi versio.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Brainwriting on ideointitekniikka, jossa 5–10 minuuttia on varattu hiljaiseen, yksilölliseen ideoiden tuottamiseen. Jokaiselle osallistujalle annetaan pino tarralappuja ja kynä, ja mikä tahansa KMV-kysymystä pohtiessa mieleen juolahtava ajatus kirjoitetaan tarralapulle (yksi kerrallaan). Niitä voi joko kerätä viereensä, kunnes aika loppuu, jolloin ne kiinnitetään määrättyyn seinään, ikkunaan, tauluun tai minne tahansa, TAI osallistujat voivat kirjoittaa ja kiinnittää, kirjoittaa ja kiinnittää.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tämän menetelmän avulla jokainen saa tuotua kaikki ideansa esiin. Se voi myös suoda osallistujille tilaisuuden tehdä niin melko anonyymisti (jos kaikilla on samanväriset muistilaput ja kynät).&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Toinen ideoiden tuottamisen aikana syntyvä ongelma on ilmeisten ideoiden ylitse pääseminen. OIkeaoppisessa ideointisessiossa pureudutaan syvälle ja päästetään ensimmäiset ideat ulos mutta jatketaan sitten eteenpäin. Tästä syystä aivoriihissä ideoidaan  yleensä aikapaineen alla, mikä tarkoittaa, että osallistujilla ei ole aikaa muokata ideoita vaan ne päästetään ilmoille sellaisenaan. Ideoiden muokkaaminen ennen kuin ne nostetaan seinälle tai kirjoitetaan paperille on ongelmallista, koska kun aikaa on runsaasti, ihmiset ovat yleensä vähemmän halukkaita ottamaan riskejä ideoiden suhteen.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Yksi tällaisista harjoituksista on nimeltään ”crazy eights” tai 8 x 8, jossa keksitään 8 ideaa 8 minuutissa (tai vaihtoehtoisesti 10 x 10 tai 6 x 6). Fasilitaattori päättää, kuinka monta minuuttia ideointiin käytetään. Valitaanpa kuinka monta minuuutia tahansa, ensimmäinen numero viittaa ideoiden määrään, joka jokaisen osallistujan on keksittävä, ja toinen numero minuuttimäärään, joka jokaisella on kaikkien näiden ideoiden tuottamiseen. Yleensä harjoitus tehdään kuvamuodossa (kuvien, jotka selitetään ryhmälle myöhemmin), mutta ideat voidaan kuvata myös sanoin. Yleensä kuvaan kuitenkin mahtuu enemmän kuin sanoihin, kun aika on rajallinen. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Piirtäminen on myös tapa selittää idea selkeämmin, koska sanat voivat hämmentää, tarkoittavathan ne eri asioita eri ihmisille. Ihminen, kuten asiakasmatkan yhteydessä mainittiin, on monin tavoin visuaalinen, ja uudet ideat ovat täydellinen tapa hyödyntää tätä tarinankerrontamuotoa.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Loistava ideoinnin lähde: &lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://gamestorming.com/&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1733346334889129&amp;amp;usg=AOvVaw38w0tNq9U2dV0Wd6IYEm54"&gt;Gamestorming: A toolkit for innovators, rule-breakers&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15001">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Johdatus ideointiin</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

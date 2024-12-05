@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2000" moduleid="400000" modulename="lesson" contextid="1200000">
+  <lesson id="2000">
+    <course>5196</course>
+    <name>Oikean ongelman löytäminen</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7000">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Oikean ongelman löytäminen</title>
+        <contents>&lt;h3&gt;&lt;span&gt;Miksi et luultavasti tiedä todellista ongelmaa?&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Perinteisissä ongelmanratkaisumenetelmissä on normaalia tehdä hätiköityjä oletuksia ongelman tai ongelmien olemassaolosta. Näin tapahtuu, kun joku ilmoittaa, että on olemassa ongelma ja sen ratkaisemiseksi pitäisi järjestää aivoriihi. Kun yritetään ratkaista todellisia ongelmia, aivoriihiin ryntääminen vain yrityksen sisäisen tiimin kanssa ei kuitenkaan ole kovin hyödyllistä.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Jokaisella työntekijällä on siivu asiakkaan kokemuksesta tai tarinasta kerrottavanaan joko suoran kontaktin tai toisen käden tiedon kautta. Tämä ei kuitenkaan ole luotettava lähtökohta ongelmanratkaisulle. Jokaisella on hallussaan vain pala isompaa palapeliä. Oletus voi olla oikea yhden palan osalta, mutta kun se laitetaan isompaan kontekstiin, se ei enää vastaa oikeaa, ratkaistavaa ongelmaa.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://hbr.org/2012/09/are-you-solving-the-right-problem&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1733346334874767&amp;amp;usg=AOvVaw2T6Vs8_q5wrUEoYYroLZ4V"&gt;Todellisten ongelmien&lt;/a&gt;&lt;/span&gt;&lt;span&gt; ymmärtäminen vie aikaa. Tekemällä hätiköityjä ratkaisuja liian aikaisin saatat päätyä ratkaisemaan jotain, mikä on oire suuremmasta ongelmasta eikä suinkaan ongelma itsessään. Ratkaisemalla väärän ongelman organisaatio saattaa myös tuhlata resursseja tai menettää muita tilaisuuksia.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Kun auttaminen ei auta&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Yksi suurimmista ideoinnin ongelmista on, että ihmiset aidosti haluavat auttaa. Kysyt ehkä, että miksi se on ongelma? No, se on ongelma, koska sillä on taipumus saada ihmiset hosumaan yrittäessään ratkaista ongelman vain käytettävissä olevilla palapelin pienillä osasilla tietämättä missä kulma- tai reunapalat ovat. Tarvitaan ymmärrettävä runko, jonka puitteissa noudatetaan tiettyjä prosesseja. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ilman palvelumuotoiluprosessia edeltävää asiakastutkimusta ei ole mahdollista määrittää, mikä on oikea ongelma ratkaistavaksi. Tästä syystä palvelumuotoiluprosessin ensimmäistä osaa kutsutaan toisinaan vaiheeksi, jossa ”tehdään oikeita asioita”. Asianmukainen tutkimus ja oivallusten kiteyttäminen johtaa lopulta puoliskoon, jossa ”tehdään asioita oikein”, eli varmistetaan, että ongelma ratkaistaan parhaalla ja mahdollisimman vaikuttavalla tavalla.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Tehdään oikeita asioita&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;[DOUBLE DIAMOND VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Luvuissa 1 ja 2 esiteltiin, miten tehdään asiakastutkimusta ja miten määritellään ja luodaan yksi tai useampi osto- tai ostajapersoona. Niissä selostettiin, että kullakin ostopersoonalla on oma asiakasmatkansa ja että sen pohjalta on mahdollista tunnistaa asiakkaan tunnematkan heikkoja kohtia. Ne ovat potentiaalisia ongelmia, joita voimme pyrkiä ratkaisemaan. Matkakartan tasosta riippuen se kertoo meille, kuinka täsmällinen tai yleinen ongelma on. Jos matkakartta on laadittu melko yleisellä tasolla, eli tasolla 1 tai 2, olisi hyödyllistä pureutua syvemmälle tasolle asiakasmatkan ongelmallisessa osassa.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Toisen luvun esimerkissä, jossa asiakkaan oli vaikea saada yhteyttä asiakaspalveluun, matkakartan tason pohjalta ei ollut tiedossa, mikä osa prosessista oli ongelmallinen. Tieto nousi mahdollisesti esille asiakastutkimuksessa, joten on tärkeää käydä tutkimusaineistoa uudelleen läpi ja kartoittaa palvelu tarkemmin: Onko ongelma esimerkiksi puhelinnumeron löytämisessä, liian pitkissä odotusajoissa tai puheluiden yhdistämisessä eri ihmisille. Se ei ole ilman muuta selvää.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kun on vahvistunut, että yrityksellä on todellinen ongelma ratkaistavana, on tärkeää varmistaa, että se ratkaistaan oikealla tavalla. Tämä johtaa meidät toiseen vaiheeseen, jossa ”tehdään asioita oikein”.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Tehdään asioita oikein&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;[DOUBLE DIAMOND VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kun tutkimus on tehty ja korjattavat ongelmat on tunnistettu ja rajattu yhteen tai kahteen, on aika ryhtyä käsittelemään ongelmaa. Tätä tarkoitusta varten ongelma on jalostettava kysymyksen muotoon. Kysymyksen, joka ei ole liian suppea eikä liian laaja ja johon on löydettävissä vastaus. Tämä kysymys on perusta sille, että voi ”tehdä asiat oikein”.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ongelma on jalostettava sellaisen kysymyksen muotoon, johon on löydettävissä vastaus.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Kuinka me voisimme luoda kysymyksen, johon voi vastata toiminnalla?&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Tämän osion alaotsikko antaa vihjeen siitä, kuinka luoda kysymys, johon me haluamme vastata toiminnalla. Tällaiset kysymykset alkavat aina sanoilla ”kuinka me voisimme” ja niitä kutsutaankin ”kuinka me voisimme” -kysymyksiksi – tai lyhyesti KMV- tai HMW-kysymyksiksi (englannin sanoista &lt;/span&gt;&lt;span&gt;How Might We&lt;/span&gt;&lt;span&gt;). &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Syy sanojen ”kuinka me voisimme” tai ”How Might We” valinnalle on yksinkertainen.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kuinka&lt;/span&gt;&lt;span&gt;-kysymyssana saa kyseenalaistamaan, myöntää ongelman olemassaolon, on ratkaisukeskeinen ja avoin.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Me-&lt;/span&gt;&lt;span&gt;pronomini kertoo meille, että kyse on yhteistyöstä ja että vastausta ei ole vain yhdellä henkilöllä.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Voisimme&lt;/span&gt;&lt;span&gt;-verbi hyväksyy ja rohkaisee monia erilaisia ideoita ja kannustaa optimismiin, että ne voidaan toteuttaa.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;”Kuinka me voisimme” -kysymyksen anatomia on tärkeä, koska kyse on tiimityöstä. Mikään idea tai ratkaisu ei ilmesty tyhjästä. Kun yhdistetään tutkimuksen tuoma tietämys ja tiimin ja prosessia ohjaavan henkilön kokemus, tuloksena on hyvinkin rakentava ideointisessio.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Kultakutri-ongelma&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Annettaessa ”kuinka me voisimme” -kysymysten johdatella ideointia, täytyy välttää Kultakutri-ongelmaa – muistathan: ei liian suuri, eikä liian pieni vaan juuri sopiva…&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kun ongelmallinen kysymys on liian laaja, ongelma ei ole ratkaistavissa käytettävissä olevan ajan ja resurssien puitteissa. Kun ongelma on liian suppea, ratkaisu on yleensä ilmeinen.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Stanford d.school -muotoiluoppilaitoksella on &lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://dschool.stanford.edu/resources/how-might-we-questions&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1733346334879161&amp;amp;usg=AOvVaw3ihRf9nCdbjzWeepV4ZTQ-"&gt;hieno jäätelöesimerkki&lt;/a&gt;&lt;/span&gt;&lt;span&gt; tasapainottelusta Kultakutri-ongelman kanssa. Alla oleva visuaalinen esitys antaa kuvan asteikosta ja tasapainosta: &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[HMW QUESTION VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tässä esimerkissä voi nähdä, että ensimmäinen ”kuinka me voisimme” -kysymys on liian suppea, koska ratkaisuehdotus on ilmeinen ja piilee jonkinlaisessa kartiossa. Teknisesti ottaen, jos haluaisimme edetä tätä reittiä, voisimme pukea KMV-kysymyksen muotoon ”kuinka me voisimme luoda jäätelön syömiskokemuksen, josta ei seuraa sotkua?” On pidettävä mielessä, että ei ole YHTÄ oikeaa kysymystä. Toimivia kysymyksiä voi olla monia. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Viimeinen esimerkki eli ”kuinka me voisimme muotoilla jälkiruoan uudelleen”, on yksinkertaisesti liian laaja. Tähän kysymykseen ei ole edes mahdollista vastata. Ensinnäkin, jälkiruoka-termi merkitsee eri asioita eri ihmisille ja/tai eri kulttuureissa. Toiseksi, suunnitella jälkiruoka uudelleen? Minkä pohjalta? Se on mahdotonta.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Keskimmäisessä kysymyksessä on oikeassa suhteessa uteliaisuutta, haastetta ja mahdollisuuksia. Se on kysymys, joka mahdollistaa monia erilaisia vastauksia ja ratkaisuja. Ennen kuin päätämme myöhemmin luoda prototyypin yhdestä, kahdesta tai kolmesta vaihtoehdosta, on mahdollista tutkia monia eri vaihtoehtoja. Se tarkoittaa, että kaikki vaihtoehdot ovat pöydällä, mikä on samalla esimerkki siitä, miksi meidän pitäisi, kuten sanonta kuuluu, ”rakastaa ongelmaa, ei ratkaisua”.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kunhan vain rakastat ongelmaa (eli pohjimmiltaan KMV-kysymyksiä), olet avoin kaikille ratkaisuille miltä tahansa suunnalta. Ratkaisu ei välttämättä tule huoneen äänekkäimmältä tai korkea-arvoisimmalta henkilöltä. Se ei todennäköisesti tule yhdeltä ihmiseltä ollenkaan. Erinomaiset ratkaisut eivät synny valmiina, ne ovat yhdistelmä ideoita, palautetta, iteraatioita ja yhteistyötä.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Erinomaiset ratkaisut eivät synny valmiina, ne ovat yhdistelmä ideoita, palautetta, iteraatioita ja yhteistyötä.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15000">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Oikean ongelman löytäminen</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

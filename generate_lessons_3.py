@@ -157,8 +157,8 @@ for i, lesson in enumerate(lessons):
         contents = re.sub(r'\s*style="[^"]*"', '', contents)
 
     # Delcare a new path for outputs
-    new_path = "outputs\\for-many-lessons\\lesson_{0}".format(module_id)
-    #new_path =
+    #new_path = "outputs\\for-many-lessons\\lesson_{0}".format(module_id)
+    new_path = os.path.join(OUTPUT_FOLDER, f"lesson_{module_id}")
 
 
      # Check if the specified path exists, create it if it doesn't

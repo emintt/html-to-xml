@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2003" moduleid="400003" modulename="lesson" contextid="1200003">
+  <lesson id="2003">
+    <course>5196</course>
+    <name>Ostopersoonien rakentaminen</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7003">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Ostopersoonien rakentaminen</title>
+        <contents>&lt;h3&gt;&lt;span&gt;Mikä on ostopersoona?&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Ostopersoona tai ostajapersoona on fiktiivinen esitys tietystä ihmisryhmästä. Se ei ole yhtä kuin tietty tuntemasi henkilö, eikä se perustu yhteen todelliseen henkilöön vaan kokonaiseen ihmisjoukkoon, jota yrität kuvailla. Yritykselle tai organisaatiolle luodaan tavallisesti useampi kuin yksi ostopersoona, koska yrityksellä tai organisaatiolla on yleensä useampi kuin yksi käyttäjä- tai asiakastyyppi. Jokaista yrityksen palvelemaa ryhmää varten tarvitaan oma ostopersoonansa.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ostopersoonat eivät edusta tiettyä väestöryhmää (kuten muilla toimialoilla oli tapana aiemmin ja on vielä nykyisinkin), vaan ne kuvaavat asiakkaiden tiettyjä käyttäytymismalleja ja käyttäytymistä ohjaavia tai motivoivia tekijöitä. Perinteisesti ostopersoonia erottavat tekijät (esim. ikä, tulot, sukupuoli tai postinumero) ovat monien ostopersoonien kohdalla vanhentumassa. Tämä johtuu siitä, että palveluiden ja tuotteiden yleistyessä ja yksilöllistyessä asiakkaita erottavista tekijöistä tulee paljon vähemmän merkityksellisiä ja ihmisten toimista ja aikomuksista suuntaa antavia. Ostopersoonien luominen sen perusteella, mikä ihmisiä motivoi voi lopulta olla paljon merkityksellisempää sekä asiakkaalle että yritykselle.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ostopersoonat tulee luoda tutkimusvaiheessa kerättyjen tietojen ja oivallusten pohjalta, eikä missään vaiheessa pitäisi ryhtyä arvailemaan.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ostopersoonien luomisen tarkoitus on herättää empatiaa tiimin sisällä ja kannustaa tiimiläisiä luomaan parempia tuotteita, palveluita ja/tai prosesseja. Yksi asiakastutkimuksen eduista minkä tahansa projektin alussa on, että sen avulla päästään tutustumaan niin monen yrityksen kannalta olennaisen ihmisen ajatuksiin ja tunteisiin. Ostopersoonien rakentaminen pitäisi aloittaa tämän tiedon pohjalta, eikä olettamusten ja stereotypioiden pitäisi antaa pujahtaa niihin.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Jos ostopersoonat luodaan oikein ja niiden luomisessa käytetään joitakin demografisia tietoja (mutta niitä ei luoda yksinomaan niiden perusteella), ne on helpompi muistaa ja ottaa huomioon, kun tulee aika hyödyntää niitä liiketoiminnassa.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Kuinka määritellä yrityksen ostopersoonat?&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Ostopersoonia voi luoda työpajaympäristössä yhdessä muun tiimin kanssa. Oivallinen hetki tehdä niin on joko tutkimusdatan esittelyn yhteydessä tai hyvin pian sen jälkeen. Puhuessamme työpajassa ihmisistä, joista olemme keränneet dataa – tai joiden kanssa olemme keränneet dataa –, voimme alkaa tehdä muistiinpanoja heidän kanssaan tai heidän lähellään viettämästämme ajasta. Millaista heidän kehonkielensä oli? Millaisia sanoja ja lainauksia he käyttivät (jotka merkittiin muistiin)? Mitä he mainitsivat haasteistaan tai motiiveistaan? Kerätyn datan pohjalta on lukuisia tapoja nostaa esiin tutkittavien erilaisia piirteitä.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kun kaikki henkilökohtaiset tiedot on merkitty muistilapuille, on aika tehdä uusi ryhmittelyharjoitus. Tällä kertaa etsitään yhteisiä käyttäytymismalleja ja käyttäytymistä ohjaavia tai motivoivia tekijöitä. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ben Ralph antaa vuonna 2017 ilmestyneessä artikkelissaan &lt;/span&gt;&lt;span&gt;&lt;a href="https://www.google.com/url?q=https://medium.com/beakerandflint/personas-74c4e1c12ee2&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1733332142738629&amp;amp;usg=AOvVaw0ZBQnqe5CvV4iccRyNcS78"&gt;Creating Personas&lt;/a&gt;&lt;/span&gt;&lt;span&gt; loistavan esimerkin ihmisten ryhmittelemisestä motivaatiotekijöiden perusteella. Hän käyttää yksinkertaista esimerkkiä pankille laaditusta tulevaisuuden skenaariosta. Pankilla on hyvin monia erilaisia asiakkaita – ja ostopersoonia –, joten pankin tapauksessa olisi hyödyllistä jakaa ostopersoonat asiakkaiden käyttämien palvelujen mukaan. Se tarkoittaa, että vaikka pankille kaiken kaikkiaan laaditaan paljon erilaisia ostopersoonia, jokaista palvelua kohti niitä on ehkä vain viisi tai kuusi. Asuntolainaosaston asiakkaina on monenlaisia ihmisiä, jotka haluavat ostaa asunnon, mutta asiakkaiden määritelmänä se on liian laaja. Sen sijaan asuntolainaosastolle laaditut ostopersoonat määrittelevät markkinoinnissa käytettävän sävyn, sanat ja visuaaliset ominaisuudet. Ostopersoonat myös auttavat pankkia päättämään, mihin asiakkaisiin markkinointiviestintä kohdistetaan ja ketkä jätetään kokonaan pois laskuista. Tästä syystä on tärkeää tuntea asiakkaat perinpohjaisesti.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kun ryhmittely on tehty, tehtäväksi jää tunnistaa ihmisiä yhdistävä ”punainen lanka”. Se auttaa nimeämään ”ostopersoonamatriisin” akselit.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ostopersoonamatriisi on kaavio, jonka puitteissa voi vertailla kahta erilaista motivaattoria ja jonka luokitukset ovat ominaisia vertailtaville ihmisille.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Esimerkiksi, palvelujen suunnittelu pakolaisille saattaa edellyttää heidän koulutustasonsa ja kielitaitonsa vertailemista.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tuotteen suunnittelu matkustajille saattaa edellyttää budjetin ja riskinottotason vertailemista.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Pankin asuntolainaosaston asiakkaiden kohdalla matriisin luokitukset voisivat olla, kuinka nopeasti he haluavat ostaa asunnon ja kuinka paljon rahaa heillä on käytettävissään. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kun olet tunnistanut akselit, joita haluat käyttää (tämä voi vaatia jonkin verran testausta ja eri luokittelujen kokeilemista), voit alkaa vertailemaan tunnistamiasi ryhmiä. Katso esimerkkikuva tästä:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[PERSONAS FOR A BANK VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Pankkiesimerkki: 5 identifioitua ostopersoonaa&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Suunnittelijat: &lt;/span&gt;&lt;span&gt;Tämä ryhmä haluaa ostaa asunnon pidemmällä tulevaisuudessa, ja sillä on suhteellisen korkeat tulot.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Uusi perhe&lt;/span&gt;&lt;span&gt;: Tämä ryhmä haluaa ostaa asunnon ennemmin tai myöhemmin, mutta se on keskituloisempi.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Investoijat:&lt;/span&gt;&lt;span&gt; Tämä ryhmä haluaa asunnon heti, ja sillä on korkeat tulot.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Säästäjät&lt;/span&gt;&lt;span&gt;: Tämä ryhmä haluaa ostaa asunnon pidemmällä tulevaisuudessa. ja sen tulot ovat pienemmät.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Unelmoijat&lt;/span&gt;&lt;span&gt;: Tämä ryhmä haluaa ostaa asunnon melko pian, mutta sen tulot ovat melko pienet.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kuten näemme, näiden viiden ostopersoonan avulla pankki voi nyt päättää, haluaako se todella käyttää resurssejaan houkutellakseen heidät asiakkaikseen. Yllä esitettyjen tietojen perusteella voisimme vetää sen johtopäätökseen, että Unelmoijat ei ole luokka, jota pankki tavoittelee asiakkaakseen. Sijoitusta edeltävän ajan lyhyyden ja tulojen puutteen yhdistelmä tekee heistä pankin näkökulmasta riskiryhmän (mistä kertoo osaltaan myös se, että pankki nimesi tämän ryhmän ”unelmoijiksi”). Näiden ostopersoonien pohjalta pankki voi liiketoiminnan näkökulmasta määrittää, miten on paras käyttää rajallinen markkinointiin ja palvelujen tarjoamiseen investoitavissa oleva raha ja keneen se kohdistetaan.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Ostopersoonan osatekijät&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Kun olet päättänyt, mitä mahdollisia ostopersoonia toimintaympäristössäsi on ja mitä niistä yrityksesi tavoittelee asiakkaina, on aika luoda jokaiselle ryhmälle oma kuvaava ostopersoonansa.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Sen voi tehdä täyttämällä ostopersoonamallin. Saatavilla on monia ostopersoonapohjia, ja niitä voi löytää googlettamalla. Voit myös käyttää tätä kurssia varten luotua pohjaa. Ostopersoona on yksisivuinen briiffi kuvaavasta, kuvitteellisesta henkilöstä. Siihen tulee sisältyä henkilön nimi, ikä, ammatti, mahdollisesti elämäntilanne (esim. vanhempi, iäkkäiden vanhempien hoitaminen, työntekijä tai yrittäjä) ja hänen kokemuksiaan kuvaava lainaus.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Lisäksi malli sisältää tärkeää tietoa ostopersoonan tavoitteista, haasteista, motiiveista, arvoista, tarpeista, kiinnostuksen kohteista ja mieltymyksistä. Kurssiaineistoon sisältyvän ostopersoonapohjan jokaisessa osiossa on kehotteita, jotta tiedät, mitä siihen tulisi sisällyttää. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[PERSONA VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Ostopersoonat käytännön työssä&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Ostopersoonan arvo&lt;/span&gt;&lt;/h5&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Asiakkaiden ongelmat ja tavoitteet ovat nähtävissä yhdellä silmäyksellä.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Työtoverit pääsevät nopeasti kartalle siitä, ketä he palvelevat ja mitä asiakkaat haluavat.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Asiakkaan syvällinen ymmärtäminen herättää empatiaa, mikä on hyvä lähtökohta minkä tahansa tuotteen tai palvelun kehittämiselle.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ostopersoonat voivat auttaa tunnistamaan, keitä haluat ja keitä et halua asiakkaiksi (joskus tietyt ryhmät eivät ole aivan valmiita ratkaisuasi silmällä pitäen tai se, että auttaisit heidät sen piiriin tulisi liian kalliiksi).&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ostopersoonat auttavat tunnistamaan, mitä sanoja, lauseita ja sävyjä markkinoinnin, myynnin ja tukifunktioiden tulisi valita viestiessään asiakkaan kanssa.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span&gt;Yksi ostopersoonien tärkeimmistä hyödyistä on, että se pitää asiakkaan päätöksenteon keskipisteessä.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kun pidät mielessä, että tämä henkilö luottaa yritykseen, jotta se auttaisi häntä saavuttamaan tavoitteensa ja välttämään turhautumista ja kipupisteitä, ja palautat hänet toistuvasti mieleen prosessin aikana, tuotteesi tai palvelusi laatu paranee.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kun käydään sisäisiä keskusteluja palvelujen ominaisuuksista ja prosesseista, ostopersoonalle tai ostopersoonille tulee aina varata paikka ja heihin tulee viitata nimellä.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Mallipohja&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Ostopersoonamalli&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15003">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Ostopersoonien rakentaminen</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2002" moduleid="400002" modulename="lesson" contextid="1200002">
+  <lesson id="2002">
+    <course>5196</course>
+    <name>Ideoista konsepteiksi</name>
+    <intro />
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password />
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile />
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1728370096</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="7002">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1728370258</timecreated>
+        <timemodified>0</timemodified>
+        <title>Ideoista konsepteiksi</title>
+        <contents>&lt;h3&gt;&lt;span&gt;Ideoiden kokoaminen konsepteiksi&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Olemme aiemmin esitelleet pari esimerkkiä siitä, kuinka voi tuottaa suuren määrän ideoita. Se on välttämätöntä, jotta nähdään mitä erilaisia mahdollisuuksia on olemassa ja varmistetaan, että kaikki ovat voineet osallistua. Tällä oppitunnilla luodaan testattavia konsepteja ideoinnin aikana syntyneistä ideoista. Tarkastelemme myös, mikä voisi olla avuksi vaikeuksissa, joita asiakkaalle aiheutuu arvon ja ”voittojen” luomisesta.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kun haluat aloittaa ideoiden organisoimisen, sinun on palattava luvussa 2 esitellyn ryhmittelyaktiviteetin eli affiniteettidiagrammiin pariin. Tässä ryhmittelyharjoituksessa on kyse kaavojen ja teemojen havaitsemisesta ja niiden nimeämisestä. Oletuksena on, että kaikki ideat ovat jonkinlaisilla tarralapuilla ja ne on sijoitettu seinälle tai ikkunaan (tai mille tahansa suurelle, tasaiselle pinnalle). Tämä helpottaa muistilappujen ryhmittelemisessä.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Koska on kyse lajittelusta ja konseptien luomisesta, on välttämätöntä pystyä fyysisesti siirtämään ideoita eri ryhmiin. Lisäksi on mahdollista, että joudut ryhmittelemään ideat useammin kuin kerran tai yksi idea sopii useampaan kuin yhteen ryhmään. Tässä tapauksessa voit kirjoittaa saman idean toiselle tarralapulle ja sijoittaa sen toiseen ryhmään.&lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Kuka siirtää tarralappuja?&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Yksinkertainen vastaus kysymykseen on, että kaikki siirtävät niitä. Tämä on hienoa hiljaista toimintaa, joka antaa ihmisille aikaa ja tilaa pohtia, mitä ideat merkitsevät ja mikä eri ryhmien ”punainen lanka” on. Joskus voi syntyä erimielisyyttä ryhmittelemisestä, ja tästä tulisi ehdottomasti keskustella.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Koko prosessi voidaan myös käydä läpi samalla keskustellen, mutta siihen voivat vaikuttaa samat asiat kuin perinteisessä aivoriihessä, jossa äänekkäillä (tai korkea-arvoisemmilla) on enemmän sananvaltaa. Ole siis tietoinen tästä dynamiikasta.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kun ryhmittelyt on tehty, voitte alkaa konseptoimaan ideoita ja katsoa, mitkä ideat ovat parempia.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Konseptien luonnostelu&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Konseptien luonnostelu on Design sprint -menetelmä, joka auttaa konkretisoimaan ideoita. Tämän menetelmän avulla jokainen voi annettujen tietojen perusteella suunnitella konseptin, joka käy heidän järkeensä. Tänä aikana muut eivät anna palautetta, eikä kukaan edes lue tehtyjä muistiinpanoja.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Konseptien luonnosteleminen on neliosainen menetelmä, jota Knapp painottaa syvemmälle ideoihin pureutuvassa kirjassaan. Siinä luodaan katse hieman pidemmälle tulevaisuuteen, jotta voidaan nähdä kuinka tietyt näkökohdat istuvat yhteen. Se tekee ideasta vähemmän abstraktin ja konkreettisemman, ja kaikilla tiimin jäsenillä on enemmän tietoa, kun lopulta valitaan konsepti, jota lähdetään edistämään.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tässä neliosaisessa prosessissa kolme ensimmäistä osaa ovat vain konseptin kehittelijää tukevaa toimintaa, eikä mitään näistä tiedoista tai henkilökohtaisista ideoista näytetä kenellekään. Tämä harjoitus hyödyntää arvokasta yksin yhdessä työskentelyä. Voit vapaasti luonnostella mitä haluat. Tässä ei ole kyse täydellisyydentavoittelusta tai loistavista taiteilijantaidoista. Kyse on ideoiden visualisoimisesta paperille (kyllä, myös sanoja saa käyttää… tämä ei ole Pictionary®). &lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Vaihe 1 – Muistiinpanojen tekeminen (15 minuuttia)&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Tämä on yksinkertaisesti keräämiesi tietojen läpikäymistä ja mielestäsi huomionarvoisten asioiden kirjoittamista ylös. Muistiinpanot voivat kohdistua tiimisi asettamaan tavoitteeseen tai tulokseen – mahdollisesti keskeiseen suorituskykymittariin (KPI) tai vastaavaan –, mutta kaikissa ideointisessioissa ei käsitellä niitä. Muistiinpanot kattavat myös ryhmän määrittelemän ”kuinka me voisimme” -kysymyksen. Voit täyttää niin monta tyhjää A4-arkkia kuin haluat ja listata kaikki asiat, jotka koet tärkeiksi. Samalla on tärkeää kirjoittaa myös ajatuksiasi muistiin: Mitä mieleesi tulee kyseisellä hetkellä? Mitä ideoita yhdistäviä ajatuksia sinulle herää? Pidä mielessä, että tämä ei ole uusien ideoiden tai uuden tiedon synnyttämisen hetki, vaan yksinkertaisesti jo olemassa olevien asioiden kirjaamista muistiin ja mielesi virkistämistä siitä, mitä olet tähän mennessä oppinut prosessin aikana. &lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Vaihe 2 – Ideointi (20 minuuttia)&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Kakkosvaiheessa ryhdytään muodostamaan omia konsepteja ja ideoita muistiinpanojen pohjalta. Voit ympyröidä muistiinpanot, jotka pistävät silmään sellaisina, joita haluat visualisoida. Ryhdy työstämään luonnostelutaitojasi. Pukemalla muistiinpanot visuaaliseen muotoon avarrat tapaa, jolla katsot niitä ja ymmärrät ja sisäistät ne. Luonnostele nopeasti jokainen ympyröimistäsi ideoista. Ehkä kyseessä on tapahtumasarja, tulevaisuudennäkymä tai verkkosivuston näyttö. Sinulla ei tarvitse olla selkeitä ideoita, eikä sinun odoteta luovan mitään uutta.&lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Vaihe 3 – Crazy 8 -menetelmä (1 minuutti jokaista laatikkoa kohden)&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Tämä harjoitus selitettiin edellisellä oppitunnilla, mutta hieman eri tavalla ja hieman eri tarkoitusta varten. Sitä käytetään, kun halutaan synnyttää erilaisia ideoita, kun taas tässä sitä käytetään synnyttämään kahdeksan eri versiota samasta ideasta. Valitse siis vahvin ideasi, jota aloitit visualisoimaan kakkosvaiheessa, ja työstä sitä tässä harjoituksessa. Tämä menetelmä auttaa sinua pääsemään eteenpäin ensimmäisestä mieleen tulleesta ajatuksesta tai ideasta. Kyse voi olla esimerkiksi erilaisista kivijalkakaupan pohjapiirroksista tai saman verkkosivuston eri versioista. Tämä saattaa tuntua epämukavalta ja vieraalta, mikä on normaalia. Crazy 8 -menetelmän ”hullu” osuus muuten viittaa käytettävissä olevaan aikaikkunaan, eikä siihen, että ideoiden pitäisi olla hulluja! Tämä on se hetki, jolloin ideat muuttuvat realistisemmiksi ja toteuttamiskelpoisemmiksi.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kaikki nämä kolme harjoitusta ovat vain omaan käyttöösi. Sinun ei tarvitse jakaa niitä kenenkään kanssa, ne vain auttavat sinua selkiyttämään mielessäsi sitä, mitä haluat tuottaa jaettavaksi ryhmän kanssa. On aivan luonnollista, että moni kokee epämukavaksi ilmaista ajatuksiaan tällaisella visuaalisella tavalla. Etenkään bisnesmaailmassa menetelmän käyttäminen ei ole yleistä, mutta se auttaa meitä ymmärtämään ja kommunikoimaan, mitä tarkoitamme, kun asioiden kuvaaminen sanoilla voi olla monimutkaista.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Neliosaisen luonnostelun viimeinen osa on ns. ratkaisuehdotus (&lt;/span&gt;&lt;span&gt;solution sketch&lt;/span&gt;&lt;span&gt;). Tämä on se osa harjoitusta, jossa muut näkevät ja analysoivat tekemäsi ehdotuksen, joten sen on oltava ”yksityiskohtainen, harkittu ja helppotajuinen”.&lt;/span&gt;&lt;/p&gt;&lt;h4&gt;&lt;span&gt;Ratkaisuehdotus eli ”solution sketch” (45 minuuttia)&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;Tässä vaiheessa voit koota ajatuksesi selkeäksi kolmiosaiseksi tarinaksi, jotta tiimin jäsenien on helpompi ymmärtää ideasi. Nyt ilmaiset selvästi, kuinka luonnostelemasi ratkaisuehdotus toimii. Luonnos tehdään kolmelle A4-arkille (yksi konseptin jokaiselle paneelille), joita käytät samalla tavoin kuin kolmen kalvon esitystä ja kokoat ideasi selkeäksi tarinaksi.&lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;5 sääntöä luonnosteluun&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Ole yksiselitteinen&lt;/span&gt;&lt;span&gt; – Sinulla ei ole mahdollisuutta selittää tätä sanoin kenellekään, joten sen pitäisi olla melko selvää kauraa.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Ole anonyymi&lt;/span&gt;&lt;span&gt; – Älä kirjoita nimeäsi luonnokseesi (ja kaikkien tulisi käyttää samanlaisia kyniä ja paperia). Nimettömyys on elintärkeää reilun äänestämisen ja päätöksenteon kannalta.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Rumakin kelpaa&lt;/span&gt;&lt;span&gt; – Luonnoksessa saa olla tikku-ukkoja ja laatikoita ja sanoja (ei mitään hienoa), pitäen kuitenkin mielessä, että sen tulee olla yksityiskohtainen, harkittu, siisti ja loppuun asti ajateltu.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Sanoilla on väliä&lt;/span&gt;&lt;span&gt; – Jos käytät sanoja, pidä huolta, että ne ovat osuvia (vältä merkityksettömiä sanoja tai sanoja osoittavia rivejä). Harkitse tilankäyttöä tarkkaan tuodaksesi esiin, mikä konseptissa todella on tärkeää. Huomautuksia tai ylimääräisiä selityksiä voidaan lisätä, jos ne auttavat tekemään pointtisi selväksi.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Mieleenjäävä otsikko&lt;/span&gt;&lt;span&gt; – Tämä auttaa pysymään kärryillä eri ratkaisuehdotuksista, kun kaikki käyvät niitä vuorollaan läpi. Tietyn määrän jälkeen ne voivat alkaa hämärtyä, jos ne kaikki käsittelevät samaa asiaa. Toisin sanoen, tarttuva otsikko tekee konseptista myös mieleenpainuvan ja hauskan.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Nyt on hyvä hetki kerätä ideat, minkä jälkeen yksi tiimiläinen ripustaa ne seinälle. Myös ”kuinka me voisimme” -kysymys ja muut toivotut tavoitteet tai tulokset on hyvä kiinnittää seinälle ideoiden yläpuolella. Sitten on aika pitää pidempi tauko, ehkä lounas tai päättää päivä tältä erää.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;&lt;span&gt;Konseptien analysointi&lt;/span&gt;&lt;/h3&gt;&lt;h4&gt;&lt;span&gt;Konseptien jakaminen ja analysoiminen&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span&gt;”Kuinka me voisimme” -kysymyksen ja muiden toivottujen tavoitteiden tai tulosten uudelleenlukeminen tämän vaiheen alussa auttaa pitämään suuntaviivat mielessä. Jokainen tekee kierroksen ja lukee ideat ja alkaa miettiä, mikä heidän mielestään on hyvä tapa ratkaista ongelma.&lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Äänestäminen&lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Eri ideoita voi ryhtyä arvioimaan kahdella tavalla, käyttäen vain toista tai molempia.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Yksi tapa on käyttää ”pisteäänestystä”, jossa jokaiselle tiimin jäsenelle joko jaetaan arkki pieniä pyöreitä tarroja kiinnitettäväksi tai kukin piirtää huopakärkisillä kynillä pisteitä ideoihin, jotka heidän mielestään soveltuvat ongelman ratkaisuun. Pisteistä syntyy ikään kuin lämpökartta, joka osoittaa missä useimmat ihmiset ajattelevat parhaan idean tai parhaimpien ideoiden sijaitsevan.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[STORYBOARD VISUAL] &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Vaihtoehtoinen tapa – tai yksi tapa lisää – analysoida ideoita on käyttää aiemmin esiteltyä vaikuttavuuden ja työmäärän priorisointimatriisia, jolloin ideat (tai osa niistä) sijoitetaan matriisiin. Katso, mihin neljännekseen ne sijoittuvat.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[PRIORITISATION MATRIX]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Äänestämisen jälkeen luodaan katsaus eniten ääniä saaneiden ideoiden osasiin. Tässä vaiheessa voidaan käydä keskustelua: Voiko eri konseptien toimivia osia yhdistää? Onko olemassa yksi kokonainen konsepti, jonka kehittämisestä tiimi on yhtä mieltä?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tässä kohtaa on tehtävä päätös siitä, mistä luodaan prototyyppi (luku 4), jota testataan (luku 5).&lt;/span&gt;&lt;/p&gt;&lt;h5&gt;&lt;span&gt;Konseptin kuvakäsikirjoittaminen (storyboarding) &lt;/span&gt;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Kun konsepti on valittu (tai eri konseptien osaset on valittu), on aika alkaa työstää lopullisempaa konseptia. Tämä tarkoittaa, että se on tutkittava läpikotaisin, ja kuvakäsikirjoitus on siihen parhaiten soveltuva tapa.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kuvakäsikirjoituksen avulla voit alkaa yhdistellä luonnosten voittoisia osia samalla tavalla kuin edellä kolmipaneelisessa luonnoksessa, mutta yksityiskohtaisemmin ja yhtenäisemmin. Kuvakäsikirjoitus on noin 10–15 paneelin mittainen, ja se on tarinamuodossa. Tämä prosessi voi kestää parista tunnista koko iltapäivään. Siihen on hyvä käyttää niin paljon aikaa, että tiimi on lopputulokseen tyytyväinen ja sen pohjalta voidaan luoda järkevä prototyyppi.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;”Kuvakäsikirjoitus sisälsi kaikki parhaat ideamme nivoutuneena tarinaksi, jonka me kaikki ymmärsimme, ja me toivoimme, että se kävisi järkeen myös asiakkaille.”&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;– Jake Knapp&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tämä harjoitus aloitetaan piirtämällä tyhjiä kuvakäsikirjoitussoluja. Jos olet rakentamassa uuden konseptisi tarinaa – jota käytät testattavan prototyypin suunnittelussa –, voit kysyä itseltäsi seuraavanlaisia kysymyksiä: Mistä haluat asiakasmatkan alkavan? Mitä haluat saada testistä irti loppujen lopuksi? Onko kyse uuden verkkosivuston vai uuden ominaisuuden testaamisesta? Onko kyse uudesta fyysisestä tuotteesta? Uudesta toimitustavasta? Uudesta myymäläkokemuksesta? Sinun on luotava prosessia tukeva matka ja kuvakäsikirjoitus, joka ohjaa varsinaisen prototyypin rakentamista.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;[BLANK STORYBOARD VISUAL]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Käytä kuvakäsikirjoituksessa mahdollisuuksien mukaan luonnoksia, jotka ovat peräisin aikaisemmista konsepteista, jotta näet, mihin ne sopivat ja mitä yksityiskohtia puuttuu. Lisäksi on erittäin tärkeää pitää mielessä, että nyt ei ole uusien ideoiden aika. Tehtävänä on kehittää tätä ideaa, ei luoda uusia.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kuvakäsikirjoitus sisältää otsikoita ja huomioita sekä perussanoja tai -ilmauksia. Älä kirjoita konseptista pitkään. Jos se ei ole ymmärrettävä visuaalisessa muodossa, jossa on mahdollisimman vähän tekstiä, se ei ole onnistunut.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Kun kuvakäsikirjoitus on valmis, on aika siirtyä prototypointiin!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Jos konsepti ei ole ymmärrettävä visuaalisessa muodossa, jossa on mahdollisimman vähän tekstiä, se ei ole onnistunut… vielä.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="15002">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1728370258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Ideoista konsepteiksi</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>
