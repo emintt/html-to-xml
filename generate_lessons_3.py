@@ -148,13 +148,15 @@ for i, lesson in enumerate(lessons):
         # Clean up the title by removing unwanted attributes and tags
         title = re.sub(r'\s*class="[^"]*"', '', title)  # Remove class attributes
         title = re.sub(r'\s*id="[^"]*"', '', title)  # Remove id attributes
-        title = re.sub(r'Lesson \d+: ', '', title)  # Remove "Lesson x:" text
+        # title = re.sub(r'Lesson \d+: ', '', title)  # Remove "Lesson x:" text
         title = re.sub(r'<[^>]*>', '', title)  # Remove all html tags
 
         # Clean up the contents by removing unwanted attributes
         contents = re.sub(r'\s*class="[^"]*"', '', contents)
         contents = re.sub(r'\s*id="[^"]*"', '', contents)
         contents = re.sub(r'\s*style="[^"]*"', '', contents)
+
+
 
     # Delcare a new path for outputs
     #new_path = "outputs\\for-many-lessons\\lesson_{0}".format(module_id)

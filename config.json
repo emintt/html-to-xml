@@ -1,9 +1,11 @@
 {
-  "input_folder": "html-source/FinalSDSLuku5Vaikutuksentekeminen",
-  "input_file_name": "FinalSDSLuku5Vaikutuksentekeminen.html",
+  "input_folder": "html-source/Chaper4Test",
+  "input_file_name": "Chaper4Test.html",
   "section_number": 5,
-  "output_folder": "outputs/for-many-lessons",
+  "output_folder": "outputs",
+  "final_file_folder": "final_files",
   "template_folder": "templates/for-many-lessons",
+  "backup_folder_template": "extracted_mbz_template",
   "lesson_folder_template": "lesson_441530_template",
   "backup_file_template": "moodle_backup_template.xml",
   "default_ids": {
