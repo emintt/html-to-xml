@@ -3,7 +3,7 @@
   <grade_items>
     <grade_item id="90001">
       <categoryid>6994</categoryid>
-      <itemname>Pitchauksen anatomia</itemname>
+      <itemname>Another heading 1: this will be the name of another moodle lesson</itemname>
       <itemtype>mod</itemtype>
       <itemmodule>lesson</itemmodule>
       <iteminstance>2001</iteminstance>

@@ -8,11 +8,12 @@ def write_xml_with_custom_declaration(tree, file_path):
         # Write the rest of the XML content without the XML declaration
         tree.write(file, encoding="unicode")
 
-def update_xml_attributes(xml_tree, attributes):
-    root = xml_tree.getroot()
-    for key, value in attributes.items():
-        if key in root.attrib:
-            root.attrib[key] = str(value)
+def update_xml_attributes(root, attributes):
+    for tag, attr_values in attributes.items():
+        for elem in root.iter(tag):
+            for key, value in attr_values.items():
+                elem.attrib[key] = str(value)
+
 
 def update_elements_text(root, tag_values):
     for tag, value in tag_values.items():

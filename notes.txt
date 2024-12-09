@@ -47,8 +47,9 @@ Adding lessons:
                 <name>lesson_441530_userinfo</name>
                 <value>0</value>
               </setting>"
-7. Integrate files into the backup (.mbz) file:
-- Open the template backup file (.mbz) by using a program like 7-Zip.
-- Drag and drop moodle_backup.xml to root directory of the .mbz file.
-- Drag and drop lesson_{module_id} folders into activities directory within the .mbz file.
+7. Integrate files into the backup file:
+- Using the predefined moodle backup template in templates/for-many-lessons/extracted_mbz_template
+- Copy moodle_backup.xml to root directory of the .mbz file.
+- Copy lesson_{module_id} folders into activities directory within the .mbz file.
+- Compress the files into a Moodle backup (.mbz) file
 8. Import to moodle

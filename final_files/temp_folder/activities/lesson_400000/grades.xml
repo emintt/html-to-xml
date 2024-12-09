@@ -3,7 +3,7 @@
   <grade_items>
     <grade_item id="90000">
       <categoryid>6994</categoryid>
-      <itemname>Miksi me pitchaamme?</itemname>
+      <itemname>Heading 1: this will be the name of the moodle lesson</itemname>
       <itemtype>mod</itemtype>
       <itemmodule>lesson</itemmodule>
       <iteminstance>2000</iteminstance>
